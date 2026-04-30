@@ -32,7 +32,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-08-29,Owensville,0,Central (Park Hills),37
 2025-08-29,Mexico,14,Centralia,26
 2025-08-29,Kelly,14,Charleston,22
-2025-08-29,Pleasant Hope with Halfway,0,Clinton,69
+2025-08-29,"Pleasant Hope with Halfway, Marion C. Early",0,Clinton,69
 2025-08-29,Russellville,26,Cole Camp,27
 2025-08-29,Roosevelt,20,Confluence Prep Academy Charter with Grand Center Arts Charter,12
 2025-08-29,Holden,28,Crest Ridge with Chilhowee,2
@@ -53,7 +53,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-08-29,Raytown,7,Grain Valley,34
 2025-08-29,Park Hill South,51,Grandview,6
 2025-08-29,Richmond,22,Harrisonville,49
-2025-08-29,Miller Career Academy with Vashon,12,Hazelwood Central,26
+2025-08-29,"Miller Career Academy with Sumner, Vashon",12,Hazelwood Central,26
 2025-08-29,Hannibal,20,Helias Catholic,23
 2025-08-29,Montgomery County,26,Hermann,18
 2025-08-29,Marquette,14,Hickman,48
@@ -103,7 +103,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-08-29,St. James,25,Salem,6
 2025-08-29,Midway,8,Salisbury,38
 2025-08-29,Louisiana,19,Scotland County,22
-2025-08-29,East Prairie,8,Scott City,49
+2025-08-29,East Prairie,8,Scott City with Chaffee,49
 2025-08-29,Parkway West,28,Seckman,27
 2025-08-29,Sarcoxie,27,Skyline,19
 2025-08-29,Warrensburg,7,Smith-Cotton,17
@@ -121,7 +121,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-08-29,John Burroughs,0,University City,20
 2025-08-29,Monroe City,22,Valle Catholic,41
 2025-08-29,Saxony Lutheran,54,Veritas Christian Academy,18
-2025-08-29,Knob Noster with Leeton,43,Versailles,16
+2025-08-29,Knob Noster,43,Versailles,16
 2025-08-29,Lawson,20,Warsaw,27
 2025-08-29,Union,14,Washington,10
 2025-08-29,Lebanon,20,Webb City,28
@@ -152,7 +152,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-05,Fulton,12,California,6
 2025-09-05,Branson,42,Camdenton,13
 2025-09-05,Warrensburg,42,Cameron,6
-2025-09-05,Battle with Columbia Independent,0,Capital City,56
+2025-09-05,Battle,0,Capital City,56
 2025-09-05,Northeast (Kansas City),20,Carrollton,28
 2025-09-05,Malden,0,Caruthersville,61
 2025-09-05,St. Charles West,7,Central (Cape Girardeau),26
@@ -186,9 +186,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-05,Pembroke Hill,18,Holden,34
 2025-09-05,Central (Park Hills),21,Jefferson (Festus),20
 2025-09-05,Jennings,27,John Burroughs,7
-2025-09-05,Scott City,14,Kelly,16
+2025-09-05,Scott City with Chaffee,14,Kelly,16
 2025-09-05,Neosho,35,Kickapoo,13
-2025-09-05,Oak Grove,13,Knob Noster with Leeton,35
+2025-09-05,Oak Grove,13,Knob Noster,35
 2025-09-05,Richmond,26,Lafayette (St. Joseph),20
 2025-09-05,Hazelwood Central,0,Lafayette (Wildwood),49
 2025-09-05,Plattsburg,6,Lathrop,54
@@ -233,7 +233,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-05,DeSoto,31,Perryville,14
 2025-09-05,Grain Valley,23,Platte County,54
 2025-09-05,Maryville,37,Pleasant Hill,14
-2025-09-05,Willow Springs,40,Pleasant Hope with Halfway,0
+2025-09-05,Willow Springs,40,"Pleasant Hope with Halfway, Marion C. Early",0
 2025-09-05,Chaminade College Prep,14,Poplar Bluff,7
 2025-09-05,Raytown South,8,Raytown,42
 2025-09-05,Ladue Horton Watkins,40,Ritenour,39
@@ -280,14 +280,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-06,Roosevelt,6,Gateway with Soldan International Studies,51
 2025-09-06,Forsyth,14,Marionville,34
 2025-09-06,Parkway North,33,McCluer North,0
-2025-09-06,Confluence Prep Academy Charter with Grand Center Arts Charter,0,Miller Career Academy with Vashon,36
+2025-09-06,Confluence Prep Academy Charter with Grand Center Arts Charter,0,"Miller Career Academy with Sumner, Vashon",36
 2025-09-06,Duchesne,6,Priory,43
 2025-09-06,Clayton with Brentwood,7,Westminster Christian Academy,45
 2025-09-11,Logan-Rogersville,34,Parkview,12
 2025-09-11,Ft. Zumwalt East,34,University City,39
 2025-09-12,Holden,21,Adrian,0
 2025-09-12,Monett,60,Aurora,16
-2025-09-12,Helias Catholic,66,Battle with Columbia Independent,6
+2025-09-12,Helias Catholic,66,Battle,6
 2025-09-12,Crystal City,20,Bayless with Hancock,43
 2025-09-12,Lafayette (St. Joseph),15,Benton,21
 2025-09-12,Hallsville,12,Boonville,42
@@ -315,7 +315,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-12,Caruthersville,52,Duchesne,3
 2025-09-12,Lawson,65,East Buchanan,17
 2025-09-12,Father Tolton,58,East Prairie,0
-2025-09-12,Pleasant Hope with Halfway,0,El Dorado Springs,55
+2025-09-12,"Pleasant Hope with Halfway, Marion C. Early",0,El Dorado Springs,55
 2025-09-12,Owensville,8,Eldon,13
 2025-09-12,Buffalo,14,Fair Grove,28
 2025-09-12,Poplar Bluff,19,Farmington,49
@@ -345,7 +345,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-12,Doniphan,0,Kelly,14
 2025-09-12,Ste. Genevieve,29,Kennett,15
 2025-09-12,Lafayette (Wildwood),35,Kirkwood,28
-2025-09-12,St. Pius X (Festus),20,Knob Noster with Leeton,21
+2025-09-12,St. Pius X (Festus),20,Knob Noster,21
 2025-09-12,Warsaw,32,Lafayette County,0
 2025-09-12,North Platte,22,Lathrop,26
 2025-09-12,Blue Springs South,31,Lee's Summit,7
@@ -385,7 +385,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-12,Blue Springs,38,Raymore-Peculiar,21
 2025-09-12,Belton,34,Raytown,56
 2025-09-12,Ozark,33,Republic,55
-2025-09-12,Miller Career Academy with Vashon,32,Rolla,76
+2025-09-12,"Miller Career Academy with Sumner, Vashon",32,Rolla,76
 2025-09-12,Midway,6,Russellville,41
 2025-09-12,Kirksville,0,Savannah,28
 2025-09-12,Northwest (Cedar Hill),14,Seckman,49
@@ -420,7 +420,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-12,Cabool,0,Willow Springs,35
 2025-09-12,Linn,8,Windsor,59
 2025-09-12,Bowling Green,8,Wright City,34
-2025-09-13,Scott City,52,Hayti,38
+2025-09-13,Scott City with Chaffee,52,Hayti,38
 2025-09-13,Hazelwood East,36,McCluer,0
 2025-09-13,Westminster Christian Academy,13,MICDS,35
 2025-09-15,Affton,38,Principia with Whitfield,56
@@ -430,7 +430,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-18,Riverview Gardens,0,University City,49
 2025-09-18,Louisiana,14,Wright City,27
 2025-09-19,Midway,14,Adrian,12
-2025-09-19,Hickman,55,Battle with Columbia Independent,14
+2025-09-19,Hickman,55,Battle,14
 2025-09-19,Grandview,6,Belton,47
 2025-09-19,University Academy Charter with Ewing Marion Kauffman,28,Benton,6
 2025-09-19,California,0,Blair Oaks,65
@@ -511,7 +511,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-19,Hillsboro,28,North County,6
 2025-09-19,East Buchanan,27,North Platte,34
 2025-09-19,Liberty (Wentzville),48,North Point,51
-2025-09-19,Knob Noster with Leeton,43,Northeast (Kansas City),13
+2025-09-19,Knob Noster,43,Northeast (Kansas City),13
 2025-09-19,Odessa,20,Oak Grove,7
 2025-09-19,Smithville,38,Oak Park,21
 2025-09-19,Webb City,52,Ozark,35
@@ -532,7 +532,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-19,Harrisburg,0,Salisbury,36
 2025-09-19,Stockton with Sheldon,40,Sarcoxie,32
 2025-09-19,South Harrison,42,Scotland County,8
-2025-09-19,Portageville,22,Scott City,28
+2025-09-19,Portageville,22,Scott City with Chaffee,28
 2025-09-19,Mehlville,0,Seckman,53
 2025-09-19,Warsaw,61,Sherwood,0
 2025-09-19,Caruthersville,70,Sikeston,42
@@ -561,9 +561,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-19,Mountain Grove,54,Willow Springs,14
 2025-09-19,Plattsburg,14,Windsor,49
 2025-09-19,Warrenton,40,Winfield,15
-2025-09-20,Pleasant Hope with Halfway,14,Central (Kansas City),56
+2025-09-20,"Pleasant Hope with Halfway, Marion C. Early",14,Central (Kansas City),56
 2025-09-20,Normandy Collaborative,0,Jennings,57
-2025-09-20,Gateway with Soldan International Studies,44,Miller Career Academy with Vashon,0
+2025-09-20,Gateway with Soldan International Studies,44,"Miller Career Academy with Sumner, Vashon",0
 2025-09-20,Ritenour,27,Pattonville,35
 2025-09-20,St. Pius X (Festus),42,Roosevelt,0
 2025-09-20,Lift for Life Academy Charter,50,Summit Christian Academy,23
@@ -581,7 +581,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-26,Blair Oaks,55,Boonville,0
 2025-09-26,Hollister,30,Buffalo,16
 2025-09-26,Adrian,39,Butler,28
-2025-09-26,Battle with Columbia Independent,24,Camdenton,53
+2025-09-26,Battle,24,Camdenton,53
 2025-09-26,Willard,14,Carthage,59
 2025-09-26,Valle Catholic,23,Caruthersville,13
 2025-09-26,Harrisonville,14,Cassville,42
@@ -619,7 +619,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-26,Central (New Madrid County),26,Kelly,6
 2025-09-26,East Prairie,8,Kennett,46
 2025-09-26,Marshall,14,Kirksville,35
-2025-09-26,Carrollton,22,Knob Noster with Leeton,55
+2025-09-26,Carrollton,22,Knob Noster,55
 2025-09-26,Pattonville,0,Lafayette (Wildwood),35
 2025-09-26,Lee's Summit West,15,Lee's Summit,33
 2025-09-26,Central (St. Joseph),21,Liberty,63
@@ -629,7 +629,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-26,West Plains,55,Logan-Rogersville,41
 2025-09-26,Bowling Green,45,Louisiana,23
 2025-09-26,Lutheran South,7,Lutheran North,57
-2025-09-26,Miller Career Academy with Vashon,38,Lutheran St. Charles,24
+2025-09-26,"Miller Career Academy with Sumner, Vashon",38,Lutheran St. Charles,24
 2025-09-26,Maysville with Winston,0,Marceline,25
 2025-09-26,Diamond,0,Marionville,63
 2025-09-26,Wright City,41,Mark Twain,20
@@ -665,7 +665,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-26,Belton,14,Platte County,69
 2025-09-26,West Platte,62,Plattsburg,14
 2025-09-26,Warrensburg,38,Pleasant Hill,7
-2025-09-26,Sherwood,38,Pleasant Hope with Halfway,0
+2025-09-26,Sherwood,38,"Pleasant Hope with Halfway, Marion C. Early",0
 2025-09-26,Jackson,69,Poplar Bluff,7
 2025-09-26,Charleston,18,Portageville,27
 2025-09-26,Brookfield,16,Putnam County,29
@@ -676,7 +676,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-26,Raytown,49,Ruskin,8
 2025-09-26,Benton,18,Savannah,56
 2025-09-26,Salisbury,44,Scotland County,8
-2025-09-26,Malden,6,Scott City,48
+2025-09-26,Malden,6,Scott City with Chaffee,48
 2025-09-26,Aurora,7,Seneca,57
 2025-09-26,Farmington,42,Sikeston,6
 2025-09-26,Pierce City,54,Skyline,28
@@ -733,7 +733,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-03,Rock Bridge,63,Camdenton,7
 2025-10-03,Savannah,47,Cameron,6
 2025-10-03,Richmond,49,Carrollton,0
-2025-10-03,Scott City,10,Caruthersville,21
+2025-10-03,Scott City with Chaffee,10,Caruthersville,21
 2025-10-03,Mt. Vernon,28,Cassville,39
 2025-10-03,Oak Grove,34,Center,8
 2025-10-03,Kennett,40,Central (New Madrid County),32
@@ -779,7 +779,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-03,Ozark,28,Lebanon,56
 2025-10-03,Park Hill South,7,Lee's Summit,35
 2025-10-03,Blue Springs South,34,Lee's Summit North,7
-2025-10-03,Knob Noster with Leeton,49,Lexington,6
+2025-10-03,Knob Noster,49,Lexington,6
 2025-10-03,Staley,20,Liberty North,31
 2025-10-03,Russellville,49,Linn,12
 2025-10-03,Hillcrest,13,Logan-Rogersville,55
@@ -813,7 +813,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-03,Jefferson (Festus),0,Perryville,35
 2025-10-03,Marionville,50,Pierce City,13
 2025-10-03,Smithville,7,Platte County,49
-2025-10-03,Clinton,61,Pleasant Hope with Halfway,0
+2025-10-03,Clinton,61,"Pleasant Hope with Halfway, Marion C. Early",0
 2025-10-03,Putnam County,41,Polo,14
 2025-10-03,Sikeston,14,Poplar Bluff,21
 2025-10-03,Central (Park Hills),31,Potosi,28
@@ -827,7 +827,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-03,Westran,28,Scotland County,35
 2025-10-03,Pattonville,40,Seckman,27
 2025-10-03,Carl Junction,7,Seneca,42
-2025-10-03,Battle with Columbia Independent,0,Smith-Cotton,15
+2025-10-03,Battle,0,Smith-Cotton,15
 2025-10-03,Central (Kansas City),20,Southeast,8
 2025-10-03,St. Charles West,41,St. Charles,7
 2025-10-03,St. James,20,St. Clair,41
@@ -878,7 +878,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-10,Valle Catholic,40,Central (Park Hills),20
 2025-10-10,Park Hill,42,Central (St. Joseph),20
 2025-10-10,South Shelby,0,Centralia,42
-2025-10-10,Scott City,49,Charleston,6
+2025-10-10,Scott City with Chaffee,49,Charleston,6
 2025-10-10,Vianney,0,Christian Brothers College,55
 2025-10-10,Palmyra,82,Clark County,30
 2025-10-10,Midway,20,Cole Camp,21
@@ -913,7 +913,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-10,Grandview (Hillsboro),33,Jefferson (Festus),30
 2025-10-10,Raytown South,0,Kearney,57
 2025-10-10,Mexico,14,Kirksville,0
-2025-10-10,Lafayette County,13,Knob Noster with Leeton,41
+2025-10-10,Lafayette County,13,Knob Noster,41
 2025-10-10,Rockwood Summit,16,Ladue Horton Watkins,21
 2025-10-10,Cameron,20,Lafayette (St. Joseph),8
 2025-10-10,Monett,24,Lamar,27
@@ -937,7 +937,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-10,North Platte,24,Mid-Buchanan,56
 2025-10-10,Gallatin with Tri-County,52,Milan,15
 2025-10-10,Skyline,14,Miller,19
-2025-10-10,St. Pius X (Festus),56,Miller Career Academy with Vashon,6
+2025-10-10,St. Pius X (Festus),56,"Miller Career Academy with Sumner, Vashon",6
 2025-10-10,Hannibal,27,Moberly,0
 2025-10-10,Benton,6,Monroe City,44
 2025-10-10,Bowling Green,6,Montgomery County,42
@@ -955,13 +955,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-10,Saxony Lutheran,42,Perryville,56
 2025-10-10,Lawson,50,Plattsburg,20
 2025-10-10,Odessa,26,Pleasant Hill,21
-2025-10-10,Hogan Prep Academy Charter,42,Pleasant Hope with Halfway,0
+2025-10-10,Hogan Prep Academy Charter,42,"Pleasant Hope with Halfway, Marion C. Early",0
 2025-10-10,Pacific,20,Potosi,27
 2025-10-10,Scotland County,0,Putnam County,55
 2025-10-10,Lee's Summit,31,Raymore-Peculiar,14
 2025-10-10,Fort Osage,36,Raytown,28
 2025-10-10,Fair Grove,56,Reeds Spring,28
-2025-10-10,Battle with Columbia Independent,0,Rock Bridge,64
+2025-10-10,Battle,0,Rock Bridge,64
 2025-10-10,Lone Jack with Kingsville,28,Ruskin,45
 2025-10-10,Harrisburg,28,Russellville,44
 2025-10-10,Mountain Grove,30,Salem,6
@@ -1011,7 +1011,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-17,El Dorado Springs,13,Adrian,44
 2025-10-17,Lamar,42,Aurora,20
 2025-10-17,Cabool,7,Ava,56
-2025-10-17,Jefferson City,48,Battle with Columbia Independent,40
+2025-10-17,Jefferson City,48,Battle,40
 2025-10-17,Truman,34,Belton,48
 2025-10-17,Blue Springs South,35,Blue Springs,7
 2025-10-17,Logan-Rogersville,28,Branson,35
@@ -1061,7 +1061,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-17,Chaminade College Prep,42,Hillsboro,7
 2025-10-17,St. Charles West,50,Holt,52
 2025-10-17,Mountain Grove,46,Houston,13
-2025-10-17,Miller Career Academy with Vashon,6,Jackson,65
+2025-10-17,"Miller Career Academy with Sumner, Vashon",6,Jackson,65
 2025-10-17,Lutheran St. Charles,6,Kelly,13
 2025-10-17,Waynesville,7,Kickapoo,52
 2025-10-17,Ladue Horton Watkins,10,Kirkwood,49
@@ -1109,7 +1109,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-17,Caruthersville,48,Portageville,14
 2025-10-17,Priory,33,Principia with Whitfield,68
 2025-10-17,Neosho,14,Republic,42
-2025-10-17,Knob Noster with Leeton,14,Richmond,24
+2025-10-17,Knob Noster,14,Richmond,24
 2025-10-17,McCluer North,0,Ritenour,42
 2025-10-17,Tipton,52,Russellville,0
 2025-10-17,Hazelwood West,12,Seckman,54
@@ -1203,7 +1203,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-24,Parkway South,42,Hazelwood West,8
 2025-10-24,DeSoto,35,Herculaneum,26
 2025-10-24,Clark County,54,Highland,16
-2025-10-24,Knob Noster with Leeton,28,Holden,14
+2025-10-24,Knob Noster,28,Holden,14
 2025-10-24,University City,38,Jennings,6
 2025-10-24,Webb City,42,Joplin,28
 2025-10-24,Central (Cape Girardeau),35,Kennett,8
@@ -1261,7 +1261,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-24,Belton,44,Ruskin,0
 2025-10-24,Westran,6,Salisbury,65
 2025-10-24,Van-Far,46,Scotland County,14
-2025-10-24,Dexter,35,Scott City,3
+2025-10-24,Dexter,35,Scott City with Chaffee,3
 2025-10-24,Versailles,0,Sherwood,54
 2025-10-24,Charleston,12,Sikeston,55
 2025-10-24,Winnetonka,0,Smithville,42
@@ -1278,14 +1278,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-24,Caruthersville,9,Ste. Genevieve,30
 2025-10-24,Fair Grove,35,Strafford,7
 2025-10-24,Ft. Zumwalt North,49,Timberland,14
-2025-10-24,Battle with Columbia Independent,0,Troy Buchanan,49
+2025-10-24,Battle,0,Troy Buchanan,49
 2025-10-24,Hermann,0,Union,35
 2025-10-24,St. Pius X (Festus),7,Valle Catholic,14
 2025-10-24,Pembroke Hill,17,Van Horn,24
 2025-10-24,Winfield,26,Veritas Christian Academy,7
 2025-10-24,Oak Grove,0,Warrensburg,40
 2025-10-24,Ft. Zumwalt South,0,Warrenton,13
-2025-10-24,Pleasant Hope with Halfway,6,Warsaw,86
+2025-10-24,"Pleasant Hope with Halfway, Marion C. Early",6,Warsaw,86
 2025-10-24,Lebanon,56,Waynesville,7
 2025-10-24,Seckman,56,Webster Groves,23
 2025-10-24,Ava,77,Willow Springs,36
@@ -1318,11 +1318,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-30,Clayton with Brentwood,0,Holt,50
 2025-10-30,St. Charles,3,Orchard Farm,62
 2025-10-30,Mehlville,0,Central (Cape Girardeau),44
-2025-10-30,Miller Career Academy with Vashon,14,Webster Groves,41
+2025-10-30,"Miller Career Academy with Sumner, Vashon",14,Webster Groves,41
 2025-10-30,Parkway South,0,Rockwood Summit,43
 2025-10-30,Ruskin,0,Belton,48
 2025-10-30,Grandview,7,Smith-Cotton,48
-2025-10-30,Battle with Columbia Independent,0,Raytown,42
+2025-10-30,Battle,0,Raytown,42
 2025-10-30,William Chrisman,6,Rockhurst,42
 2025-10-30,Truman,14,Fort Osage,35
 2025-10-30,Riverview Gardens,6,Chaminade College Prep,56
@@ -1364,7 +1364,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-31,South Callaway,14,Warsaw,7
 2025-10-31,Hogan Prep Academy Charter,8,Lafayette County,51
 2025-10-31,Lone Jack with Kingsville,7,Carrollton,36
-2025-10-31,Kennett,34,Scott City,35
+2025-10-31,Kennett,34,Scott City with Chaffee,35
 2025-10-31,Doniphan,31,Potosi,63
 2025-10-31,John Burroughs,21,Herculaneum,36
 2025-10-31,University Academy Charter with Ewing Marion Kauffman,0,St. Michael the Archangel,38
@@ -1376,7 +1376,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-31,California,15,Moberly,45
 2025-10-31,Fulton,14,Southern Boone,28
 2025-10-31,Buffalo,14,Salem,20
-2025-10-31,Pleasant Hope with Halfway,0,Clever,48
+2025-10-31,"Pleasant Hope with Halfway, Marion C. Early",0,Clever,48
 2025-10-31,East Newton,21,Hollister,12
 2025-10-31,Aurora,14,Mt. Vernon,38
 2025-10-31,Ste. Genevieve,13,Normandy Collaborative,0
@@ -1440,11 +1440,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-11-07,South Callaway,12,Centralia,52
 2025-11-07,Lafayette County,21,Summit Christian Academy,30
 2025-11-07,Lexington,6,Carrollton,26
-2025-11-07,Scott City,7,Dexter,42
+2025-11-07,Scott City with Chaffee,7,Dexter,42
 2025-11-07,Potosi,35,Central (Park Hills),28
 2025-11-07,Herculaneum,8,Valle Catholic,49
 2025-11-07,Ste. Genevieve,41,Lift for Life Academy Charter,48
-2025-11-07,St. Michael the Archangel,63,Knob Noster with Leeton,21
+2025-11-07,St. Michael the Archangel,63,Knob Noster,21
 2025-11-07,Clinton,7,Boonville,39
 2025-11-07,Pembroke Hill,33,Maryville,55
 2025-11-07,Chillicothe,19,Richmond,24

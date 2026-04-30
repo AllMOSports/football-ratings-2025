@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 30, 2026 at 03:32 PM",
+  "last_updated": "April 30, 2026 at 03:39 PM",
   "league_average": 26.88,
   "teams": [
     {
@@ -774,17 +774,6 @@
     },
     {
       "ovr_rank": 71,
-      "school": "Northwest (Cedar Hill)",
-      "classification": 6,
-      "district": 1,
-      "ovr_rating": 25.12,
-      "off_rating": 14.5,
-      "off_rank": 68,
-      "def_rating": 10.63,
-      "def_rank": 87
-    },
-    {
-      "ovr_rank": 72,
       "school": "Valle Catholic",
       "classification": 3,
       "district": 2,
@@ -793,6 +782,17 @@
       "off_rank": 82,
       "def_rating": 14.98,
       "def_rank": 58
+    },
+    {
+      "ovr_rank": 72,
+      "school": "Northwest (Cedar Hill)",
+      "classification": 6,
+      "district": 1,
+      "ovr_rating": 25.12,
+      "off_rating": 14.5,
+      "off_rank": 68,
+      "def_rating": 10.63,
+      "def_rank": 87
     },
     {
       "ovr_rank": 73,
@@ -1511,9 +1511,9 @@
     },
     {
       "ovr_rank": 138,
-      "school": "Knob Noster with Leeton",
-      "classification": null,
-      "district": null,
+      "school": "Knob Noster",
+      "classification": 3,
+      "district": 7,
       "ovr_rating": 2.16,
       "off_rating": 0.43,
       "off_rank": 136,
@@ -1599,17 +1599,6 @@
     },
     {
       "ovr_rank": 146,
-      "school": "Truman",
-      "classification": 5,
-      "district": 8,
-      "ovr_rating": 0.34,
-      "off_rating": 2.18,
-      "off_rank": 126,
-      "def_rating": -1.84,
-      "def_rank": 166
-    },
-    {
-      "ovr_rank": 147,
       "school": "Richmond",
       "classification": 3,
       "district": 8,
@@ -1618,6 +1607,17 @@
       "off_rank": 133,
       "def_rating": -0.63,
       "def_rank": 162
+    },
+    {
+      "ovr_rank": 147,
+      "school": "Truman",
+      "classification": 5,
+      "district": 8,
+      "ovr_rating": 0.34,
+      "off_rating": 2.18,
+      "off_rank": 126,
+      "def_rating": -1.84,
+      "def_rank": 166
     },
     {
       "ovr_rank": 148,
@@ -1797,9 +1797,9 @@
     },
     {
       "ovr_rank": 164,
-      "school": "Battle with Columbia Independent",
-      "classification": null,
-      "district": null,
+      "school": "Battle",
+      "classification": 5,
+      "district": 7,
       "ovr_rating": -5.01,
       "off_rating": 1.32,
       "off_rank": 131,
@@ -1984,9 +1984,9 @@
     },
     {
       "ovr_rank": 181,
-      "school": "Scott City",
-      "classification": null,
-      "district": null,
+      "school": "Scott City with Chaffee",
+      "classification": 3,
+      "district": 1,
       "ovr_rating": -12.76,
       "off_rating": -5.25,
       "off_rank": 170,
@@ -2677,9 +2677,9 @@
     },
     {
       "ovr_rank": 244,
-      "school": "Miller Career Academy with Vashon",
-      "classification": null,
-      "district": null,
+      "school": "Miller Career Academy with Sumner, Vashon",
+      "classification": 5,
+      "district": 1,
       "ovr_rating": -36.63,
       "off_rating": -17.09,
       "off_rank": 231,
@@ -2710,17 +2710,6 @@
     },
     {
       "ovr_rank": 247,
-      "school": "Eldon",
-      "classification": 3,
-      "district": 4,
-      "ovr_rating": -37.12,
-      "off_rating": -18.74,
-      "off_rank": 240,
-      "def_rating": -18.38,
-      "def_rank": 253
-    },
-    {
-      "ovr_rank": 248,
       "school": "Bowling Green",
       "classification": 2,
       "district": 2,
@@ -2729,6 +2718,17 @@
       "off_rank": 223,
       "def_rating": -21.9,
       "def_rank": 264
+    },
+    {
+      "ovr_rank": 248,
+      "school": "Eldon",
+      "classification": 3,
+      "district": 4,
+      "ovr_rating": -37.12,
+      "off_rating": -18.74,
+      "off_rank": 240,
+      "def_rating": -18.38,
+      "def_rank": 253
     },
     {
       "ovr_rank": 249,
@@ -3304,9 +3304,9 @@
     },
     {
       "ovr_rank": 301,
-      "school": "Pleasant Hope with Halfway",
-      "classification": null,
-      "district": null,
+      "school": "Pleasant Hope with Halfway, Marion C. Early",
+      "classification": 3,
+      "district": 5,
       "ovr_rating": -100.32,
       "off_rating": -33.18,
       "off_rank": 282,
