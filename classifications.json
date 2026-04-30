@@ -1,0 +1,1524 @@
+{
+  "teams": [
+    {
+      "school": "Charleston",
+      "classification": 1,
+      "district": 1
+    },
+    {
+      "school": "Hayti",
+      "classification": 1,
+      "district": 1
+    },
+    {
+      "school": "Malden",
+      "classification": 1,
+      "district": 1
+    },
+    {
+      "school": "Portageville",
+      "classification": 1,
+      "district": 1
+    },
+    {
+      "school": "Saxony Lutheran",
+      "classification": 1,
+      "district": 1
+    },
+    {
+      "school": "Crystal City",
+      "classification": 1,
+      "district": 2
+    },
+    {
+      "school": "Grandview (Hillsboro)",
+      "classification": 1,
+      "district": 2
+    },
+    {
+      "school": "Louisiana",
+      "classification": 1,
+      "district": 2
+    },
+    {
+      "school": "Van-Far",
+      "classification": 1,
+      "district": 2
+    },
+    {
+      "school": "Veritas Christian Academy",
+      "classification": 1,
+      "district": 2
+    },
+    {
+      "school": "Ash Grove",
+      "classification": 1,
+      "district": 3
+    },
+    {
+      "school": "Cabool",
+      "classification": 1,
+      "district": 3
+    },
+    {
+      "school": "Marionville",
+      "classification": 1,
+      "district": 3
+    },
+    {
+      "school": "Miller",
+      "classification": 1,
+      "district": 3
+    },
+    {
+      "school": "Pierce City",
+      "classification": 1,
+      "district": 3
+    },
+    {
+      "school": "Thayer",
+      "classification": 1,
+      "district": 3
+    },
+    {
+      "school": "Cole Camp",
+      "classification": 1,
+      "district": 4
+    },
+    {
+      "school": "Linn",
+      "classification": 1,
+      "district": 4
+    },
+    {
+      "school": "Russellville",
+      "classification": 1,
+      "district": 4
+    },
+    {
+      "school": "Skyline",
+      "classification": 1,
+      "district": 4
+    },
+    {
+      "school": "Tipton",
+      "classification": 1,
+      "district": 4
+    },
+    {
+      "school": "Adrian",
+      "classification": 1,
+      "district": 5
+    },
+    {
+      "school": "Crest Ridge with Chilhowee",
+      "classification": 1,
+      "district": 5
+    },
+    {
+      "school": "Midway",
+      "classification": 1,
+      "district": 5
+    },
+    {
+      "school": "Polo",
+      "classification": 1,
+      "district": 5
+    },
+    {
+      "school": "Sherwood",
+      "classification": 1,
+      "district": 5
+    },
+    {
+      "school": "Windsor",
+      "classification": 1,
+      "district": 5
+    },
+    {
+      "school": "Gallatin with Tri-County",
+      "classification": 1,
+      "district": 6
+    },
+    {
+      "school": "Maysville with Winston",
+      "classification": 1,
+      "district": 6
+    },
+    {
+      "school": "North Platte",
+      "classification": 1,
+      "district": 6
+    },
+    {
+      "school": "Penney",
+      "classification": 1,
+      "district": 6
+    },
+    {
+      "school": "Plattsburg",
+      "classification": 1,
+      "district": 6
+    },
+    {
+      "school": "West Platte",
+      "classification": 1,
+      "district": 6
+    },
+    {
+      "school": "Fayette",
+      "classification": 1,
+      "district": 7
+    },
+    {
+      "school": "Harrisburg",
+      "classification": 1,
+      "district": 7
+    },
+    {
+      "school": "Marceline",
+      "classification": 1,
+      "district": 7
+    },
+    {
+      "school": "Salisbury",
+      "classification": 1,
+      "district": 7
+    },
+    {
+      "school": "Westran",
+      "classification": 1,
+      "district": 7
+    },
+    {
+      "school": "Highland",
+      "classification": 1,
+      "district": 8
+    },
+    {
+      "school": "Milan",
+      "classification": 1,
+      "district": 8
+    },
+    {
+      "school": "Putnam County",
+      "classification": 1,
+      "district": 8
+    },
+    {
+      "school": "Scotland County",
+      "classification": 1,
+      "district": 8
+    },
+    {
+      "school": "South Shelby",
+      "classification": 1,
+      "district": 8
+    },
+    {
+      "school": "Caruthersville",
+      "classification": 2,
+      "district": 1
+    },
+    {
+      "school": "Central (New Madrid County)",
+      "classification": 2,
+      "district": 1
+    },
+    {
+      "school": "East Prairie",
+      "classification": 2,
+      "district": 1
+    },
+    {
+      "school": "Jefferson (Festus)",
+      "classification": 2,
+      "district": 1
+    },
+    {
+      "school": "Kelly",
+      "classification": 2,
+      "district": 1
+    },
+    {
+      "school": "St. Pius X (Festus)",
+      "classification": 2,
+      "district": 1
+    },
+    {
+      "school": "St. Vincent",
+      "classification": 2,
+      "district": 1
+    },
+    {
+      "school": "Bowling Green",
+      "classification": 2,
+      "district": 2
+    },
+    {
+      "school": "Cuba",
+      "classification": 2,
+      "district": 2
+    },
+    {
+      "school": "Duchesne",
+      "classification": 2,
+      "district": 2
+    },
+    {
+      "school": "Hermann",
+      "classification": 2,
+      "district": 2
+    },
+    {
+      "school": "Montgomery County",
+      "classification": 2,
+      "district": 2
+    },
+    {
+      "school": "Priory",
+      "classification": 2,
+      "district": 2
+    },
+    {
+      "school": "Ava",
+      "classification": 2,
+      "district": 3
+    },
+    {
+      "school": "Fair Grove",
+      "classification": 2,
+      "district": 3
+    },
+    {
+      "school": "Forsyth",
+      "classification": 2,
+      "district": 3
+    },
+    {
+      "school": "Houston",
+      "classification": 2,
+      "district": 3
+    },
+    {
+      "school": "Liberty (Mountain View)",
+      "classification": 2,
+      "district": 3
+    },
+    {
+      "school": "Springfield Catholic",
+      "classification": 2,
+      "district": 3
+    },
+    {
+      "school": "Willow Springs",
+      "classification": 2,
+      "district": 3
+    },
+    {
+      "school": "Butler",
+      "classification": 2,
+      "district": 4
+    },
+    {
+      "school": "Diamond",
+      "classification": 2,
+      "district": 4
+    },
+    {
+      "school": "El Dorado Springs",
+      "classification": 2,
+      "district": 4
+    },
+    {
+      "school": "Holden",
+      "classification": 2,
+      "district": 4
+    },
+    {
+      "school": "Lamar",
+      "classification": 2,
+      "district": 4
+    },
+    {
+      "school": "Sarcoxie",
+      "classification": 2,
+      "district": 4
+    },
+    {
+      "school": "Stockton with Sheldon",
+      "classification": 2,
+      "district": 4
+    },
+    {
+      "school": "Blair Oaks",
+      "classification": 2,
+      "district": 5
+    },
+    {
+      "school": "Centralia",
+      "classification": 2,
+      "district": 5
+    },
+    {
+      "school": "Father Tolton",
+      "classification": 2,
+      "district": 5
+    },
+    {
+      "school": "North Callaway",
+      "classification": 2,
+      "district": 5
+    },
+    {
+      "school": "South Callaway",
+      "classification": 2,
+      "district": 5
+    },
+    {
+      "school": "Versailles",
+      "classification": 2,
+      "district": 5
+    },
+    {
+      "school": "Warsaw",
+      "classification": 2,
+      "district": 5
+    },
+    {
+      "school": "Carrollton",
+      "classification": 2,
+      "district": 6
+    },
+    {
+      "school": "Hogan Prep Academy Charter",
+      "classification": 2,
+      "district": 6
+    },
+    {
+      "school": "KIPP KC Legacy",
+      "classification": 2,
+      "district": 6
+    },
+    {
+      "school": "Lafayette County",
+      "classification": 2,
+      "district": 6
+    },
+    {
+      "school": "Lexington",
+      "classification": 2,
+      "district": 6
+    },
+    {
+      "school": "Lone Jack with Kingsville",
+      "classification": 2,
+      "district": 6
+    },
+    {
+      "school": "Summit Christian Academy",
+      "classification": 2,
+      "district": 6
+    },
+    {
+      "school": "Brookfield",
+      "classification": 2,
+      "district": 7
+    },
+    {
+      "school": "Clark County",
+      "classification": 2,
+      "district": 7
+    },
+    {
+      "school": "Macon",
+      "classification": 2,
+      "district": 7
+    },
+    {
+      "school": "Mark Twain",
+      "classification": 2,
+      "district": 7
+    },
+    {
+      "school": "Monroe City",
+      "classification": 2,
+      "district": 7
+    },
+    {
+      "school": "Palmyra",
+      "classification": 2,
+      "district": 7
+    },
+    {
+      "school": "Cameron",
+      "classification": 2,
+      "district": 8
+    },
+    {
+      "school": "East Buchanan",
+      "classification": 2,
+      "district": 8
+    },
+    {
+      "school": "Lathrop",
+      "classification": 2,
+      "district": 8
+    },
+    {
+      "school": "Lawson",
+      "classification": 2,
+      "district": 8
+    },
+    {
+      "school": "Mid-Buchanan",
+      "classification": 2,
+      "district": 8
+    },
+    {
+      "school": "South Harrison",
+      "classification": 2,
+      "district": 8
+    },
+    {
+      "school": "Trenton",
+      "classification": 2,
+      "district": 8
+    },
+    {
+      "school": "Central (Park Hills)",
+      "classification": 3,
+      "district": 1
+    },
+    {
+      "school": "Dexter",
+      "classification": 3,
+      "district": 1
+    },
+    {
+      "school": "Doniphan",
+      "classification": 3,
+      "district": 1
+    },
+    {
+      "school": "Fredericktown",
+      "classification": 3,
+      "district": 1
+    },
+    {
+      "school": "Kennett",
+      "classification": 3,
+      "district": 1
+    },
+    {
+      "school": "Potosi",
+      "classification": 3,
+      "district": 1
+    },
+    {
+      "school": "Scott City with Chaffee",
+      "classification": 3,
+      "district": 1
+    },
+    {
+      "school": "Herculaneum",
+      "classification": 3,
+      "district": 2
+    },
+    {
+      "school": "John Burroughs",
+      "classification": 3,
+      "district": 2
+    },
+    {
+      "school": "Lift for Life Academy Charter",
+      "classification": 3,
+      "district": 2
+    },
+    {
+      "school": "Lutheran South",
+      "classification": 3,
+      "district": 2
+    },
+    {
+      "school": "Normandy Collaborative",
+      "classification": 3,
+      "district": 2
+    },
+    {
+      "school": "Ste. Genevieve",
+      "classification": 3,
+      "district": 2
+    },
+    {
+      "school": "Valle Catholic",
+      "classification": 3,
+      "district": 2
+    },
+    {
+      "school": "Owensville",
+      "classification": 3,
+      "district": 3
+    },
+    {
+      "school": "Principia with Whitfield",
+      "classification": 3,
+      "district": 3
+    },
+    {
+      "school": "St. Charles West",
+      "classification": 3,
+      "district": 3
+    },
+    {
+      "school": "St. Clair",
+      "classification": 3,
+      "district": 3
+    },
+    {
+      "school": "St. Francis Borgia",
+      "classification": 3,
+      "district": 3
+    },
+    {
+      "school": "Winfield",
+      "classification": 3,
+      "district": 3
+    },
+    {
+      "school": "Wright City",
+      "classification": 3,
+      "district": 3
+    },
+    {
+      "school": "California",
+      "classification": 3,
+      "district": 4
+    },
+    {
+      "school": "Eldon",
+      "classification": 3,
+      "district": 4
+    },
+    {
+      "school": "Fulton",
+      "classification": 3,
+      "district": 4
+    },
+    {
+      "school": "Hallsville",
+      "classification": 3,
+      "district": 4
+    },
+    {
+      "school": "Moberly",
+      "classification": 3,
+      "district": 4
+    },
+    {
+      "school": "Osage",
+      "classification": 3,
+      "district": 4
+    },
+    {
+      "school": "Southern Boone",
+      "classification": 3,
+      "district": 4
+    },
+    {
+      "school": "Buffalo",
+      "classification": 3,
+      "district": 5
+    },
+    {
+      "school": "Clever",
+      "classification": 3,
+      "district": 5
+    },
+    {
+      "school": "Mountain Grove",
+      "classification": 3,
+      "district": 5
+    },
+    {
+      "school": "Pleasant Hope with Halfway, Marion C. Early",
+      "classification": 3,
+      "district": 5
+    },
+    {
+      "school": "Salem",
+      "classification": 3,
+      "district": 5
+    },
+    {
+      "school": "St. James",
+      "classification": 3,
+      "district": 5
+    },
+    {
+      "school": "Strafford",
+      "classification": 3,
+      "district": 5
+    },
+    {
+      "school": "Aurora",
+      "classification": 3,
+      "district": 6
+    },
+    {
+      "school": "Cassville",
+      "classification": 3,
+      "district": 6
+    },
+    {
+      "school": "East Newton",
+      "classification": 3,
+      "district": 6
+    },
+    {
+      "school": "Hollister",
+      "classification": 3,
+      "district": 6
+    },
+    {
+      "school": "Mt. Vernon",
+      "classification": 3,
+      "district": 6
+    },
+    {
+      "school": "Reeds Spring",
+      "classification": 3,
+      "district": 6
+    },
+    {
+      "school": "Seneca",
+      "classification": 3,
+      "district": 6
+    },
+    {
+      "school": "Boonville",
+      "classification": 3,
+      "district": 7
+    },
+    {
+      "school": "Center",
+      "classification": 3,
+      "district": 7
+    },
+    {
+      "school": "Clinton",
+      "classification": 3,
+      "district": 7
+    },
+    {
+      "school": "Knob Noster",
+      "classification": 3,
+      "district": 7
+    },
+    {
+      "school": "Oak Grove",
+      "classification": 3,
+      "district": 7
+    },
+    {
+      "school": "St. Michael the Archangel",
+      "classification": 3,
+      "district": 7
+    },
+    {
+      "school": "University Academy Charter with Ewing Marion Kauffman",
+      "classification": 3,
+      "district": 7
+    },
+    {
+      "school": "Central (Kansas City)",
+      "classification": 3,
+      "district": 8
+    },
+    {
+      "school": "Chillicothe",
+      "classification": 3,
+      "district": 8
+    },
+    {
+      "school": "Lafayette (St. Joseph)",
+      "classification": 3,
+      "district": 8
+    },
+    {
+      "school": "Maryville",
+      "classification": 3,
+      "district": 8
+    },
+    {
+      "school": "Pembroke Hill",
+      "classification": 3,
+      "district": 8
+    },
+    {
+      "school": "Richmond",
+      "classification": 3,
+      "district": 8
+    },
+    {
+      "school": "DeSoto",
+      "classification": 4,
+      "district": 1
+    },
+    {
+      "school": "Festus",
+      "classification": 4,
+      "district": 1
+    },
+    {
+      "school": "Hillsboro",
+      "classification": 4,
+      "district": 1
+    },
+    {
+      "school": "North County",
+      "classification": 4,
+      "district": 1
+    },
+    {
+      "school": "Perryville",
+      "classification": 4,
+      "district": 1
+    },
+    {
+      "school": "Sikeston",
+      "classification": 4,
+      "district": 1
+    },
+    {
+      "school": "Windsor (Imperial)",
+      "classification": 4,
+      "district": 1
+    },
+    {
+      "school": "Affton",
+      "classification": 4,
+      "district": 2
+    },
+    {
+      "school": "Bayless with Hancock",
+      "classification": 4,
+      "district": 2
+    },
+    {
+      "school": "Pacific",
+      "classification": 4,
+      "district": 2
+    },
+    {
+      "school": "Sullivan",
+      "classification": 4,
+      "district": 2
+    },
+    {
+      "school": "Union",
+      "classification": 4,
+      "district": 2
+    },
+    {
+      "school": "Vianney",
+      "classification": 4,
+      "district": 2
+    },
+    {
+      "school": "Westminster Christian Academy",
+      "classification": 4,
+      "district": 2
+    },
+    {
+      "school": "Confluence Prep Academy Charter with Grand Center Arts Charter",
+      "classification": 4,
+      "district": 3
+    },
+    {
+      "school": "Gateway with Soldan International Studies",
+      "classification": 4,
+      "district": 3
+    },
+    {
+      "school": "Jennings",
+      "classification": 4,
+      "district": 3
+    },
+    {
+      "school": "Lutheran North",
+      "classification": 4,
+      "district": 3
+    },
+    {
+      "school": "McCluer North",
+      "classification": 4,
+      "district": 3
+    },
+    {
+      "school": "Roosevelt",
+      "classification": 4,
+      "district": 3
+    },
+    {
+      "school": "St. Mary's South Side",
+      "classification": 4,
+      "district": 3
+    },
+    {
+      "school": "Clayton with Brentwood",
+      "classification": 4,
+      "district": 4
+    },
+    {
+      "school": "Holt",
+      "classification": 4,
+      "district": 4
+    },
+    {
+      "school": "Lutheran St. Charles",
+      "classification": 4,
+      "district": 4
+    },
+    {
+      "school": "Orchard Farm",
+      "classification": 4,
+      "district": 4
+    },
+    {
+      "school": "Parkway North",
+      "classification": 4,
+      "district": 4
+    },
+    {
+      "school": "St. Charles",
+      "classification": 4,
+      "district": 4
+    },
+    {
+      "school": "University City",
+      "classification": 4,
+      "district": 4
+    },
+    {
+      "school": "Hannibal",
+      "classification": 4,
+      "district": 5
+    },
+    {
+      "school": "Kirksville",
+      "classification": 4,
+      "district": 5
+    },
+    {
+      "school": "Marshall",
+      "classification": 4,
+      "district": 5
+    },
+    {
+      "school": "Mexico",
+      "classification": 4,
+      "district": 5
+    },
+    {
+      "school": "Odessa",
+      "classification": 4,
+      "district": 5
+    },
+    {
+      "school": "Warrenton",
+      "classification": 4,
+      "district": 5
+    },
+    {
+      "school": "Bolivar",
+      "classification": 4,
+      "district": 6
+    },
+    {
+      "school": "Carl Junction",
+      "classification": 4,
+      "district": 6
+    },
+    {
+      "school": "Logan-Rogersville",
+      "classification": 4,
+      "district": 6
+    },
+    {
+      "school": "Marshfield",
+      "classification": 4,
+      "district": 6
+    },
+    {
+      "school": "McDonald County",
+      "classification": 4,
+      "district": 6
+    },
+    {
+      "school": "Monett",
+      "classification": 4,
+      "district": 6
+    },
+    {
+      "school": "West Plains",
+      "classification": 4,
+      "district": 6
+    },
+    {
+      "school": "Harrisonville",
+      "classification": 4,
+      "district": 7
+    },
+    {
+      "school": "Lincoln College Prep",
+      "classification": 4,
+      "district": 7
+    },
+    {
+      "school": "Nevada",
+      "classification": 4,
+      "district": 7
+    },
+    {
+      "school": "Pleasant Hill",
+      "classification": 4,
+      "district": 7
+    },
+    {
+      "school": "Raytown South",
+      "classification": 4,
+      "district": 7
+    },
+    {
+      "school": "Southeast",
+      "classification": 4,
+      "district": 7
+    },
+    {
+      "school": "Warrensburg",
+      "classification": 4,
+      "district": 7
+    },
+    {
+      "school": "Benton",
+      "classification": 4,
+      "district": 8
+    },
+    {
+      "school": "Excelsior Springs",
+      "classification": 4,
+      "district": 8
+    },
+    {
+      "school": "Kearney",
+      "classification": 4,
+      "district": 8
+    },
+    {
+      "school": "Northeast (Kansas City)",
+      "classification": 4,
+      "district": 8
+    },
+    {
+      "school": "Savannah",
+      "classification": 4,
+      "district": 8
+    },
+    {
+      "school": "Smithville",
+      "classification": 4,
+      "district": 8
+    },
+    {
+      "school": "Van Horn",
+      "classification": 4,
+      "district": 8
+    },
+    {
+      "school": "Central (Cape Girardeau)",
+      "classification": 5,
+      "district": 1
+    },
+    {
+      "school": "Farmington",
+      "classification": 5,
+      "district": 1
+    },
+    {
+      "school": "Fox",
+      "classification": 5,
+      "district": 1
+    },
+    {
+      "school": "Mehlville",
+      "classification": 5,
+      "district": 1
+    },
+    {
+      "school": "Miller Career Academy with Sumner, Vashon",
+      "classification": 5,
+      "district": 1
+    },
+    {
+      "school": "Poplar Bluff",
+      "classification": 5,
+      "district": 1
+    },
+    {
+      "school": "Webster Groves",
+      "classification": 5,
+      "district": 1
+    },
+    {
+      "school": "Eureka",
+      "classification": 5,
+      "district": 2
+    },
+    {
+      "school": "Kirkwood",
+      "classification": 5,
+      "district": 2
+    },
+    {
+      "school": "Parkway South",
+      "classification": 5,
+      "district": 2
+    },
+    {
+      "school": "Rockwood Summit",
+      "classification": 5,
+      "district": 2
+    },
+    {
+      "school": "Rolla",
+      "classification": 5,
+      "district": 2
+    },
+    {
+      "school": "Washington",
+      "classification": 5,
+      "district": 2
+    },
+    {
+      "school": "Cardinal Ritter",
+      "classification": 5,
+      "district": 3
+    },
+    {
+      "school": "Chaminade College Prep",
+      "classification": 5,
+      "district": 3
+    },
+    {
+      "school": "Hazelwood East",
+      "classification": 5,
+      "district": 3
+    },
+    {
+      "school": "Ladue Horton Watkins",
+      "classification": 5,
+      "district": 3
+    },
+    {
+      "school": "McCluer",
+      "classification": 5,
+      "district": 3
+    },
+    {
+      "school": "MICDS",
+      "classification": 5,
+      "district": 3
+    },
+    {
+      "school": "Riverview Gardens",
+      "classification": 5,
+      "district": 3
+    },
+    {
+      "school": "Ft. Zumwalt East",
+      "classification": 5,
+      "district": 4
+    },
+    {
+      "school": "Ft. Zumwalt North",
+      "classification": 5,
+      "district": 4
+    },
+    {
+      "school": "Ft. Zumwalt South",
+      "classification": 5,
+      "district": 4
+    },
+    {
+      "school": "North Point",
+      "classification": 5,
+      "district": 4
+    },
+    {
+      "school": "Parkway Central",
+      "classification": 5,
+      "district": 4
+    },
+    {
+      "school": "Parkway West",
+      "classification": 5,
+      "district": 4
+    },
+    {
+      "school": "Timberland",
+      "classification": 5,
+      "district": 4
+    },
+    {
+      "school": "Camdenton",
+      "classification": 5,
+      "district": 5
+    },
+    {
+      "school": "Capital City",
+      "classification": 5,
+      "district": 5
+    },
+    {
+      "school": "Glendale",
+      "classification": 5,
+      "district": 5
+    },
+    {
+      "school": "Hillcrest",
+      "classification": 5,
+      "district": 5
+    },
+    {
+      "school": "Jefferson City",
+      "classification": 5,
+      "district": 5
+    },
+    {
+      "school": "Lebanon",
+      "classification": 5,
+      "district": 5
+    },
+    {
+      "school": "Waynesville",
+      "classification": 5,
+      "district": 5
+    },
+    {
+      "school": "Branson",
+      "classification": 5,
+      "district": 6
+    },
+    {
+      "school": "Carthage",
+      "classification": 5,
+      "district": 6
+    },
+    {
+      "school": "Neosho",
+      "classification": 5,
+      "district": 6
+    },
+    {
+      "school": "Parkview",
+      "classification": 5,
+      "district": 6
+    },
+    {
+      "school": "Republic",
+      "classification": 5,
+      "district": 6
+    },
+    {
+      "school": "Webb City",
+      "classification": 5,
+      "district": 6
+    },
+    {
+      "school": "Willard",
+      "classification": 5,
+      "district": 6
+    },
+    {
+      "school": "Battle",
+      "classification": 5,
+      "district": 7
+    },
+    {
+      "school": "Belton",
+      "classification": 5,
+      "district": 7
+    },
+    {
+      "school": "Grain Valley",
+      "classification": 5,
+      "district": 7
+    },
+    {
+      "school": "Grandview",
+      "classification": 5,
+      "district": 7
+    },
+    {
+      "school": "Raytown",
+      "classification": 5,
+      "district": 7
+    },
+    {
+      "school": "Ruskin",
+      "classification": 5,
+      "district": 7
+    },
+    {
+      "school": "Smith-Cotton",
+      "classification": 5,
+      "district": 7
+    },
+    {
+      "school": "Fort Osage",
+      "classification": 5,
+      "district": 8
+    },
+    {
+      "school": "Platte County",
+      "classification": 5,
+      "district": 8
+    },
+    {
+      "school": "Rockhurst",
+      "classification": 5,
+      "district": 8
+    },
+    {
+      "school": "St. Pius X (Kansas City)",
+      "classification": 5,
+      "district": 8
+    },
+    {
+      "school": "Truman",
+      "classification": 5,
+      "district": 8
+    },
+    {
+      "school": "William Chrisman",
+      "classification": 5,
+      "district": 8
+    },
+    {
+      "school": "Winnetonka",
+      "classification": 5,
+      "district": 8
+    },
+    {
+      "school": "Jackson",
+      "classification": 6,
+      "district": 1
+    },
+    {
+      "school": "Lindbergh",
+      "classification": 6,
+      "district": 1
+    },
+    {
+      "school": "Northwest (Cedar Hill)",
+      "classification": 6,
+      "district": 1
+    },
+    {
+      "school": "Oakville",
+      "classification": 6,
+      "district": 1
+    },
+    {
+      "school": "Seckman",
+      "classification": 6,
+      "district": 1
+    },
+    {
+      "school": "Christian Brothers College",
+      "classification": 6,
+      "district": 2
+    },
+    {
+      "school": "De Smet Jesuit",
+      "classification": 6,
+      "district": 2
+    },
+    {
+      "school": "Lafayette (Wildwood)",
+      "classification": 6,
+      "district": 2
+    },
+    {
+      "school": "Marquette",
+      "classification": 6,
+      "district": 2
+    },
+    {
+      "school": "SLUH",
+      "classification": 6,
+      "district": 2
+    },
+    {
+      "school": "Francis Howell North",
+      "classification": 6,
+      "district": 3
+    },
+    {
+      "school": "Hazelwood Central",
+      "classification": 6,
+      "district": 3
+    },
+    {
+      "school": "Hazelwood West",
+      "classification": 6,
+      "district": 3
+    },
+    {
+      "school": "Pattonville",
+      "classification": 6,
+      "district": 3
+    },
+    {
+      "school": "Ritenour",
+      "classification": 6,
+      "district": 3
+    },
+    {
+      "school": "Francis Howell Central",
+      "classification": 6,
+      "district": 4
+    },
+    {
+      "school": "Francis Howell",
+      "classification": 6,
+      "district": 4
+    },
+    {
+      "school": "Ft. Zumwalt West",
+      "classification": 6,
+      "district": 4
+    },
+    {
+      "school": "Liberty (Wentzville)",
+      "classification": 6,
+      "district": 4
+    },
+    {
+      "school": "St. Dominic",
+      "classification": 6,
+      "district": 4
+    },
+    {
+      "school": "Troy Buchanan",
+      "classification": 6,
+      "district": 4
+    },
+    {
+      "school": "Joplin",
+      "classification": 6,
+      "district": 5
+    },
+    {
+      "school": "Kickapoo",
+      "classification": 6,
+      "district": 5
+    },
+    {
+      "school": "Nixa",
+      "classification": 6,
+      "district": 5
+    },
+    {
+      "school": "Ozark",
+      "classification": 6,
+      "district": 5
+    },
+    {
+      "school": "Raymore-Peculiar",
+      "classification": 6,
+      "district": 5
+    },
+    {
+      "school": "Blue Springs",
+      "classification": 6,
+      "district": 6
+    },
+    {
+      "school": "Blue Springs South",
+      "classification": 6,
+      "district": 6
+    },
+    {
+      "school": "Helias Catholic",
+      "classification": 6,
+      "district": 6
+    },
+    {
+      "school": "Hickman",
+      "classification": 6,
+      "district": 6
+    },
+    {
+      "school": "Rock Bridge",
+      "classification": 6,
+      "district": 6
+    },
+    {
+      "school": "Lee's Summit",
+      "classification": 6,
+      "district": 7
+    },
+    {
+      "school": "Lee's Summit North",
+      "classification": 6,
+      "district": 7
+    },
+    {
+      "school": "Lee's Summit West",
+      "classification": 6,
+      "district": 7
+    },
+    {
+      "school": "North Kansas City",
+      "classification": 6,
+      "district": 7
+    },
+    {
+      "school": "Park Hill South",
+      "classification": 6,
+      "district": 7
+    },
+    {
+      "school": "Central (St. Joseph)",
+      "classification": 6,
+      "district": 8
+    },
+    {
+      "school": "Liberty",
+      "classification": 6,
+      "district": 8
+    },
+    {
+      "school": "Liberty North",
+      "classification": 6,
+      "district": 8
+    },
+    {
+      "school": "Oak Park",
+      "classification": 6,
+      "district": 8
+    },
+    {
+      "school": "Park Hill",
+      "classification": 6,
+      "district": 8
+    },
+    {
+      "school": "Staley",
+      "classification": 6,
+      "district": 8
+    }
+  ]
+}
