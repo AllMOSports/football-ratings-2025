@@ -72,7 +72,6 @@ def build_id_to_classname(team_to_class, schools_csv=SCHOOLS_CSV):
         "421": "Princeton with Mercer",
         "424": "Rich Hill with Hume",
         "431": "Salisbury",
-        "435": "Scott City",
         "443": "Skyline",
         "193": "Slater",
         "194": "Smith-Cotton",
@@ -101,11 +100,10 @@ def build_id_to_classname(team_to_class, schools_csv=SCHOOLS_CSV):
         "430": "Russellville",
         "469": "Sweet Springs with Malta Bend",
         "156": "Paris with Faith Walk, Madison",
-        "131": "Miller Career Academy with Vashon",
-        "953": "Battle with Columbia Independent",
+        "131": "Miller Career Academy with Sumner, Vashon",
         "479": "University Academy Charter with Ewing Marion Kauffman",
-        "96": "Knob Noster with Leeton",
-        "417": "Pleasant Hope with Halfway",
+        "417": "Pleasant Hope with Halfway, Marion C. Early",
+        "435": "Scott City with Chaffee",
     }
  
     df = pd.read_csv(schools_csv)
