@@ -19,15 +19,18 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pandas
+        run: pip install requests beautifulsoup4 pandas numpy
 
       - name: Run ratings script
         run: python football_ratings_2025.py
 
-      - name: Commit and push football_ratings_2025.json
+      - name: Run Strength of Record script
+        run: python compute_sor.py
+
+      - name: Commit and push updated files
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add .
-          git diff --staged --quiet || git commit -m "Update ratings $(date +'%Y-%m-%d')"
+          git diff --staged --quiet || git commit -m "Update ratings and SOR $(date +'%Y-%m-%d')"
           git push
