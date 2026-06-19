@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 30, 2026 at 03:39 PM",
+  "last_updated": "June 19, 2026 at 08:21 PM",
   "league_average": 26.88,
   "classification": 2,
   "teams": [
@@ -236,17 +236,6 @@
     },
     {
       "ovr_rank": 22,
-      "school": "South Harrison",
-      "classification": 2,
-      "district": 8,
-      "ovr_rating": -7.84,
-      "off_rating": -8.47,
-      "off_rank": 24,
-      "def_rating": 0.63,
-      "def_rank": 15
-    },
-    {
-      "ovr_rank": 23,
       "school": "Summit Christian Academy",
       "classification": 2,
       "district": 6,
@@ -255,6 +244,17 @@
       "off_rank": 21,
       "def_rating": -5.72,
       "def_rank": 23
+    },
+    {
+      "ovr_rank": 23,
+      "school": "South Harrison",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": -7.84,
+      "off_rating": -8.47,
+      "off_rank": 24,
+      "def_rating": 0.63,
+      "def_rank": 15
     },
     {
       "ovr_rank": 24,

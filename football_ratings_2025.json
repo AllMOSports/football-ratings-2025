@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 30, 2026 at 03:39 PM",
+  "last_updated": "June 19, 2026 at 08:21 PM",
   "league_average": 26.88,
   "teams": [
     {
@@ -1918,17 +1918,6 @@
     },
     {
       "ovr_rank": 175,
-      "school": "South Harrison",
-      "classification": 2,
-      "district": 8,
-      "ovr_rating": -7.84,
-      "off_rating": -8.47,
-      "off_rank": 183,
-      "def_rating": 0.63,
-      "def_rank": 152
-    },
-    {
-      "ovr_rank": 176,
       "school": "Summit Christian Academy",
       "classification": 2,
       "district": 6,
@@ -1937,6 +1926,17 @@
       "off_rank": 156,
       "def_rating": -5.72,
       "def_rank": 183
+    },
+    {
+      "ovr_rank": 176,
+      "school": "South Harrison",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": -7.84,
+      "off_rating": -8.47,
+      "off_rank": 183,
+      "def_rating": 0.63,
+      "def_rank": 152
     },
     {
       "ovr_rank": 177,
@@ -2710,17 +2710,6 @@
     },
     {
       "ovr_rank": 247,
-      "school": "Bowling Green",
-      "classification": 2,
-      "district": 2,
-      "ovr_rating": -37.12,
-      "off_rating": -15.22,
-      "off_rank": 223,
-      "def_rating": -21.9,
-      "def_rank": 264
-    },
-    {
-      "ovr_rank": 248,
       "school": "Eldon",
       "classification": 3,
       "district": 4,
@@ -2729,6 +2718,17 @@
       "off_rank": 240,
       "def_rating": -18.38,
       "def_rank": 253
+    },
+    {
+      "ovr_rank": 248,
+      "school": "Bowling Green",
+      "classification": 2,
+      "district": 2,
+      "ovr_rating": -37.12,
+      "off_rating": -15.22,
+      "off_rank": 223,
+      "def_rating": -21.9,
+      "def_rank": 264
     },
     {
       "ovr_rank": 249,

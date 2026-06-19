@@ -1,0 +1,556 @@
+{
+  "last_updated": "June 19, 2026 at 08:21 PM",
+  "classification": 5,
+  "teams": [
+    {
+      "school": "Platte County",
+      "classification": 5,
+      "district": 8,
+      "wins": 13,
+      "losses": 0,
+      "ovr_rating": 80.31,
+      "sor": 100.0,
+      "sor_rank": 1
+    },
+    {
+      "school": "Carthage",
+      "classification": 5,
+      "district": 6,
+      "wins": 12,
+      "losses": 2,
+      "ovr_rating": 69.97,
+      "sor": 97.3,
+      "sor_rank": 2
+    },
+    {
+      "school": "Republic",
+      "classification": 5,
+      "district": 6,
+      "wins": 9,
+      "losses": 3,
+      "ovr_rating": 62.1,
+      "sor": 94.5,
+      "sor_rank": 3
+    },
+    {
+      "school": "Rockhurst",
+      "classification": 5,
+      "district": 8,
+      "wins": 5,
+      "losses": 3,
+      "ovr_rating": 68.86,
+      "sor": 94.5,
+      "sor_rank": 4
+    },
+    {
+      "school": "Cardinal Ritter",
+      "classification": 5,
+      "district": 3,
+      "wins": 8,
+      "losses": 3,
+      "ovr_rating": 68.49,
+      "sor": 93.6,
+      "sor_rank": 5
+    },
+    {
+      "school": "Kirkwood",
+      "classification": 5,
+      "district": 2,
+      "wins": 11,
+      "losses": 2,
+      "ovr_rating": 55.7,
+      "sor": 91.8,
+      "sor_rank": 6
+    },
+    {
+      "school": "Webb City",
+      "classification": 5,
+      "district": 6,
+      "wins": 7,
+      "losses": 4,
+      "ovr_rating": 53.03,
+      "sor": 90.0,
+      "sor_rank": 7
+    },
+    {
+      "school": "Eureka",
+      "classification": 5,
+      "district": 2,
+      "wins": 8,
+      "losses": 3,
+      "ovr_rating": 49.09,
+      "sor": 85.5,
+      "sor_rank": 8
+    },
+    {
+      "school": "St. Pius X (Kansas City)",
+      "classification": 5,
+      "district": 8,
+      "wins": 4,
+      "losses": 3,
+      "ovr_rating": 45.42,
+      "sor": 84.5,
+      "sor_rank": 9
+    },
+    {
+      "school": "Grain Valley",
+      "classification": 5,
+      "district": 7,
+      "wins": 8,
+      "losses": 4,
+      "ovr_rating": 53.09,
+      "sor": 82.7,
+      "sor_rank": 10
+    },
+    {
+      "school": "Neosho",
+      "classification": 5,
+      "district": 6,
+      "wins": 6,
+      "losses": 5,
+      "ovr_rating": 43.53,
+      "sor": 82.7,
+      "sor_rank": 11
+    },
+    {
+      "school": "Ft. Zumwalt North",
+      "classification": 5,
+      "district": 4,
+      "wins": 10,
+      "losses": 2,
+      "ovr_rating": 42.58,
+      "sor": 80.9,
+      "sor_rank": 12
+    },
+    {
+      "school": "Fort Osage",
+      "classification": 5,
+      "district": 8,
+      "wins": 7,
+      "losses": 4,
+      "ovr_rating": 44.26,
+      "sor": 80.0,
+      "sor_rank": 13
+    },
+    {
+      "school": "Capital City",
+      "classification": 5,
+      "district": 5,
+      "wins": 8,
+      "losses": 4,
+      "ovr_rating": 40.82,
+      "sor": 75.5,
+      "sor_rank": 14
+    },
+    {
+      "school": "Farmington",
+      "classification": 5,
+      "district": 1,
+      "wins": 9,
+      "losses": 3,
+      "ovr_rating": 36.65,
+      "sor": 71.8,
+      "sor_rank": 15
+    },
+    {
+      "school": "Lebanon",
+      "classification": 5,
+      "district": 5,
+      "wins": 6,
+      "losses": 5,
+      "ovr_rating": 38.65,
+      "sor": 70.9,
+      "sor_rank": 16
+    },
+    {
+      "school": "Glendale",
+      "classification": 5,
+      "district": 5,
+      "wins": 6,
+      "losses": 5,
+      "ovr_rating": 32.99,
+      "sor": 70.0,
+      "sor_rank": 17
+    },
+    {
+      "school": "Chaminade College Prep",
+      "classification": 5,
+      "district": 3,
+      "wins": 6,
+      "losses": 4,
+      "ovr_rating": 30.2,
+      "sor": 70.0,
+      "sor_rank": 18
+    },
+    {
+      "school": "Parkway West",
+      "classification": 5,
+      "district": 4,
+      "wins": 10,
+      "losses": 3,
+      "ovr_rating": 33.64,
+      "sor": 67.3,
+      "sor_rank": 19
+    },
+    {
+      "school": "Ladue Horton Watkins",
+      "classification": 5,
+      "district": 3,
+      "wins": 8,
+      "losses": 4,
+      "ovr_rating": 22.47,
+      "sor": 62.7,
+      "sor_rank": 20
+    },
+    {
+      "school": "Branson",
+      "classification": 5,
+      "district": 6,
+      "wins": 7,
+      "losses": 2,
+      "ovr_rating": 28.14,
+      "sor": 62.7,
+      "sor_rank": 21
+    },
+    {
+      "school": "Rockwood Summit",
+      "classification": 5,
+      "district": 2,
+      "wins": 7,
+      "losses": 3,
+      "ovr_rating": 31.36,
+      "sor": 62.7,
+      "sor_rank": 22
+    },
+    {
+      "school": "Hazelwood East",
+      "classification": 5,
+      "district": 3,
+      "wins": 7,
+      "losses": 3,
+      "ovr_rating": 24.56,
+      "sor": 60.0,
+      "sor_rank": 23
+    },
+    {
+      "school": "Central (Cape Girardeau)",
+      "classification": 5,
+      "district": 1,
+      "wins": 8,
+      "losses": 4,
+      "ovr_rating": 18.14,
+      "sor": 58.2,
+      "sor_rank": 24
+    },
+    {
+      "school": "Raytown",
+      "classification": 5,
+      "district": 7,
+      "wins": 7,
+      "losses": 5,
+      "ovr_rating": 31.44,
+      "sor": 58.2,
+      "sor_rank": 25
+    },
+    {
+      "school": "Belton",
+      "classification": 5,
+      "district": 7,
+      "wins": 6,
+      "losses": 5,
+      "ovr_rating": 11.12,
+      "sor": 53.6,
+      "sor_rank": 26
+    },
+    {
+      "school": "North Point",
+      "classification": 5,
+      "district": 4,
+      "wins": 8,
+      "losses": 3,
+      "ovr_rating": 10.61,
+      "sor": 50.9,
+      "sor_rank": 27
+    },
+    {
+      "school": "Smith-Cotton",
+      "classification": 5,
+      "district": 7,
+      "wins": 6,
+      "losses": 5,
+      "ovr_rating": 13.67,
+      "sor": 50.9,
+      "sor_rank": 28
+    },
+    {
+      "school": "Winnetonka",
+      "classification": 5,
+      "district": 8,
+      "wins": 5,
+      "losses": 5,
+      "ovr_rating": 22.58,
+      "sor": 50.9,
+      "sor_rank": 29
+    },
+    {
+      "school": "MICDS",
+      "classification": 5,
+      "district": 3,
+      "wins": 4,
+      "losses": 6,
+      "ovr_rating": 24.83,
+      "sor": 49.1,
+      "sor_rank": 30
+    },
+    {
+      "school": "William Chrisman",
+      "classification": 5,
+      "district": 8,
+      "wins": 3,
+      "losses": 7,
+      "ovr_rating": 17.64,
+      "sor": 47.3,
+      "sor_rank": 31
+    },
+    {
+      "school": "Rolla",
+      "classification": 5,
+      "district": 2,
+      "wins": 4,
+      "losses": 5,
+      "ovr_rating": 15.93,
+      "sor": 44.5,
+      "sor_rank": 32
+    },
+    {
+      "school": "Jefferson City",
+      "classification": 5,
+      "district": 5,
+      "wins": 4,
+      "losses": 6,
+      "ovr_rating": 14.27,
+      "sor": 43.6,
+      "sor_rank": 33
+    },
+    {
+      "school": "Timberland",
+      "classification": 5,
+      "district": 4,
+      "wins": 4,
+      "losses": 7,
+      "ovr_rating": 9.53,
+      "sor": 38.2,
+      "sor_rank": 34
+    },
+    {
+      "school": "Willard",
+      "classification": 5,
+      "district": 6,
+      "wins": 1,
+      "losses": 9,
+      "ovr_rating": 12.1,
+      "sor": 38.2,
+      "sor_rank": 35
+    },
+    {
+      "school": "Poplar Bluff",
+      "classification": 5,
+      "district": 1,
+      "wins": 3,
+      "losses": 6,
+      "ovr_rating": 6.6,
+      "sor": 35.5,
+      "sor_rank": 36
+    },
+    {
+      "school": "Fox",
+      "classification": 5,
+      "district": 1,
+      "wins": 3,
+      "losses": 8,
+      "ovr_rating": 17.96,
+      "sor": 34.5,
+      "sor_rank": 37
+    },
+    {
+      "school": "Truman",
+      "classification": 5,
+      "district": 8,
+      "wins": 2,
+      "losses": 8,
+      "ovr_rating": 0.34,
+      "sor": 34.5,
+      "sor_rank": 38
+    },
+    {
+      "school": "Camdenton",
+      "classification": 5,
+      "district": 5,
+      "wins": 3,
+      "losses": 8,
+      "ovr_rating": 9.09,
+      "sor": 32.7,
+      "sor_rank": 39
+    },
+    {
+      "school": "Parkview",
+      "classification": 5,
+      "district": 6,
+      "wins": 3,
+      "losses": 6,
+      "ovr_rating": 6.31,
+      "sor": 28.2,
+      "sor_rank": 40
+    },
+    {
+      "school": "Webster Groves",
+      "classification": 5,
+      "district": 1,
+      "wins": 4,
+      "losses": 7,
+      "ovr_rating": -8.9,
+      "sor": 28.2,
+      "sor_rank": 41
+    },
+    {
+      "school": "Ft. Zumwalt South",
+      "classification": 5,
+      "district": 4,
+      "wins": 4,
+      "losses": 6,
+      "ovr_rating": -14.02,
+      "sor": 21.8,
+      "sor_rank": 42
+    },
+    {
+      "school": "Ruskin",
+      "classification": 5,
+      "district": 7,
+      "wins": 2,
+      "losses": 8,
+      "ovr_rating": -45.43,
+      "sor": 21.8,
+      "sor_rank": 43
+    },
+    {
+      "school": "Washington",
+      "classification": 5,
+      "district": 2,
+      "wins": 3,
+      "losses": 7,
+      "ovr_rating": -2.26,
+      "sor": 20.9,
+      "sor_rank": 44
+    },
+    {
+      "school": "McCluer",
+      "classification": 5,
+      "district": 3,
+      "wins": 1,
+      "losses": 9,
+      "ovr_rating": -24.72,
+      "sor": 20.9,
+      "sor_rank": 45
+    },
+    {
+      "school": "Ft. Zumwalt East",
+      "classification": 5,
+      "district": 4,
+      "wins": 3,
+      "losses": 7,
+      "ovr_rating": -6.53,
+      "sor": 20.0,
+      "sor_rank": 46
+    },
+    {
+      "school": "Waynesville",
+      "classification": 5,
+      "district": 5,
+      "wins": 0,
+      "losses": 10,
+      "ovr_rating": -14.93,
+      "sor": 19.1,
+      "sor_rank": 47
+    },
+    {
+      "school": "Parkway South",
+      "classification": 5,
+      "district": 2,
+      "wins": 2,
+      "losses": 8,
+      "ovr_rating": -28.52,
+      "sor": 15.5,
+      "sor_rank": 48
+    },
+    {
+      "school": "Miller Career Academy with Sumner, Vashon",
+      "classification": 5,
+      "district": 1,
+      "wins": 2,
+      "losses": 6,
+      "ovr_rating": -36.63,
+      "sor": 13.6,
+      "sor_rank": 49
+    },
+    {
+      "school": "Grandview",
+      "classification": 5,
+      "district": 7,
+      "wins": 0,
+      "losses": 10,
+      "ovr_rating": -31.77,
+      "sor": 12.7,
+      "sor_rank": 50
+    },
+    {
+      "school": "Riverview Gardens",
+      "classification": 5,
+      "district": 3,
+      "wins": 1,
+      "losses": 7,
+      "ovr_rating": -65.38,
+      "sor": 11.8,
+      "sor_rank": 51
+    },
+    {
+      "school": "Mehlville",
+      "classification": 5,
+      "district": 1,
+      "wins": 2,
+      "losses": 8,
+      "ovr_rating": -27.47,
+      "sor": 10.9,
+      "sor_rank": 52
+    },
+    {
+      "school": "Hillcrest",
+      "classification": 5,
+      "district": 5,
+      "wins": 0,
+      "losses": 10,
+      "ovr_rating": -18.93,
+      "sor": 9.1,
+      "sor_rank": 53
+    },
+    {
+      "school": "Battle",
+      "classification": 5,
+      "district": 7,
+      "wins": 0,
+      "losses": 9,
+      "ovr_rating": -5.01,
+      "sor": 9.1,
+      "sor_rank": 54
+    },
+    {
+      "school": "Parkway Central",
+      "classification": 5,
+      "district": 4,
+      "wins": 1,
+      "losses": 10,
+      "ovr_rating": -42.98,
+      "sor": 3.6,
+      "sor_rank": 55
+    }
+  ]
+}

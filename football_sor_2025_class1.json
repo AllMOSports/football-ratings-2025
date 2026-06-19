@@ -1,0 +1,436 @@
+{
+  "last_updated": "June 19, 2026 at 08:21 PM",
+  "classification": 1,
+  "teams": [
+    {
+      "school": "Tipton",
+      "classification": 1,
+      "district": 4,
+      "wins": 12,
+      "losses": 1,
+      "ovr_rating": 17.5,
+      "sor": 98.8,
+      "sor_rank": 1
+    },
+    {
+      "school": "Thayer",
+      "classification": 1,
+      "district": 3,
+      "wins": 8,
+      "losses": 2,
+      "ovr_rating": 20.85,
+      "sor": 98.8,
+      "sor_rank": 2
+    },
+    {
+      "school": "Marionville",
+      "classification": 1,
+      "district": 3,
+      "wins": 9,
+      "losses": 1,
+      "ovr_rating": 11.58,
+      "sor": 94.2,
+      "sor_rank": 3
+    },
+    {
+      "school": "Putnam County",
+      "classification": 1,
+      "district": 8,
+      "wins": 13,
+      "losses": 1,
+      "ovr_rating": 3.67,
+      "sor": 94.2,
+      "sor_rank": 4
+    },
+    {
+      "school": "Salisbury",
+      "classification": 1,
+      "district": 7,
+      "wins": 11,
+      "losses": 1,
+      "ovr_rating": 3.47,
+      "sor": 89.5,
+      "sor_rank": 5
+    },
+    {
+      "school": "West Platte",
+      "classification": 1,
+      "district": 6,
+      "wins": 9,
+      "losses": 3,
+      "ovr_rating": -7.74,
+      "sor": 89.5,
+      "sor_rank": 6
+    },
+    {
+      "school": "Russellville",
+      "classification": 1,
+      "district": 4,
+      "wins": 8,
+      "losses": 3,
+      "ovr_rating": -17.21,
+      "sor": 84.9,
+      "sor_rank": 7
+    },
+    {
+      "school": "Hayti",
+      "classification": 1,
+      "district": 1,
+      "wins": 5,
+      "losses": 5,
+      "ovr_rating": -16.12,
+      "sor": 84.9,
+      "sor_rank": 8
+    },
+    {
+      "school": "Adrian",
+      "classification": 1,
+      "district": 5,
+      "wins": 8,
+      "losses": 4,
+      "ovr_rating": -18.88,
+      "sor": 80.2,
+      "sor_rank": 9
+    },
+    {
+      "school": "Ash Grove",
+      "classification": 1,
+      "district": 3,
+      "wins": 6,
+      "losses": 3,
+      "ovr_rating": -16.62,
+      "sor": 80.2,
+      "sor_rank": 10
+    },
+    {
+      "school": "North Platte",
+      "classification": 1,
+      "district": 6,
+      "wins": 6,
+      "losses": 5,
+      "ovr_rating": -20.61,
+      "sor": 74.4,
+      "sor_rank": 11
+    },
+    {
+      "school": "Windsor",
+      "classification": 1,
+      "district": 5,
+      "wins": 9,
+      "losses": 2,
+      "ovr_rating": -25.68,
+      "sor": 74.4,
+      "sor_rank": 12
+    },
+    {
+      "school": "Miller",
+      "classification": 1,
+      "district": 3,
+      "wins": 6,
+      "losses": 5,
+      "ovr_rating": -21.33,
+      "sor": 73.3,
+      "sor_rank": 13
+    },
+    {
+      "school": "Grandview (Hillsboro)",
+      "classification": 1,
+      "district": 2,
+      "wins": 7,
+      "losses": 3,
+      "ovr_rating": -29.3,
+      "sor": 68.6,
+      "sor_rank": 14
+    },
+    {
+      "school": "Portageville",
+      "classification": 1,
+      "district": 1,
+      "wins": 6,
+      "losses": 5,
+      "ovr_rating": -26.27,
+      "sor": 67.4,
+      "sor_rank": 15
+    },
+    {
+      "school": "Van-Far",
+      "classification": 1,
+      "district": 2,
+      "wins": 7,
+      "losses": 5,
+      "ovr_rating": -27.35,
+      "sor": 67.4,
+      "sor_rank": 16
+    },
+    {
+      "school": "Cole Camp",
+      "classification": 1,
+      "district": 4,
+      "wins": 6,
+      "losses": 4,
+      "ovr_rating": -30.68,
+      "sor": 60.5,
+      "sor_rank": 17
+    },
+    {
+      "school": "Marceline",
+      "classification": 1,
+      "district": 7,
+      "wins": 5,
+      "losses": 5,
+      "ovr_rating": -28.65,
+      "sor": 60.5,
+      "sor_rank": 18
+    },
+    {
+      "school": "Gallatin with Tri-County",
+      "classification": 1,
+      "district": 6,
+      "wins": 6,
+      "losses": 5,
+      "ovr_rating": -27.25,
+      "sor": 57.0,
+      "sor_rank": 19
+    },
+    {
+      "school": "Penney",
+      "classification": 1,
+      "district": 6,
+      "wins": 4,
+      "losses": 6,
+      "ovr_rating": -30.21,
+      "sor": 55.8,
+      "sor_rank": 20
+    },
+    {
+      "school": "Harrisburg",
+      "classification": 1,
+      "district": 7,
+      "wins": 5,
+      "losses": 6,
+      "ovr_rating": -31.45,
+      "sor": 55.8,
+      "sor_rank": 21
+    },
+    {
+      "school": "Charleston",
+      "classification": 1,
+      "district": 1,
+      "wins": 4,
+      "losses": 5,
+      "ovr_rating": -35.86,
+      "sor": 51.2,
+      "sor_rank": 22
+    },
+    {
+      "school": "Pierce City",
+      "classification": 1,
+      "district": 3,
+      "wins": 3,
+      "losses": 7,
+      "ovr_rating": -29.86,
+      "sor": 50.0,
+      "sor_rank": 23
+    },
+    {
+      "school": "Midway",
+      "classification": 1,
+      "district": 5,
+      "wins": 3,
+      "losses": 6,
+      "ovr_rating": -31.35,
+      "sor": 44.2,
+      "sor_rank": 24
+    },
+    {
+      "school": "Scotland County",
+      "classification": 1,
+      "district": 8,
+      "wins": 5,
+      "losses": 5,
+      "ovr_rating": -43.68,
+      "sor": 43.0,
+      "sor_rank": 25
+    },
+    {
+      "school": "Crest Ridge with Chilhowee",
+      "classification": 1,
+      "district": 5,
+      "wins": 4,
+      "losses": 6,
+      "ovr_rating": -41.25,
+      "sor": 40.7,
+      "sor_rank": 26
+    },
+    {
+      "school": "Skyline",
+      "classification": 1,
+      "district": 4,
+      "wins": 3,
+      "losses": 8,
+      "ovr_rating": -36.5,
+      "sor": 38.4,
+      "sor_rank": 27
+    },
+    {
+      "school": "Polo",
+      "classification": 1,
+      "district": 5,
+      "wins": 4,
+      "losses": 6,
+      "ovr_rating": -46.43,
+      "sor": 37.2,
+      "sor_rank": 28
+    },
+    {
+      "school": "Saxony Lutheran",
+      "classification": 1,
+      "district": 1,
+      "wins": 2,
+      "losses": 3,
+      "ovr_rating": -42.7,
+      "sor": 36.0,
+      "sor_rank": 29
+    },
+    {
+      "school": "South Shelby",
+      "classification": 1,
+      "district": 8,
+      "wins": 2,
+      "losses": 9,
+      "ovr_rating": -45.04,
+      "sor": 32.6,
+      "sor_rank": 30
+    },
+    {
+      "school": "Fayette",
+      "classification": 1,
+      "district": 7,
+      "wins": 3,
+      "losses": 7,
+      "ovr_rating": -46.88,
+      "sor": 31.4,
+      "sor_rank": 31
+    },
+    {
+      "school": "Louisiana",
+      "classification": 1,
+      "district": 2,
+      "wins": 3,
+      "losses": 8,
+      "ovr_rating": -44.58,
+      "sor": 30.2,
+      "sor_rank": 32
+    },
+    {
+      "school": "Sherwood",
+      "classification": 1,
+      "district": 5,
+      "wins": 3,
+      "losses": 8,
+      "ovr_rating": -48.83,
+      "sor": 24.4,
+      "sor_rank": 33
+    },
+    {
+      "school": "Cabool",
+      "classification": 1,
+      "district": 3,
+      "wins": 1,
+      "losses": 9,
+      "ovr_rating": -69.31,
+      "sor": 23.3,
+      "sor_rank": 34
+    },
+    {
+      "school": "Westran",
+      "classification": 1,
+      "district": 7,
+      "wins": 2,
+      "losses": 8,
+      "ovr_rating": -46.46,
+      "sor": 23.3,
+      "sor_rank": 35
+    },
+    {
+      "school": "Maysville with Winston",
+      "classification": 1,
+      "district": 6,
+      "wins": 1,
+      "losses": 9,
+      "ovr_rating": -54.88,
+      "sor": 17.4,
+      "sor_rank": 36
+    },
+    {
+      "school": "Highland",
+      "classification": 1,
+      "district": 8,
+      "wins": 1,
+      "losses": 11,
+      "ovr_rating": -65.72,
+      "sor": 17.4,
+      "sor_rank": 37
+    },
+    {
+      "school": "Crystal City",
+      "classification": 1,
+      "district": 2,
+      "wins": 2,
+      "losses": 7,
+      "ovr_rating": -71.31,
+      "sor": 14.0,
+      "sor_rank": 38
+    },
+    {
+      "school": "Malden",
+      "classification": 1,
+      "district": 1,
+      "wins": 0,
+      "losses": 10,
+      "ovr_rating": -120.95,
+      "sor": 9.3,
+      "sor_rank": 39
+    },
+    {
+      "school": "Linn",
+      "classification": 1,
+      "district": 4,
+      "wins": 0,
+      "losses": 9,
+      "ovr_rating": -66.37,
+      "sor": 8.1,
+      "sor_rank": 40
+    },
+    {
+      "school": "Veritas Christian Academy",
+      "classification": 1,
+      "district": 2,
+      "wins": 2,
+      "losses": 4,
+      "ovr_rating": -111.98,
+      "sor": 8.1,
+      "sor_rank": 41
+    },
+    {
+      "school": "Plattsburg",
+      "classification": 1,
+      "district": 6,
+      "wins": 0,
+      "losses": 10,
+      "ovr_rating": -72.99,
+      "sor": 7.0,
+      "sor_rank": 42
+    },
+    {
+      "school": "Milan",
+      "classification": 1,
+      "district": 8,
+      "wins": 0,
+      "losses": 10,
+      "ovr_rating": -80.62,
+      "sor": 5.8,
+      "sor_rank": 43
+    }
+  ]
+}
