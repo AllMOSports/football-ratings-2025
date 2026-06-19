@@ -120,7 +120,7 @@ def group_schedules_by_class(
 if __name__ == "__main__":
     from strength_of_record import calibrate_margin_model, build_classification_sor
 
-    DATA_DIR = "/home/claude/allmosports_data"
+    DATA_DIR = "."
 
     ratings = load_ratings(f"{DATA_DIR}/football_ratings_2025.json")
     classifications = load_classifications(f"{DATA_DIR}/classifications.json")
