@@ -1,5 +1,5 @@
 {
-  "last_updated": "July 21, 2026 at 02:58 PM",
+  "last_updated": "July 22, 2026 at 08:45 PM",
   "classification": 6,
   "teams": [
     {
@@ -8,7 +8,7 @@
       "district": 6,
       "wins": 9,
       "losses": 1,
-      "ovr_rating": 75.82,
+      "ovr_rating": 75.93,
       "sor": 100.0,
       "sor_rank": 1
     },
@@ -18,7 +18,7 @@
       "district": 8,
       "wins": 10,
       "losses": 2,
-      "ovr_rating": 60.17,
+      "ovr_rating": 60.27,
       "sor": 95.2,
       "sor_rank": 2
     },
@@ -28,7 +28,7 @@
       "district": 7,
       "wins": 10,
       "losses": 4,
-      "ovr_rating": 58.53,
+      "ovr_rating": 58.64,
       "sor": 94.0,
       "sor_rank": 3
     },
@@ -38,7 +38,7 @@
       "district": 5,
       "wins": 13,
       "losses": 1,
-      "ovr_rating": 62.43,
+      "ovr_rating": 62.55,
       "sor": 92.9,
       "sor_rank": 4
     },
@@ -48,7 +48,7 @@
       "district": 2,
       "wins": 8,
       "losses": 1,
-      "ovr_rating": 71.36,
+      "ovr_rating": 71.51,
       "sor": 92.9,
       "sor_rank": 5
     },
@@ -58,7 +58,7 @@
       "district": 1,
       "wins": 9,
       "losses": 1,
-      "ovr_rating": 65.31,
+      "ovr_rating": 65.46,
       "sor": 88.1,
       "sor_rank": 6
     },
@@ -68,7 +68,7 @@
       "district": 6,
       "wins": 7,
       "losses": 4,
-      "ovr_rating": 58.25,
+      "ovr_rating": 58.36,
       "sor": 85.7,
       "sor_rank": 7
     },
@@ -78,7 +78,7 @@
       "district": 7,
       "wins": 4,
       "losses": 3,
-      "ovr_rating": 55.15,
+      "ovr_rating": 55.25,
       "sor": 82.1,
       "sor_rank": 8
     },
@@ -88,7 +88,7 @@
       "district": 6,
       "wins": 11,
       "losses": 1,
-      "ovr_rating": 50.98,
+      "ovr_rating": 51.11,
       "sor": 81.0,
       "sor_rank": 9
     },
@@ -98,7 +98,7 @@
       "district": 2,
       "wins": 10,
       "losses": 1,
-      "ovr_rating": 51.18,
+      "ovr_rating": 51.33,
       "sor": 78.6,
       "sor_rank": 10
     },
@@ -108,7 +108,7 @@
       "district": 8,
       "wins": 6,
       "losses": 5,
-      "ovr_rating": 54.7,
+      "ovr_rating": 54.81,
       "sor": 78.6,
       "sor_rank": 11
     },
@@ -118,7 +118,7 @@
       "district": 7,
       "wins": 7,
       "losses": 3,
-      "ovr_rating": 45.78,
+      "ovr_rating": 45.89,
       "sor": 72.6,
       "sor_rank": 12
     },
@@ -128,7 +128,7 @@
       "district": 8,
       "wins": 6,
       "losses": 4,
-      "ovr_rating": 51.58,
+      "ovr_rating": 51.69,
       "sor": 71.4,
       "sor_rank": 13
     },
@@ -138,7 +138,7 @@
       "district": 2,
       "wins": 6,
       "losses": 3,
-      "ovr_rating": 38.33,
+      "ovr_rating": 38.48,
       "sor": 70.2,
       "sor_rank": 14
     },
@@ -148,7 +148,7 @@
       "district": 7,
       "wins": 2,
       "losses": 3,
-      "ovr_rating": 45.25,
+      "ovr_rating": 45.35,
       "sor": 65.5,
       "sor_rank": 15
     },
@@ -158,7 +158,7 @@
       "district": 2,
       "wins": 5,
       "losses": 4,
-      "ovr_rating": 39.33,
+      "ovr_rating": 39.49,
       "sor": 63.1,
       "sor_rank": 16
     },
@@ -168,7 +168,7 @@
       "district": 6,
       "wins": 7,
       "losses": 3,
-      "ovr_rating": 32.28,
+      "ovr_rating": 32.41,
       "sor": 58.3,
       "sor_rank": 17
     },
@@ -178,7 +178,7 @@
       "district": 8,
       "wins": 4,
       "losses": 7,
-      "ovr_rating": 41.08,
+      "ovr_rating": 41.18,
       "sor": 58.3,
       "sor_rank": 18
     },
@@ -188,7 +188,7 @@
       "district": 4,
       "wins": 10,
       "losses": 1,
-      "ovr_rating": 22.17,
+      "ovr_rating": 22.33,
       "sor": 58.3,
       "sor_rank": 19
     },
@@ -198,7 +198,7 @@
       "district": 4,
       "wins": 8,
       "losses": 3,
-      "ovr_rating": 36.95,
+      "ovr_rating": 37.1,
       "sor": 56.0,
       "sor_rank": 20
     },
@@ -208,7 +208,7 @@
       "district": 4,
       "wins": 8,
       "losses": 4,
-      "ovr_rating": 32.51,
+      "ovr_rating": 32.66,
       "sor": 48.8,
       "sor_rank": 21
     },
@@ -218,7 +218,7 @@
       "district": 5,
       "wins": 5,
       "losses": 6,
-      "ovr_rating": 37.37,
+      "ovr_rating": 37.48,
       "sor": 48.8,
       "sor_rank": 22
     },
@@ -228,7 +228,7 @@
       "district": 6,
       "wins": 5,
       "losses": 5,
-      "ovr_rating": 39.46,
+      "ovr_rating": 39.59,
       "sor": 48.8,
       "sor_rank": 23
     },
@@ -238,7 +238,7 @@
       "district": 4,
       "wins": 5,
       "losses": 5,
-      "ovr_rating": 27.74,
+      "ovr_rating": 27.89,
       "sor": 41.7,
       "sor_rank": 24
     },
@@ -248,7 +248,7 @@
       "district": 1,
       "wins": 10,
       "losses": 3,
-      "ovr_rating": 19.02,
+      "ovr_rating": 19.17,
       "sor": 41.7,
       "sor_rank": 25
     },
@@ -258,7 +258,7 @@
       "district": 7,
       "wins": 3,
       "losses": 8,
-      "ovr_rating": 26.73,
+      "ovr_rating": 26.84,
       "sor": 39.3,
       "sor_rank": 26
     },
@@ -268,7 +268,7 @@
       "district": 4,
       "wins": 7,
       "losses": 3,
-      "ovr_rating": 23.82,
+      "ovr_rating": 23.98,
       "sor": 38.1,
       "sor_rank": 27
     },
@@ -278,7 +278,7 @@
       "district": 1,
       "wins": 8,
       "losses": 3,
-      "ovr_rating": 21.57,
+      "ovr_rating": 21.72,
       "sor": 38.1,
       "sor_rank": 28
     },
@@ -288,7 +288,7 @@
       "district": 1,
       "wins": 7,
       "losses": 3,
-      "ovr_rating": 24.03,
+      "ovr_rating": 24.18,
       "sor": 34.5,
       "sor_rank": 29
     },
@@ -298,7 +298,7 @@
       "district": 8,
       "wins": 5,
       "losses": 5,
-      "ovr_rating": 16.77,
+      "ovr_rating": 16.88,
       "sor": 33.3,
       "sor_rank": 30
     },
@@ -308,7 +308,7 @@
       "district": 3,
       "wins": 7,
       "losses": 7,
-      "ovr_rating": 22.13,
+      "ovr_rating": 22.28,
       "sor": 27.4,
       "sor_rank": 31
     },
@@ -318,7 +318,7 @@
       "district": 8,
       "wins": 2,
       "losses": 8,
-      "ovr_rating": 20.4,
+      "ovr_rating": 20.5,
       "sor": 26.2,
       "sor_rank": 32
     },
@@ -328,7 +328,7 @@
       "district": 3,
       "wins": 6,
       "losses": 5,
-      "ovr_rating": 18.86,
+      "ovr_rating": 19.02,
       "sor": 25.0,
       "sor_rank": 33
     },
@@ -338,7 +338,7 @@
       "district": 5,
       "wins": 3,
       "losses": 8,
-      "ovr_rating": 23.62,
+      "ovr_rating": 23.73,
       "sor": 23.8,
       "sor_rank": 34
     },
@@ -348,8 +348,8 @@
       "district": 5,
       "wins": 0,
       "losses": 9,
-      "ovr_rating": 30.71,
-      "sor": 22.6,
+      "ovr_rating": 30.82,
+      "sor": 21.4,
       "sor_rank": 35
     },
     {
@@ -358,7 +358,7 @@
       "district": 5,
       "wins": 2,
       "losses": 8,
-      "ovr_rating": 14.14,
+      "ovr_rating": 14.25,
       "sor": 17.9,
       "sor_rank": 36
     },
@@ -368,17 +368,17 @@
       "district": 1,
       "wins": 3,
       "losses": 7,
-      "ovr_rating": 10.63,
-      "sor": 14.3,
+      "ovr_rating": 10.78,
+      "sor": 16.7,
       "sor_rank": 37
     },
     {
-      "school": "Francis Howell Central",
+      "school": "Marquette",
       "classification": 6,
-      "district": 4,
-      "wins": 2,
-      "losses": 8,
-      "ovr_rating": 3.03,
+      "district": 2,
+      "wins": 1,
+      "losses": 9,
+      "ovr_rating": -0.5,
       "sor": 11.9,
       "sor_rank": 38
     },
@@ -388,18 +388,18 @@
       "district": 3,
       "wins": 1,
       "losses": 11,
-      "ovr_rating": -28.93,
-      "sor": 10.7,
+      "ovr_rating": -28.78,
+      "sor": 9.5,
       "sor_rank": 39
     },
     {
-      "school": "Marquette",
+      "school": "Francis Howell Central",
       "classification": 6,
-      "district": 2,
-      "wins": 1,
-      "losses": 9,
-      "ovr_rating": -0.65,
-      "sor": 10.7,
+      "district": 4,
+      "wins": 2,
+      "losses": 8,
+      "ovr_rating": 3.19,
+      "sor": 8.3,
       "sor_rank": 40
     },
     {
@@ -408,8 +408,8 @@
       "district": 3,
       "wins": 0,
       "losses": 10,
-      "ovr_rating": -46.16,
-      "sor": 7.1,
+      "ovr_rating": -46.01,
+      "sor": 8.3,
       "sor_rank": 41
     },
     {
@@ -418,8 +418,8 @@
       "district": 3,
       "wins": 1,
       "losses": 8,
-      "ovr_rating": -13.1,
-      "sor": 4.8,
+      "ovr_rating": -12.95,
+      "sor": 6.0,
       "sor_rank": 42
     }
   ]
