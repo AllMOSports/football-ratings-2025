@@ -56,6 +56,31 @@ MANUAL_GAMES = [
     ("2025-11-14", "Tipton", 53, "Russellville", 18),
 ]
  
+# ---------------------------------------------------------------------------
+# SCORE CORRECTIONS (from Suspicious_Scores_-_Football.xlsx review)
+# ---------------------------------------------------------------------------
+# Fixes for games that scraped with a bad score. Matched by date + the two
+# team names (order-independent), then each team's score is set explicitly
+# -- so this works regardless of which team the scraper put in the home
+# slot vs. the away slot.
+# Format: ("YYYY-MM-DD", "Team A", correct_score_A, "Team B", correct_score_B)
+ 
+SCORE_CORRECTIONS = [
+]
+ 
+# ---------------------------------------------------------------------------
+# EXCLUDED GAMES (from Suspicious_Scores_-_Football.xlsx review)
+# ---------------------------------------------------------------------------
+# Games to drop entirely -- confirmed bad/unverifiable entries rather than
+# fixable score typos. Matched by date + the two team names (order-independent).
+# Format: ("YYYY-MM-DD", "Team A", "Team B")
+ 
+EXCLUDED_GAMES = [
+    ("2025-10-31", "Nevada", "Southeast"),
+    ("2025-10-31", "Ste. Genevieve", "Normandy Collaborative"),
+    ("2025-10-30", "Lee's Summit West", "Park Hill South"),
+]
+ 
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -332,6 +357,61 @@ def scrape_full_season(id_to_classname, known_teams):
         print("  All dates returned successfully -- no known data gaps "
               "from scraping failures.")
     return all_games
+ 
+ 
+def apply_score_corrections(all_games, corrections=SCORE_CORRECTIONS):
+    """
+    Fix known-bad scores in place. Matches each game by date + the two team
+    names (order-independent), then overwrites each named team's score with
+    the corrected value -- regardless of which position (t1/t2) that team
+    ended up in during scraping.
+    """
+    lookup = {}
+    for date_str, team_a, score_a, team_b, score_b in corrections:
+        lookup[(date_str, frozenset([team_a, team_b]))] = {team_a: score_a, team_b: score_b}
+ 
+    corrected = 0
+    fixed_games = []
+    for date_str, t1, s1, t2, s2 in all_games:
+        key = (date_str, frozenset([t1, t2]))
+        fix = lookup.get(key)
+        if fix is not None:
+            new_s1 = fix.get(t1, s1)
+            new_s2 = fix.get(t2, s2)
+            if (new_s1, new_s2) != (s1, s2):
+                corrected += 1
+            fixed_games.append((date_str, t1, new_s1, t2, new_s2))
+        else:
+            fixed_games.append((date_str, t1, s1, t2, s2))
+ 
+    if corrected:
+        print(f"  Corrected {corrected} game score(s) via SCORE_CORRECTIONS.")
+    else:
+        print("  No SCORE_CORRECTIONS matched (nothing changed).")
+ 
+    return fixed_games
+ 
+ 
+def apply_exclusions(all_games, exclusions=EXCLUDED_GAMES):
+    """
+    Drop games confirmed bad/unverifiable. Matches by date + the two team
+    names (order-independent).
+    """
+    exclude_keys = {(date_str, frozenset([team_a, team_b]))
+                     for date_str, team_a, team_b in exclusions}
+ 
+    filtered_games = [
+        g for g in all_games
+        if (g[0], frozenset([g[1], g[3]])) not in exclude_keys
+    ]
+ 
+    removed = len(all_games) - len(filtered_games)
+    if removed:
+        print(f"  Removed {removed} excluded game(s) via EXCLUDED_GAMES.")
+    else:
+        print("  No EXCLUDED_GAMES matched (nothing removed).")
+ 
+    return filtered_games
  
  
 def deduplicate_games(all_games):
@@ -695,6 +775,12 @@ if __name__ == "__main__":
     if MANUAL_GAMES:
         print(f"\nAdding {len(MANUAL_GAMES)} manual game(s)...")
         all_games.extend(MANUAL_GAMES)
+ 
+    print("\nApplying score corrections...")
+    all_games = apply_score_corrections(all_games)
+ 
+    print("\nApplying game exclusions...")
+    all_games = apply_exclusions(all_games)
  
     print("\nDeduplicating games...")
     all_games = deduplicate_games(all_games)
