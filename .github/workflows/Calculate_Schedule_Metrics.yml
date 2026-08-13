@@ -1,0 +1,48 @@
+name: Calculate Schedule Metrics (SOS/SOV/Records)
+ 
+# This workflow is meant to be copy/pasted as-is into each season's repo
+# (2025-2025). It doesn't need to be edited - it just needs the matching
+# calculate_schedule_metrics.py (with SEASON_YEAR set correctly for that
+# repo) to already be committed at the repo root.
+ 
+on:
+  # Re-run automatically any time the ratings or scoreboard file changes
+  push:
+    branches: [main]
+    paths:
+      - "football_ratings_2025.json"
+      - "football_scoreboard_2025.csv"
+      - "calculate_schedule_metrics.py"
+ 
+  # Also allow triggering manually from the Actions tab
+  workflow_dispatch:
+ 
+permissions:
+  contents: write
+ 
+jobs:
+  calculate-schedule-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+ 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+ 
+      - name: Run schedule metrics calculator
+        run: python Calculate_Schedule_Metrics.py
+ 
+      - name: Commit and push schedule_metrics json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add schedule_metrics_2025.json
+          if git diff --cached --quiet; then
+            echo "No changes to schedule_metrics json - nothing to commit."
+          else
+            git commit -m "Update schedule metrics (SOS/SOV/records) [automated]"
+            git push
+          fi
