@@ -1,4 +1,12 @@
 Date,Home Team,Home Score,Away Team,Away Score
+2025-08-22,"Glenville(Cleveland, OH)",33,(0-1)Class 5,27
+2025-08-22,"Todd County Central(Elkton, KY)",32,(0-1)Class 2,28
+2025-08-22,"Lexington Catholic(Lexington, KY)",6,(1-0)Class 6,19
+2025-08-22,"McCallie School(Chattanooga, TN)",56,(0-1)Class 3,20
+2025-08-22,"Santa Luces(Lantana, FL)",17,(1-0)Class 4,56
+2025-08-22,(0-1)Class 2,19,"Grayson(Loganville, GA)",24
+2025-08-23,"Columbus Crusaders(Galena, OH)",13,(1-0)Class 1,38
+2025-08-28,Principia,44,Clayton with Brentwood,21
 2025-08-28,Francis Howell,22,Eureka,34
 2025-08-28,Liberty (Wentzville),49,Francis Howell Central,21
 2025-08-28,North Point,29,Francis Howell North,0
@@ -9,19 +17,60 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-08-28,Plattsburg,6,Mid-Buchanan,54
 2025-08-28,Marshfield,7,Parkview,6
 2025-08-28,Ft. Zumwalt North,34,Pattonville,26
+2025-08-29,Duchesne,7,(1-0)Class 3,56
+2025-08-29,"GlenOak(Canton, OH)",10,(1-1)Class 5,44
+2025-08-29,"Jo Byrns(Cedar Hill, TN)",40,(0-2)Class 2,0
+2025-08-29,"Male(Louisville, KY)",17,(1-1)Class 6,0
+2025-08-29,"Tulsa Union(x, AR)",14,(1-0)Class 6,28
+2025-08-29,"Texarkana(x, AR)",20,(1-0)Class 5,21
+2025-08-29,Hollister,47,(0-1)Class 3,20
+2025-08-29,Branson,27,(1-0)Class 4,34
+2025-08-29,"Siloam Springs(X, AR)",21,(0-1)Class 6,0
+2025-08-29,Thayer,41,(0-1)Class 3,24
+2025-08-29,"Manila(X, AR)",8,(1-0)Class 4,35
+2025-08-29,"Forrest City(X, AR)",8,(1-0)Class 3,35
+2025-08-29,West Platte,0,(2-0)Class 1,41
+2025-08-29,Poplar Bluff,18,(1-0)Class 1,35
+2025-08-29,"Alton(x, IL)",13,(1-0)Class 3,34
+2025-08-29,"Collinsville(X, IL)",6,(1-0)Class 6,40
+2025-08-29,"Mascoutah(x, IL)",21,(1-0)Class 6,40
+2025-08-29,"Thornton Fractional North(x, IL)",0,(1-0)Class 6,42
+2025-08-29,"Eureka(x, IL)",8,(1-0)Class 2,38
+2025-08-29,"Glenwood(x, IL)",39,(0-1)Class 6,31
+2025-08-29,St. Mary's South Side,7,(1-0)Class 3,33
+2025-08-29,DeSoto with Kingston,14,(1-0)Class 4,30
+2025-08-29,"Edwardsville(x, IL)",31,(1-0)Class 5,39
+2025-08-29,"Peotone(x, IL)",48,(0-1)Class 6,7
+2025-08-29,"Sparta/Steeleville(x, IL)",48,(0-1)Class 1,32
+2025-08-29,"Belleville West(x, IL)",40,(0-1)Class 5,21
+2025-08-29,"Frankfort(x, IL)",50,(0-1)Class 3,28
+2025-08-29,"Columbia(x, IL)",23,(0-1)Class 2,22
+2025-08-29,"Triad(x, IL)",8,(1-0)Class 6,24
+2025-08-29,Grandview (Hillsboro),6,(1-0)Class 3,50
+2025-08-29,"Pinckneyville(x, IL)",22,(0-1)Class 2,6
+2025-08-29,Christian Brothers College,63,(0-1)Class 3,20
+2025-08-29,"Madison(x, IL)",32,(1-0)Class 3,48
+2025-08-29,"Urbana(x, IL)",7,(1-0)Class 1,29
+2025-08-29,"Ravenwood(Brentwood, TN)",22,(0-2)Class 3,21
+2025-08-29,"Rabun Gap-Nacooche(Rabun Gap, GA)",34,(2-0)Class 4,35
+2025-08-29,"Carbondale(Carbondale, IL)",21,(0-1)Class 3,13
+2025-08-29,Boonville,27,"(, )(0-1)Class 6",19
 2025-08-29,Sherwood,20,Adrian,43
 2025-08-29,Lutheran South,29,Affton,30
 2025-08-29,Diamond,0,Ash Grove,34
 2025-08-29,Mt. Vernon,29,Aurora,32
 2025-08-29,Buffalo,34,Ava,45
+2025-08-29,"(, )(1-0)Class 2",31,Bayless with Hancock,28
+2025-08-29,(0-2)Class 2,34,"Baylor(Chattanoga, TN)",35
 2025-08-29,Excelsior Springs,22,Belton,41
 2025-08-29,Liberty North,28,Blue Springs South,49
 2025-08-29,Osage,28,Bolivar,20
+2025-08-29,(0-1)Class 6,19,Boonville,27
 2025-08-29,Clark County,18,Bowling Green,42
 2025-08-29,Trenton,20,Brookfield,44
 2025-08-29,North Platte,40,Butler,32
 2025-08-29,El Dorado Springs,40,Cabool,0
-2025-08-29,Tipton,50,California,0
+2025-08-29,Tipton with Bunceton,50,California,0
 2025-08-29,Jefferson City,17,Camdenton,7
 2025-08-29,Capital City,21,Carl Junction,35
 2025-08-29,Waynesville,8,Carthage,50
@@ -31,11 +80,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-08-29,Owensville,0,Central (Park Hills),37
 2025-08-29,Mexico,14,Centralia,26
 2025-08-29,Kelly,14,Charleston,22
+2025-08-29,"Pleasant Hope with Marion C. Early, Halfway",0,Clinton,69
 2025-08-29,Sarcoxie,26,Cole Camp,27
+2025-08-29,Roosevelt,20,Confluence Prep Academy Charter,12
 2025-08-29,Holden,28,Crest Ridge with Chilhowee,2
 2025-08-29,Sikeston,70,Crystal City,6
 2025-08-29,Linn,30,Cuba,32
 2025-08-29,Malden,0,Dexter,61
+2025-08-29,"(, )(0-1)Class 1",36,Doniphan,46
 2025-08-29,Central (Kansas City),6,East Buchanan,50
 2025-08-29,Springfield Catholic,31,East Newton,27
 2025-08-29,Mountain Grove,28,Fair Grove,29
@@ -46,9 +98,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-08-29,Perryville,35,Fredericktown,21
 2025-08-29,Winfield,6,Ft. Zumwalt South,21
 2025-08-29,Eldon,15,Fulton,14
+2025-08-29,Maysville,7,Gallatin with Tri-County,43
 2025-08-29,Raytown,7,Grain Valley,34
 2025-08-29,Park Hill South,51,Grandview,6
 2025-08-29,Richmond,22,Harrisonville,49
+2025-08-29,Miller Career Academy with Sumner,12,Hazelwood Central,26
 2025-08-29,Hannibal,20,Helias Catholic,23
 2025-08-29,Montgomery County,26,Hermann,18
 2025-08-29,Marquette,14,Hickman,48
@@ -66,8 +120,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-08-29,Raymore-Peculiar,13,Lee's Summit North,24
 2025-08-29,Lathrop,44,Lexington,0
 2025-08-29,Lee's Summit,13,Liberty,21
+2025-08-29,Hayti,44,Lighthouse Sr. High(0-1),21
 2025-08-29,Oakville,34,Lindbergh,14
 2025-08-29,Windsor,52,Lone Jack with Kingsville,6
+2025-08-29,"(, )(1-0)Class 4",38,Lutheran St. Charles,7
 2025-08-29,Stockton,23,Marionville,48
 2025-08-29,Highland,20,Mark Twain,30
 2025-08-29,Chillicothe,19,Marshall,25
@@ -89,11 +145,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-08-29,Parkway South,0,Parkway Central,6
 2025-08-29,Southeast,0,Pembroke Hill,48
 2025-08-29,Savannah,41,Pleasant Hill,24
+2025-08-29,Schuyler County,28,Polo,74
 2025-08-29,Marceline,21,Putnam County,42
 2025-08-29,Smithville,38,Raytown South,7
 2025-08-29,Logan-Rogersville,42,Reeds Spring,18
 2025-08-29,Nixa,49,Republic,21
 2025-08-29,Park Hill,33,Rock Bridge,13
+2025-08-29,"(, )(0-1)Class 6",24,Rockwood Summit,30
 2025-08-29,Festus,30,Rolla,14
 2025-08-29,St. James,25,Salem,6
 2025-08-29,Midway,8,Salisbury,38
@@ -101,6 +159,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-08-29,East Prairie,8,Scott City,49
 2025-08-29,Parkway West,28,Seckman,27
 2025-08-29,Sarcoxie,27,Skyline,19
+2025-08-29,"(, )(0-1)Class 6",3,SLUH,22
 2025-08-29,Warrensburg,7,Smith-Cotton,17
 2025-08-29,Harrisburg,24,South Shelby,16
 2025-08-29,St. Dominic,51,St. Charles West,7
@@ -121,24 +180,86 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-08-29,Union,14,Washington,10
 2025-08-29,Lebanon,20,Webb City,28
 2025-08-29,Vianney,54,Webster Groves,10
+2025-08-29,"(, )(1-0)Class 5",49,West Plains,30
 2025-08-29,St. Charles,13,Westminster Christian Academy,17
 2025-08-29,Van-Far with Community,38,Westran,14
 2025-08-29,Ozark,44,Willard,26
 2025-08-29,Platte County,56,William Chrisman,7
+2025-08-29,"(, )(0-1)Class 2",21,Willow Springs,36
 2025-08-29,Herculaneum,28,Windsor (Imperial),36
 2025-08-29,Central (St. Joseph),26,Winnetonka,25
 2025-08-29,Warrenton,24,Wright City,7
+2025-08-30,De Smet Jesuit,35,(1-0)Class 4,42
+2025-08-30,"Life Prep(x, KS)",6,(1-0)Class 1,52
+2025-08-30,West Platte,0,"(, )(2-0)Class 1",41
 2025-08-30,Hogan Prep Academy Charter,24,KIPP KC Legacy,0
 2025-08-30,Jennings,33,McCluer,26
 2025-08-30,Chaminade College Prep,42,McCluer North,19
+2025-08-30,Gateway with Soldan International Studies,41,Normandy Collaborative,0
 2025-08-30,Ritenour,49,Riverview Gardens,0
+2025-09-04,"Washington(Kansas City, KS)",62,(0-1)Class 4,20
+2025-09-04,"Shawnee Mission South(x, KS)",31,(1-0)Class 6,54
 2025-09-04,El Dorado Springs,18,Ash Grove,51
 2025-09-04,Parkway Central,6,Hazelwood East,40
 2025-09-04,St. Mary's South Side,34,Lincoln College Prep,10
+2025-09-04,(1-0)Class 5,28,"Olathe East(Olathe, KS)",0
 2025-09-04,Doniphan,7,Saxony Lutheran,35
+2025-09-04,(1-0)Class 5,62,"Sumner(Kansas City, KS)",20
+2025-09-05,"Rabun Gap-Nacooche(Rabun Gap, GA)",7,(2-1)Class 5,35
+2025-09-05,"Conway(X, AR)",17,(2-0)Class 6,41
+2025-09-05,"West Fork(X, AR)",6,(1-1)Class 3,28
+2025-09-05,"Mountain Home(X, AR)",28,(1-1)Class 4,14
+2025-09-05,"Brookland(X, AR)",20,(1-1)Class 3,26
+2025-09-05,"Harrison(X, AR)",14,(2-0)Class 5,28
+2025-09-05,"Berryville(X, AR)",7,(1-1)Class 2,24
+2025-09-05,Kennett,28,(2-0)Class 4,42
+2025-09-05,"Highland(Topeka, KS)",32,(0-1)Class 6,6
+2025-09-05,"Bishop Miege(Shawnee Mission, KS)",0,(1-0)Class 4,24
+2025-09-05,"Maranatha Christian(Shawnee, KS)",6,(0-1)Class 5,0
+2025-09-05,Center,24,(0-1)Class 4,0
+2025-09-05,"Rock Creek(St. George, KS)",63,(0-1)Class 2,7
+2025-09-05,Hogan Prep Academy Charter,0,(1-0)Class 1,35
+2025-09-05,"Harrisburg(X, AR)",6,(2-0)Class 3,49
+2025-09-05,"Searcy(X, AR)",29,(2-0)Class 1,49
+2025-09-05,"Highland(x, IL)",20,(2-0)Class 3,42
+2025-09-05,"Pekin(x, IL)",14,(2-0)Class 6,26
+2025-09-05,Ft. Zumwalt West,35,(1-1)Class 6,14
+2025-09-05,"Crete-Monee(x, IL)",6,(2-0)Class 6,41
+2025-09-05,"Tremont(x, IL)",0,(2-0)Class 2,50
+2025-09-05,Principia,28,(2-0)Class 2,50
+2025-09-05,"Lawrence Central(x, IN)",61,(0-2)Class 6,21
+2025-09-05,"Woodstock North(x, IL)",13,(2-0)Class 3,40
+2025-09-05,"Jersey(x, IL)",21,(2-0)Class 4,44
+2025-09-05,North County,0,(2-0)Class 5,48
+2025-09-05,"Marion(x, IL)",63,(0-2)Class 6,12
+2025-09-05,"Marquette(x, IL)",56,(0-2)Class 1,14
+2025-09-05,"Quincy Notre Dame(x, IL)",42,(1-1)Class 3,0
+2025-09-05,"Sacred Heart-Griffin(x, IL)",65,(0-2)Class 5,20
+2025-09-05,"Ballard Memorial(x, IL)",42,(0-2)Class 3,0
+2025-09-05,"Breese Central(x, IL)",46,(0-2)Class 2,0
+2025-09-05,"Sycamore(x, IL)",20,(1-1)Class 6,21
+2025-09-05,"Marquette Catholic(x, IL)",0,(2-0)Class 3,42
+2025-09-05,"Alton(x, IL)",7,(1-1)Class 6,33
+2025-09-05,"Roxana(x, IL)",56,(0-2)Class 2,7
+2025-09-05,"Mascoutah(x, IL)",20,(1-1)Class 3,65
+2025-09-05,"DePaul College Prep(x, IL)",14,(1-1)Class 6,24
+2025-09-05,"Illini West(x, IL)",34,(1-1)Class 1,15
+2025-09-05,"Lawrence Free State(x, KS)",35,(0-1)Class 6,34
+2025-09-05,"Wellsville(x, KS)",34,(0-1)Class 2,7
+2025-09-05,"Fredonia/Elk Valley(x, KS)",38,(0-1)Class 1,8
+2025-09-05,"Olathe South(x, KS)",63,(0-1)Class 5,7
+2025-09-05,"Emporia(x, KS)",14,(1-0)Class 4,24
+2025-09-05,"Eudora(x, KS)",6,(1-0)Class 2,28
+2025-09-05,"Lansing(Lansing, KS)",42,(0-1)Class 5,7
+2025-09-05,"Valley Heights(X, KS)",14,(1-0)Class 1,20
+2025-09-05,Center,19,"(, )Class 4",8
+2025-09-05,(1-1)Class 3,41,"Anna(Anna, IL)",6
+2025-09-05,Grandview (Hillsboro),35,Bayless with Hancock,12
 2025-09-05,Lutheran North,26,Blair Oaks,44
 2025-09-05,Lee's Summit,7,Blue Springs,28
 2025-09-05,Park Hill South,21,Blue Springs South,44
+2025-09-05,(0-1)Class 4,0,"Blue Valley(Overland Park, KS)",34
+2025-09-05,(1-0)Class 4,49,"Blue Valley West(Overland Park, KS)",42
 2025-09-05,Harrisonville,22,Bolivar,19
 2025-09-05,Marshall,42,Boonville,35
 2025-09-05,Skyline,28,Buffalo,22
@@ -146,6 +267,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-05,Branson,42,Camdenton,13
 2025-09-05,Warrensburg,42,Cameron,6
 2025-09-05,Battle,0,Capital City,56
+2025-09-05,"(, )(0-2)Class 6",7,Carl Junction,45
 2025-09-05,Northeast (Kansas City),20,Carrollton,28
 2025-09-05,Malden,0,Caruthersville,61
 2025-09-05,St. Charles West,7,Central (Cape Girardeau),26
@@ -177,11 +299,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-05,Scotland County,37,Highland,20
 2025-09-05,SLUH,35,Hillsboro,14
 2025-09-05,Pembroke Hill,18,Holden,34
+2025-09-05,"(, )(1-2)Class 6",10,Jackson,32
 2025-09-05,Central (Park Hills),21,Jefferson (Festus),20
 2025-09-05,Jennings,27,John Burroughs,7
 2025-09-05,Scott City,14,Kelly,16
 2025-09-05,Neosho,35,Kickapoo,13
 2025-09-05,Oak Grove,13,Knob Noster,35
+2025-09-05,(0-3)Class 3,20,"Knoxville Catholic(Knoxville, TN)",42
 2025-09-05,Richmond,26,Lafayette (St. Joseph),20
 2025-09-05,Hazelwood Central,0,Lafayette (Wildwood),49
 2025-09-05,Plattsburg,6,Lathrop,54
@@ -190,6 +314,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-05,Mid-Buchanan,48,Lexington,0
 2025-09-05,St. James,0,Liberty (Mountain View),42
 2025-09-05,Liberty,38,Liberty North,22
+2025-09-05,Thayer,49,Lighthouse Sr. High(0-2),14
 2025-09-05,St. Mary's South Side,34,Lincoln College Prep,10
 2025-09-05,Salem,26,Linn,8
 2025-09-05,Ava,36,Logan-Rogersville,47
@@ -200,8 +325,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-05,Gallatin with Tri-County,6,Marceline,35
 2025-09-05,Eureka,35,Marquette,0
 2025-09-05,Reeds Spring,6,Marshfield,28
+2025-09-05,(0-3)Class 2,0,"Massac County(Metropolis, IL)",42
+2025-09-05,Brookfield,48,Maysville,13
 2025-09-05,Cassville,20,McDonald County,32
 2025-09-05,Southern Boone,7,Mexico,28
+2025-09-05,Fayette,66,Missouri Military Academy,0
 2025-09-05,Strafford,0,Monett,70
 2025-09-05,Montgomery County,8,Monroe City,32
 2025-09-05,Seneca,42,Mt. Vernon,3
@@ -212,6 +340,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-05,Mehlville,24,Northwest (Cedar Hill),62
 2025-09-05,Lee's Summit West,54,Oak Park,17
 2025-09-05,Clinton,21,Odessa,41
+2025-09-05,(2-0)Class 4,49,"Omaha Burke(Omaha, NE)",14
 2025-09-05,Moberly,35,Osage,38
 2025-09-05,St. Francis Borgia,47,Owensville,24
 2025-09-05,Carthage,49,Ozark,21
@@ -222,9 +351,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-05,Oakville,41,Parkway South,3
 2025-09-05,McCluer,6,Parkway West,35
 2025-09-05,Kirkwood,42,Pattonville,7
+2025-09-05,"(, )(3-0)Class 1",16,Penney,13
 2025-09-05,DeSoto with Kingston,31,Perryville,14
 2025-09-05,Grain Valley,23,Platte County,54
 2025-09-05,Maryville,37,Pleasant Hill,14
+2025-09-05,Willow Springs,40,"Pleasant Hope with Marion C. Early, Halfway",0
 2025-09-05,Chaminade College Prep,14,Poplar Bluff,7
 2025-09-05,Raytown South,8,Raytown,42
 2025-09-05,Ladue Horton Watkins,40,Ritenour,39
@@ -236,6 +367,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-05,Mark Twain,0,Salisbury,52
 2025-09-05,Hollister,37,Sarcoxie,20
 2025-09-05,East Buchanan,0,Savannah,43
+2025-09-05,(1-0)Class 6,51,"Shawnee Heights(Tecumseh, KS)",41
 2025-09-05,Butler,22,Sherwood,18
 2025-09-05,Dexter,39,Sikeston,24
 2025-09-05,Truman,14,Smithville,49
@@ -246,6 +378,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-05,Francis Howell North,6,St. Charles,17
 2025-09-05,Farmington,60,St. Clair,27
 2025-09-05,Normandy Collaborative,0,St. Dominic,65
+2025-09-05,(0-1)Class 3,0,"St. James(Lenexa, KS)",24
 2025-09-05,Mountain Grove,42,St. Michael the Archangel,28
 2025-09-05,Ft. Zumwalt East,39,St. Pius X (Festus),22
 2025-09-05,Valle Catholic,42,St. Vincent,7
@@ -253,8 +386,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-05,Miller,27,Stockton,28
 2025-09-05,Jefferson City,32,Sullivan,0
 2025-09-05,Liberty (Wentzville),44,Timberland,14
-2025-09-05,Fair Grove,21,Tipton,28
+2025-09-05,Fair Grove,21,Tipton with Bunceton,28
 2025-09-05,Polo,22,Trenton,6
+2025-09-05,"(, )(1-1)Class 6",7,Troy Buchanan,42
 2025-09-05,Vianney,29,Union,14
 2025-09-05,KIPP KC Legacy,0,University Academy Charter,49
 2025-09-05,Ste. Genevieve,27,University City,13
@@ -262,27 +396,85 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-05,Eldon,62,Versailles,0
 2025-09-05,Washington,7,Warrenton,26
 2025-09-05,Adrian,0,Warsaw,26
+2025-09-05,(1-2)Class 2,50,"Washington(Massillon, OH)",35
 2025-09-05,Republic,56,Waynesville,0
 2025-09-05,Crest Ridge with Chilhowee,20,West Platte,54
 2025-09-05,South Shelby,6,Westran,22
 2025-09-05,Affton,6,Windsor (Imperial),36
 2025-09-05,Wright City,14,Winfield,8
+2025-09-06,St. Pius X (Kansas City),21,(1-1)Class 5,9
+2025-09-06,"Lift for Life(x, IL)",22,(1-1)Class 4,14
+2025-09-06,"Marshall(x, IL)",42,(1-1)Class 3,12
+2025-09-06,Lift for Life Academy Charter,22,"(, )(1-1)Class 4",14
+2025-09-06,"(, )(2-0)Class 1",42,Central (Kansas City),7
 2025-09-06,Benton,6,Central (St. Joseph),43
+2025-09-06,Roosevelt,6,Gateway with Soldan International Studies,51
 2025-09-06,Forsyth,14,Marionville,34
 2025-09-06,Parkway North,33,McCluer North,0
+2025-09-06,Confluence Prep Academy Charter,0,Miller Career Academy with Sumner,36
 2025-09-06,Duchesne,6,Priory,43
+2025-09-06,"(, )(1-1)Class 5",9,St. Pius X (Kansas City),21
 2025-09-06,Clayton with Brentwood,7,Westminster Christian Academy,45
+2025-09-11,Lincoln College Prep,13,(1-1)Class 5,34
 2025-09-11,Logan-Rogersville,34,Parkview,12
+2025-09-11,Lighthouse Sr. High(0-3),0,Parkview,38
 2025-09-11,Ft. Zumwalt East,34,University City,39
+2025-09-12,"Lewis J Bennett School(Buffalo, NY)",0,(3-1)Class 5,35
+2025-09-12,"Bryan Station(Lexington, KY)",8,(1-3)Class 6,3
+2025-09-12,"Ambassador Christian(Huntsville, NC)",0,(2-2)Class 2,42
+2025-09-12,"Searcy(X, AR)",19,(1-2)Class 4,7
+2025-09-12,"Riverview(X, AR)",0,(2-1)Class 3,54
+2025-09-12,"Hoxie(X, AR)",21,(3-0)Class 4,34
+2025-09-12,"Cross Country(X, AR)",54,(0-2)Class 1,0
+2025-09-12,"Bishop Ward(Kansas City, KS)",42,(2-0)Class 5,62
+2025-09-12,"Blue Valley Southwest(Overland Park, KS)",27,(1-1)Class 3,28
+2025-09-12,"Wyandotte(Kansas City, KS)",0,(1-1)Class 4,44
+2025-09-12,Mid-Buchanan,49,(1-1)Class 1,13
+2025-09-12,"Council Grove(Council Grove, KS)",41,(1-1)Class 1,0
+2025-09-12,"Batesville(X, AR)",10,(3-0)Class 3,34
+2025-09-12,"West Memphis(X, AR)",0,(3-0)Class 1,35
+2025-09-12,"Belleville East(x, IL)",31,(2-1)Class 3,17
+2025-09-12,"Althoff Catholic(x, IL)",17,(3-0)Class 6,31
+2025-09-12,"Waubonsie Valley(x, IL)",6,(3-0)Class 6,35
+2025-09-12,"Granite City(x, IL)",0,(2-1)Class 4,62
+2025-09-12,"El Paso-Gridley(x, IL)",41,(2-1)Class 2,0
+2025-09-12,"Pinckneyville Comm.(x, IL)",27,(3-0)Class 2,41
+2025-09-12,Jackson,33,(0-3)Class 6,28
+2025-09-12,"Saint Ignatius College Prep(x, IL)",12,(3-0)Class 3,33
+2025-09-12,"Taylorville(x, IL)",14,(3-0)Class 4,22
+2025-09-12,"Decatur Eisenhower(x, IL)",6,(3-0)Class 5,65
+2025-09-12,"Cahokia(x, IL)",62,(0-3)Class 6,0
+2025-09-12,Riverview Gardens,0,(1-2)Class 5,36
+2025-09-12,"Anna-Jonesboro(x, IL)",0,(1-2)Class 3,42
+2025-09-12,"Effingham(x, IL)",24,(0-3)Class 2,14
+2025-09-12,"Sterling(x, IL)",20,(2-1)Class 6,36
+2025-09-12,St. Mary's South Side,33,(1-2)Class 6,21
+2025-09-12,"Alleman(x, IL)",0,(2-1)Class 6,49
+2025-09-12,"Columbia(x, IL)",25,(0-3)Class 2,13
+2025-09-12,"Jacksonville(x, IL)",20,(2-1)Class 3,55
+2025-09-12,Saxony Lutheran,30,(2-1)Class 3,36
+2025-09-12,"IC Catholic Prep(x, IL)",33,(1-2)Class 6,12
+2025-09-12,St. Pius X (Kansas City),28,(1-1)Class 6,34
+2025-09-12,"Jayhawk-Linn(x, KS)",6,(1-1)Class 2,27
+2025-09-12,"Shawnee Mission South(x, KS)",35,(1-1)Class 4,6
+2025-09-12,Rockhurst,35,(1-1)Class 6,14
+2025-09-12,"St. James(Lenexa, KS)",21,(2-0)Class 4,41
+2025-09-12,"Blue Valley(Overland Park, KS)",30,(2-0)Class 6,31
+2025-09-12,Lift for Life Academy Charter,30,(3-0)Class 4,42
+2025-09-12,"Benton(Benton, IL)",42,(1-2)Class 3,7
 2025-09-12,Holden,21,Adrian,0
+2025-09-12,(0-2)Class 5,0,"Atchison(Atchison, KS)",55
 2025-09-12,Monett,60,Aurora,16
 2025-09-12,Helias Catholic,66,Battle,6
+2025-09-12,Crystal City,20,Bayless with Hancock,43
 2025-09-12,Lafayette (St. Joseph),15,Benton,21
+2025-09-12,(0-2)Class 4,27,"Bishop Miege(Shawnee Mission, KS)",28
 2025-09-12,Hallsville,12,Boonville,42
 2025-09-12,Bolivar,6,Branson,35
 2025-09-12,Highland,6,Brookfield,52
 2025-09-12,Versailles,6,Butler,68
 2025-09-12,Southern Boone,28,California,7
+2025-09-12,(0-4)Class 2,6,"Calloway County(Murray, KY)",45
 2025-09-12,Winnetonka,46,Cameron,0
 2025-09-12,Francis Howell,0,Cardinal Ritter,50
 2025-09-12,Lone Jack with Kingsville,8,Carrollton,44
@@ -295,13 +487,17 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-12,Clark County,16,Centralia,52
 2025-09-12,Christian Brothers College,64,Chaminade College Prep,7
 2025-09-12,Maryville,31,Chillicothe,7
+2025-09-12,Gateway with Soldan International Studies,34,Clayton with Brentwood,8
 2025-09-12,Reeds Spring,13,Clever,21
 2025-09-12,Sherwood,8,Cole Camp,24
 2025-09-12,SLUH,31,De Smet Jesuit,14
 2025-09-12,North County,14,DeSoto with Kingston,13
+2025-09-12,(0-2)Class 5,6,"DeSoto(DeSoto, KS)",51
+2025-09-12,"(, )(0-2)Class 1",6,Diamond,42
 2025-09-12,Caruthersville,52,Duchesne,3
 2025-09-12,Lawson,65,East Buchanan,17
 2025-09-12,Father Tolton with Calvary Lutheran,58,East Prairie,0
+2025-09-12,"Pleasant Hope with Marion C. Early, Halfway",0,El Dorado Springs,55
 2025-09-12,Owensville,8,Eldon,13
 2025-09-12,Buffalo,14,Fair Grove,28
 2025-09-12,Poplar Bluff,19,Farmington,49
@@ -320,6 +516,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-12,Eureka,56,Hazelwood Central,0
 2025-09-12,St. James,35,Hermann,6
 2025-09-12,Capital City,24,Hickman,34
+2025-09-12,(0-2)Class 4,16,"Highland(Topeka, KS)",44
 2025-09-12,Forsyth,50,Hollister,7
 2025-09-12,Orchard Farm,49,Holt,38
 2025-09-12,Salem,12,Houston,54
@@ -335,11 +532,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-12,Warsaw,32,Lafayette County,0
 2025-09-12,North Platte,22,Lathrop,26
 2025-09-12,Blue Springs South,31,Lee's Summit,7
+2025-09-12,"(, )(1-1)Class 5",21,Lee's Summit North,31
 2025-09-12,Raytown South,7,Liberty,73
 2025-09-12,Warrenton,0,Liberty (Wentzville),35
+2025-09-12,(3-0)Class 4,31,"Lincoln Southeast(LIncoln, NE)",10
 2025-09-12,Ladue Horton Watkins,14,Lindbergh,10
 2025-09-12,Van-Far with Community,46,Louisiana,20
 2025-09-12,Priory,0,Lutheran South,38
+2025-09-12,"(, )(0-3)Class 1",28,Lutheran St. Charles,48
 2025-09-12,Palmyra,12,Macon,27
 2025-09-12,Charleston,48,Malden,14
 2025-09-12,Winfield,34,Mark Twain,6
@@ -348,7 +548,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-12,Carl Junction,49,Marshfield,15
 2025-09-12,Mt. Vernon,7,McDonald County,48
 2025-09-12,Hazelwood West,12,Mehlville,15
+2025-09-12,(1-3)Class 3,49,"Memphis University School(Memphis, TN)",24
 2025-09-12,Odessa,43,Mexico,48
+2025-09-12,Maysville,22,Milan,18
 2025-09-12,North Callaway,44,Montgomery County,16
 2025-09-12,Ava,7,Mountain Grove,48
 2025-09-12,Lebanon,17,Neosho,47
@@ -370,8 +572,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-12,Blue Springs,38,Raymore-Peculiar,21
 2025-09-12,Belton,34,Raytown,56
 2025-09-12,Ozark,33,Republic,55
+2025-09-12,Miller Career Academy with Sumner,32,Rolla,76
 2025-09-12,Midway,6,Sarcoxie,41
 2025-09-12,Kirksville,0,Savannah,28
+2025-09-12,(0-2)Class 6,0,"Schlagle(Kansas City, KS)",44
 2025-09-12,Northwest (Cedar Hill),14,Seckman,49
 2025-09-12,Nevada,33,Seneca,54
 2025-09-12,Central (Cape Girardeau),33,Sikeston,14
@@ -383,6 +587,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-12,Crest Ridge with Chilhowee,41,Southeast,20
 2025-09-12,Ft. Zumwalt South,19,St. Charles,6
 2025-09-12,St. Francis Borgia,17,St. Dominic,42
+2025-09-12,"(, )(2-0)Class 2",49,St. Michael the Archangel,0
+2025-09-12,(1-1)Class 4,21,"St. Thomas Aquinas(Overland Park, KS)",41
 2025-09-12,Perryville,21,St. Vincent,27
 2025-09-12,Park Hill,23,Staley,7
 2025-09-12,Ash Grove,39,Stockton,6
@@ -390,12 +596,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-12,Union,19,Sullivan,21
 2025-09-12,Clinton,44,Summit Christian Academy,14
 2025-09-12,Liberty (Mountain View),14,Thayer,21
-2025-09-12,Lamar,21,Tipton,7
+2025-09-12,Lamar,21,Tipton with Bunceton,7
 2025-09-12,Potosi,15,Valle Catholic,47
 2025-09-12,Truman,14,Van Horn,17
+2025-09-12,Missouri Military Academy,0,Veritas Christian Academy,43
 2025-09-12,Francis Howell Central,34,Vianney,21
 2025-09-12,Moberly,7,Warrensburg,42
 2025-09-12,Hillsboro,27,Washington,16
+2025-09-12,(0-2)Class 2,42,"Washington(Kansas City, KS)",62
 2025-09-12,Kickapoo,21,Webb City,49
 2025-09-12,Parkway South,13,Webster Groves,51
 2025-09-12,Hillcrest,7,West Plains,56
@@ -404,13 +612,72 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-12,Cabool,0,Willow Springs,35
 2025-09-12,Linn,8,Windsor,59
 2025-09-12,Bowling Green,8,Wright City,34
+2025-09-13,"East Alton-Wood River(x, IL)",0,(2-1)Class 3,48
+2025-09-13,"Springfield Southeast(x, IL)",0,(3-0)Class 3,63
+2025-09-13,"Prairie Central(x, IL)",14,(1-2)Class 1,13
 2025-09-13,Scott City,52,Hayti,38
+2025-09-13,"(, )(3-0)Class 1",22,Hogan Prep Academy Charter,6
 2025-09-13,Hazelwood East,36,McCluer,0
 2025-09-13,Westminster Christian Academy,13,MICDS,35
+2025-09-13,"(, )(2-1)Class 6",68,Normandy Collaborative,6
+2025-09-15,Affton,38,Principia,56
 2025-09-18,Joplin,42,Glendale,21
+2025-09-18,Bayless with Hancock,8,Perryville,37
+2025-09-18,"(, )(3-0)Class 5",37,Rolla,10
 2025-09-18,Holt,49,St. Charles,8
 2025-09-18,Riverview Gardens,0,University City,49
 2025-09-18,Louisiana,14,Wright City,27
+2025-09-19,"Engsworth(Engsworth, TN)",49,(1-4)Class 3,8
+2025-09-19,"St. Edward(Lakewood, OH)",14,(4-1)Class 5,21
+2025-09-19,"Millard West(Millard, NE)",7,(4-0)Class 4,14
+2025-09-19,Charleston,40,(0-5)Class 2,7
+2025-09-19,Lee's Summit North,28,(3-0)Class 6,45
+2025-09-19,"North Little Rock(X, AR)",13,(2-1)Class 5,42
+2025-09-19,"Greenland(X, AR)",26,(2-1)Class 3,42
+2025-09-19,"Central(X, AR)",46,(0-3)Class 6,24
+2025-09-19,"Piggott(X, AR)",8,(2-1)Class 2,28
+2025-09-19,"Mountain View(X, AR)",28,(0-3)Class 1,8
+2025-09-19,"Harmon(Kansas City, KS)",6,(3-0)Class 5,34
+2025-09-19,"Atchison(Atchison, KS)",55,(0-3)Class 4,28
+2025-09-19,"Blue Valley West(Overland Park, KS)",12,(2-1)Class 3,21
+2025-09-19,"Blue Valley(Overland Park, KS)",21,(3-0)Class 4,42
+2025-09-19,"Hayden Catholic(Topeka, KS)",62,(0-3)Class 2,8
+2025-09-19,"Marion(x, IL)",56,(2-2)Class 3,24
+2025-09-19,"O'Fallon(x, IL)",0,(4-0)Class 6,23
+2025-09-19,"Edwardsville(X, IL)",48,(2-2)Class 6,30
+2025-09-19,"Carbondale(x, IL)",12,(3-1)Class 4,52
+2025-09-19,"Tri-Valley(x, IL)",49,(2-2)Class 2,14
+2025-09-19,"Wesclin(x, IL)",13,(4-0)Class 2,20
+2025-09-19,"Belleville West(x, IL)",30,(1-3)Class 6,48
+2025-09-19,"Nazareth(x, IL)",24,(3-1)Class 3,21
+2025-09-19,"Breese Central(x, IL)",49,(3-1)Class 4,0
+2025-09-19,"Rochester(x, IL)",42,(4-0)Class 5,43
+2025-09-19,"Centralia(x, IL)",42,(0-4)Class 6,6
+2025-09-19,"Central A&M(x, IL)",48,(0-4)Class 1,26
+2025-09-19,"Waterloo(x, IL)",19,(2-2)Class 5,24
+2025-09-19,"Red Devils(x, IL)",48,(1-3)Class 3,26
+2025-09-19,"Harrisburg(x, IL)",21,(1-3)Class 2,52
+2025-09-19,"Geneseo(x, IL)",7,(3-1)Class 6,28
+2025-09-19,"Belleville East(x, IL)",23,(1-3)Class 6,0
+2025-09-19,"Sacred Heart-Griffin(x, IL)",35,(3-1)Class 3,14
+2025-09-19,"Rock Island(x, IL)",6,(3-1)Class 6,53
+2025-09-19,"Carlyle(x, IL)",20,(1-3)Class 2,47
+2025-09-19,"Quincy Notre Dame(x, IL)",26,(3-1)Class 3,42
+2025-09-19,"Chester(x, IL)",27,(2-2)Class 3,0
+2025-09-19,"Mt. Carmel(x, IL)",41,(1-3)Class 6,14
+2025-09-19,"Monticello(x, IL)",39,(1-3)Class 1,20
+2025-09-19,Lexington,6,(2-1)Class 2,35
+2025-09-19,Butler,28,(3-1)Class 1,20
+2025-09-19,"Free State(Lawrence, KS)",49,(1-2)Class 5,27
+2025-09-19,"South Sumner(x, KS)",22,(1-2)Class 1,41
+2025-09-19,"Shawnee Mission East(Shawnee Mission, KS)",21,(2-1)Class 5,56
+2025-09-19,"Labette County(x, KS)",20,(1-2)Class 4,13
+2025-09-19,"Shawnee Mission North(x, KS)",14,(2-1)Class 6,42
+2025-09-19,"Bishop Ward(x, KS)",8,(3-0)Class 2,62
+2025-09-19,"Leavenworth(Leavenworth, KS)",56,(0-3)Class 5,0
+2025-09-19,"Blue Valley North(Overland Park, KS)",26,(0-3)Class 4,23
+2025-09-19,Platte County,60,(2-1)Class 6,28
+2025-09-19,"Massac County(Metropolis, IL)",21,(2-2)Class 3,35
 2025-09-19,Midway,14,Adrian,12
 2025-09-19,Hickman,55,Battle,14
 2025-09-19,Grandview,6,Belton,47
@@ -418,6 +685,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-19,California,0,Blair Oaks,65
 2025-09-19,Staley,21,Blue Springs,14
 2025-09-19,Raymore-Peculiar,7,Blue Springs South,44
+2025-09-19,(2-1)Class 4,21,"Blue Valley Northwest(Overland Park, KS)",7
 2025-09-19,Parkview,0,Bolivar,16
 2025-09-19,North Callaway,60,Bowling Green,12
 2025-09-19,Strafford,13,Buffalo,25
@@ -430,10 +698,12 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-19,St. Dominic,42,Central (Park Hills),21
 2025-09-19,North Kansas City,58,Central (St. Joseph),34
 2025-09-19,Vianney,34,Chaminade College Prep,49
+2025-09-19,(4-0)Class 4,48,"Christ Presbyterian(Nashville, TN)",7
 2025-09-19,De Smet Jesuit,13,Christian Brothers College,56
 2025-09-19,South Shelby,8,Clark County,14
 2025-09-19,Windsor (Imperial),66,Clayton with Brentwood,26
 2025-09-19,Pleasant Hill,14,Clinton,21
+2025-09-19,Crystal City,42,Confluence Prep Academy Charter,16
 2025-09-19,Cole Camp,24,Crest Ridge with Chilhowee,34
 2025-09-19,Jefferson (Festus),64,Cuba,16
 2025-09-19,Festus,33,DeSoto with Kingston,0
@@ -444,11 +714,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-19,Raytown,35,Excelsior Springs,12
 2025-09-19,Jackson,56,Farmington,7
 2025-09-19,Hayti,6,Father Tolton with Calvary Lutheran,59
+2025-09-19,(2-3)Class 6,35,"Fern Creek(Louisville, KY)",8
 2025-09-19,Clever,42,Forsyth,43
 2025-09-19,Francis Howell North,0,Francis Howell,48
 2025-09-19,Ft. Zumwalt West,35,Francis Howell Central,9
 2025-09-19,Washington,0,Ft. Zumwalt North,48
 2025-09-19,Ft. Zumwalt East,27,Ft. Zumwalt South,13
+2025-09-19,Principia,38,Grandview (Hillsboro),46
 2025-09-19,Macon,14,Hallsville,19
 2025-09-19,Fulton,0,Hannibal,58
 2025-09-19,Warrensburg,28,Harrisonville,35
@@ -456,6 +728,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-19,Camdenton,6,Helias Catholic,56
 2025-09-19,St. Vincent,13,Herculaneum,28
 2025-09-19,Palmyra,67,Highland,20
+2025-09-19,(1-2)Class 4,18,"Highland Park(Topeka, KS)",36
 2025-09-19,Marshfield,12,Hillcrest,7
 2025-09-19,Fair Grove,48,Hollister,0
 2025-09-19,Kelly,18,Kennett,26
@@ -474,12 +747,15 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-19,Lee's Summit,34,Liberty North,35
 2025-09-19,Maryville,30,Lincoln College Prep,14
 2025-09-19,Hazelwood Central,0,Lindbergh,31
+2025-09-19,Missouri Military Academy,8,Linn,58
 2025-09-19,Hogan Prep Academy Charter,34,Lone Jack with Kingsville,20
 2025-09-19,John Burroughs,49,Lutheran South,7
 2025-09-19,SLUH,49,Lutheran St. Charles,0
 2025-09-19,Doniphan,50,Malden,14
 2025-09-19,Milan,0,Marceline,42
+2025-09-19,"(, )(4-0)Class 3",35,Marionville,14
 2025-09-19,Mexico,42,Marshall,13
+2025-09-19,Putnam County,48,Maysville,0
 2025-09-19,Diamond,14,Miller,54
 2025-09-19,Seneca,68,Monett,52
 2025-09-19,Centralia,34,Monroe City,38
@@ -493,14 +769,17 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-19,Knob Noster,43,Northeast (Kansas City),13
 2025-09-19,Odessa,20,Oak Grove,7
 2025-09-19,Smithville,38,Oak Park,21
+2025-09-19,(2-1)Class 1,44,"Onaga(Onaga, KS)",8
 2025-09-19,Webb City,52,Ozark,35
 2025-09-19,Kearney,14,Park Hill,7
 2025-09-19,Lafayette (Wildwood),55,Parkway Central,0
 2025-09-19,Marquette,7,Parkway North,30
 2025-09-19,Parkway West,46,Parkway South,10
+2025-09-19,(4-0)Class 1,45,"Parsons(Parsons, KS)",8
 2025-09-19,Ash Grove,50,Pierce City,27
 2025-09-19,Brookfield,44,Polo,14
 2025-09-19,Ste. Genevieve,25,Potosi,24
+2025-09-19,(2-3)Class 2,34,"Providence Day(Charlotte, NC)",55
 2025-09-19,Winnetonka,48,Raytown South,0
 2025-09-19,Springfield Catholic,35,Reeds Spring,26
 2025-09-19,Center,12,Richmond,51
@@ -522,17 +801,21 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-19,Sullivan,27,St. Clair,13
 2025-09-19,Holden,27,St. Francis Borgia,40
 2025-09-19,Owensville,0,St. James,52
+2025-09-19,"(, )(4-0)Class 6",35,St. Mary's South Side,22
 2025-09-19,Pembroke Hill,16,St. Michael the Archangel,31
 2025-09-19,Cardinal Ritter,36,St. Pius X (Kansas City),8
 2025-09-19,Troy Buchanan,54,Timberland,19
+2025-09-19,Lighthouse Sr. High(0-4),0,Tipton with Bunceton,42
 2025-09-19,Gallatin with Tri-County,42,Trenton,15
 2025-09-19,Fort Osage,66,Truman,6
 2025-09-19,Pacific,7,Union,28
 2025-09-19,Fredericktown,0,Valle Catholic,57
 2025-09-19,Mark Twain,0,Van-Far with Community,40
 2025-09-19,El Dorado Springs,50,Versailles,6
+2025-09-19,(1-2)Class 5,61,"Washington(Kansas City, KS)",0
 2025-09-19,Neosho,72,Waynesville,21
 2025-09-19,Northwest (Cedar Hill),42,Webster Groves,35
+2025-09-19,(2-1)Class 1,55,"West Franklin(Pomona, KS)",24
 2025-09-19,Branson,35,West Plains,21
 2025-09-19,Mid-Buchanan,28,West Platte,0
 2025-09-19,Fayette,7,Westran,6
@@ -540,31 +823,95 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-19,Mountain Grove,54,Willow Springs,14
 2025-09-19,Plattsburg,14,Windsor,49
 2025-09-19,Warrenton,40,Winfield,15
+2025-09-20,"Aurora Central Catholic(x, IL)",20,(3-1)Class 3,41
+2025-09-20,"Pleasant Hope with Marion C. Early, Halfway",14,Central (Kansas City),56
 2025-09-20,Normandy Collaborative,0,Jennings,57
+2025-09-20,"(, )(0-3)Class 6",6,KIPP KC Legacy,26
+2025-09-20,Gateway with Soldan International Studies,44,Miller Career Academy with Sumner,0
 2025-09-20,Ritenour,27,Pattonville,35
 2025-09-20,St. Pius X (Festus),42,Roosevelt,0
 2025-09-20,Lift for Life Academy Charter,50,Summit Christian Academy,23
 2025-09-20,Lutheran North,22,Westminster Christian Academy,0
+2025-09-25,(3-1)Class 6,31,"Blue Valley Northwest(Overland Park, KS)",7
 2025-09-25,Ladue Horton Watkins,39,Hazelwood West,0
 2025-09-25,Lebanon,14,Nixa,49
 2025-09-25,Sullivan,22,Pacific,14
 2025-09-25,Hazelwood East,30,Parkway North,31
 2025-09-25,Warrenton,48,St. Charles West,14
+2025-09-26,"Clarkson North(Toronto, ON)",34,(4-2)Class 5,2
+2025-09-26,"South Fulton(Fulton, TN)",41,(0-6)Class 2,0
+2025-09-26,"Boyle Creek(Danville, KY)",35,(2-4)Class 6,14
+2025-09-26,"Har-Ber(X, AR)",7,(4-0)Class 6,38
+2025-09-26,"El Dorado(X, AR)",48,(2-2)Class 5,31
+2025-09-26,"Prairie Grove(X, AR)",50,(2-2)Class 3,7
+2025-09-26,"Alma(X, AR)",13,(2-2)Class 4,41
+2025-09-26,"Springdale(X, AR)",33,(0-4)Class 6,0
+2025-09-26,"Gosnell(X, AR)",26,(2-2)Class 3,20
+2025-09-26,"Fort Smith Soutside(X, AR)",21,(4-0)Class 5,39
+2025-09-26,"Mayflower(X, AR)",49,(2-2)Class 2,7
+2025-09-26,"Valley View(X, AR)",35,(3-1)Class 4,0
+2025-09-26,"Newport(X, AR)",59,(0-4)Class 1,6
+2025-09-26,"Sumner(Kansas City, KS)",56,(0-4)Class 6,14
+2025-09-26,"Blue Valley(Overland Park, KS)",29,(3-1)Class 4,32
+2025-09-26,"Highland(Topeka, KS)",0,(2-2)Class 5,7
+2025-09-26,"Atchison(Atchison, KS)",13,(1-3)Class 4,0
+2025-09-26,"Pocahontas(X, AR)",22,(5-0)Class 3,34
+2025-09-26,"Paragould(X, AR)",0,(4-0)Class 1,35
+2025-09-26,"Mount Vernon(x, IL)",29,(2-3)Class 3,28
+2025-09-26,"Edwardsville(x, IL)",41,(4-1)Class 6,39
+2025-09-26,"East St. Louis(x, IL)",67,(2-3)Class 6,0
+2025-09-26,"Stagg(x, IL)",6,(5-0)Class 6,40
+2025-09-26,"Marion(x, IL)",22,(4-1)Class 4,28
+2025-09-26,"Fieldcrest(x, IL)",24,(3-2)Class 2,56
+2025-09-26,"Carlyle(x, IL)",27,(5-0)Class 2,46
+2025-09-26,"Belleville East(x, IL)",39,(2-3)Class 6,41
+2025-09-26,"Marist(x, IL)",29,(3-2)Class 3,28
+2025-09-26,"Columbia(x, IL)",14,(4-1)Class 4,23
+2025-09-26,"MacArthur(x, IL)",0,(5-0)Class 5,49
+2025-09-26,"Collinsville(x, IL)",50,(0-5)Class 6,3
+2025-09-26,"Argenta-Oreana(x, IL)",21,(1-4)Class 1,28
+2025-09-26,"Jersey(x, IL)",16,(3-2)Class 5,35
+2025-09-26,"Harrisburg(x, IL)",28,(1-4)Class 3,21
+2025-09-26,"Macomb(x, IL)",41,(1-4)Class 2,35
+2025-09-26,"Quincy(x, IL)",0,(4-1)Class 6,39
+2025-09-26,"Alton(x, IL)",3,(2-3)Class 6,23
+2025-09-26,"Springfield(x, IL)",35,(3-2)Class 3,29
+2025-09-26,"Moline(x, IL)",39,(3-2)Class 6,0
+2025-09-26,"Sparta/Steeleville(x, IL)",34,(1-4)Class 2,22
+2025-09-26,"Lanphier(x, IL)",8,(4-1)Class 3,41
+2025-09-26,"Red Bud(x, IL)",22,(3-2)Class 3,34
+2025-09-26,"St. Viator(x, IL)",3,(2-3)Class 6,44
+2025-09-26,"Ridgeview-Lexington(x, IL)",21,(1-4)Class 1,14
+2025-09-26,"Olathe North(x, KS)",7,(2-1)Class 6,42
+2025-09-26,"Iola(x, KS)",32,(2-2)Class 2,27
+2025-09-26,"Uniontown(x, KS)",18,(2-2)Class 1,40
+2025-09-26,"Shawnee Mission South(x, KS)",30,(1-3)Class 5,17
+2025-09-26,"Fort Scott(x, KS)",15,(2-2)Class 4,22
+2025-09-26,"Gardner Edgerton(x, KS)",42,(2-2)Class 6,7
+2025-09-26,"Wamego(x, KS)",6,(4-0)Class 2,42
+2025-09-26,"St. Thomas Aquinas(Overland Park, KS)",41,(0-4)Class 4,14
 2025-09-26,Jennings,56,Affton,0
 2025-09-26,Miller,25,Ash Grove,12
 2025-09-26,Salem,14,Ava,42
+2025-09-26,Jefferson (Festus),50,Bayless with Hancock,20
 2025-09-26,Lee's Summit North,41,Blue Springs,28
+2025-09-26,(4-0)Class 4,41,"Blue Valley Southwest(Overland Park, KS)",14
 2025-09-26,Blair Oaks,55,Boonville,0
 2025-09-26,Hollister,30,Buffalo,16
 2025-09-26,Adrian,39,Butler,28
+2025-09-26,(3-1)Class 1,21,"Cair Paravel Latin School(Topeka, KS)",7
 2025-09-26,Battle,24,Camdenton,53
+2025-09-26,(5-0)Class 1,41,"Caney Valley(Caney, KS)",8
 2025-09-26,Willard,14,Carthage,59
 2025-09-26,Valle Catholic,23,Caruthersville,13
 2025-09-26,Harrisonville,14,Cassville,42
 2025-09-26,Macon,13,Centralia,50
 2025-09-26,Southeast,6,Chillicothe,47
+2025-09-26,"(, )(1-5)Class 3",33,Christian Brothers College,65
 2025-09-26,Oak Grove,14,Clinton,20
 2025-09-26,Lone Jack with Kingsville,16,Cole Camp,45
+2025-09-26,Gateway with Soldan International Studies,29,Crystal City,6
+2025-09-26,(3-1)Class 1,30,"Doniphan West(Highland, KS)",0
 2025-09-26,Lathrop,6,East Buchanan,35
 2025-09-26,Nevada,41,East Newton,7
 2025-09-26,Sarcoxie,28,El Dorado Springs,20
@@ -582,10 +929,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-26,Winnetonka,42,Grandview,0
 2025-09-26,Perryville,21,Grandview (Hillsboro),20
 2025-09-26,Eldon,33,Hallsville,43
-2025-09-26,Tipton,48,Harrisburg,0
+2025-09-26,Tipton with Bunceton,48,Harrisburg,0
 2025-09-26,Marquette,23,Hazelwood Central,12
 2025-09-26,Cuba,20,Herculaneum,50
 2025-09-26,Owensville,14,Hermann,50
+2025-09-26,(3-2)Class 3,40,"Herrin(Herrin, IL)",8
 2025-09-26,Smith-Cotton,14,Hickman,33
 2025-09-26,Carl Junction,49,Hillcrest,26
 2025-09-26,Lexington,6,Holden,63
@@ -596,6 +944,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-26,Marshall,14,Kirksville,35
 2025-09-26,Carrollton,22,Knob Noster,55
 2025-09-26,Pattonville,0,Lafayette (Wildwood),35
+2025-09-26,(3-1)Class 5,42,"Lawrence(Lawrence, KS)",21
 2025-09-26,Lee's Summit West,15,Lee's Summit,33
 2025-09-26,Central (St. Joseph),21,Liberty,63
 2025-09-26,Willow Springs,0,Liberty (Mountain View),51
@@ -604,6 +953,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-26,West Plains,55,Logan-Rogersville,41
 2025-09-26,Bowling Green,45,Louisiana,23
 2025-09-26,Lutheran South,7,Lutheran North,57
+2025-09-26,Miller Career Academy with Sumner,38,Lutheran St. Charles,24
+2025-09-26,Maysville,0,Marceline,25
 2025-09-26,Diamond,0,Marionville,63
 2025-09-26,Wright City,41,Mark Twain,20
 2025-09-26,Bolivar,37,Marshfield,35
@@ -614,8 +965,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-26,Lawson,21,Mid-Buchanan,35
 2025-09-26,Crest Ridge with Chilhowee,14,Midway,40
 2025-09-26,Polo,28,Milan,15
+2025-09-26,Doniphan,46,Missouri Military Academy,0
 2025-09-26,Fulton,14,Moberly,56
 2025-09-26,Clark County,0,Monroe City,62
+2025-09-26,(5-0)Class 4,45,"Montgomery Bell(Nashville, TN)",18
 2025-09-26,Van-Far with Community,14,Montgomery County,28
 2025-09-26,Cabool,6,Mountain Grove,66
 2025-09-26,Lamar,0,Mt. Vernon,21
@@ -630,6 +983,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-26,St. Charles,3,Orchard Farm,49
 2025-09-26,California,0,Osage,48
 2025-09-26,Waynesville,0,Ozark,71
+2025-09-26,(5-0)Class 4,21,"Pappillion-LaVista(Pappillion, NE)",10
 2025-09-26,Park Hill,35,Park Hill South,0
 2025-09-26,Branson,13,Parkview,18
 2025-09-26,Parkway West,49,Parkway Central,0
@@ -638,6 +992,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-26,Belton,14,Platte County,69
 2025-09-26,West Platte,62,Plattsburg,14
 2025-09-26,Warrensburg,38,Pleasant Hill,7
+2025-09-26,Sherwood,38,"Pleasant Hope with Marion C. Early, Halfway",0
 2025-09-26,Jackson,69,Poplar Bluff,7
 2025-09-26,Charleston,18,Portageville,27
 2025-09-26,Brookfield,16,Putnam County,29
@@ -645,10 +1000,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-26,Joplin,16,Republic,45
 2025-09-26,Lafayette County,7,Richmond,61
 2025-09-26,Helias Catholic,16,Rock Bridge,6
+2025-09-26,"(, )(2-2)Class 3",0,Rockhurst,35
 2025-09-26,Raytown,49,Ruskin,8
 2025-09-26,Benton,18,Savannah,56
+2025-09-26,"(, )(4-1)Class 3",48,Saxony Lutheran,34
 2025-09-26,Salisbury,44,Scotland County,8
 2025-09-26,Malden,6,Scott City,48
+2025-09-26,(0-4)Class 5,6,"Seaman(Topeka, KS)",56
 2025-09-26,Aurora,7,Seneca,57
 2025-09-26,Farmington,42,Sikeston,6
 2025-09-26,Pierce City,54,Skyline,28
@@ -677,22 +1035,86 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-09-26,Versailles,6,Warsaw,62
 2025-09-26,Gallatin with Tri-County,35,Westran,22
 2025-09-26,DeSoto with Kingston,41,Windsor (Imperial),14
+2025-09-26,(1-3)Class 4,56,"Wyandotte(Kansas City, KS)",14
+2025-09-27,"Lighthouse Christian(x, KS)",7,(3-2)Class 1,6
+2025-09-27,Duchesne,44,Bishop DuBourg,8
+2025-09-27,"(, )(4-0)Class 5",49,Central (Kansas City),26
 2025-09-27,University City,57,Clayton with Brentwood,0
 2025-09-27,Clever,13,Fair Grove,10
+2025-09-27,"(, )(1-3)Class 2",55,Hogan Prep Academy Charter,34
 2025-09-27,McCluer,10,McCluer North,19
 2025-09-27,John Burroughs,8,MICDS,38
 2025-09-27,Riverview Gardens,34,Normandy Collaborative,0
+2025-09-27,Confluence Prep Academy Charter,0,Principia,64
 2025-09-27,Westminster Christian Academy,47,Priory,7
 2025-09-27,Lindbergh,3,Ritenour,41
 2025-09-27,Dexter,28,Southern Boone,17
+2025-10-02,"Olathe West(x, KS)",49,(2-2)Class 6,21
 2025-10-02,Ft. Zumwalt East,6,Ft. Zumwalt North,49
 2025-10-02,Ava,43,Houston,20
+2025-10-03,Cardinal Ritter,14,(5-2)Class 5,28
+2025-10-03,"Omaha Central(Omaha, NE)",16,(6-0)Class 4,31
+2025-10-03,"Russellville(Russellville, KY)",56,(0-7)Class 2,13
+2025-10-03,Christian Brothers College,59,(2-4)Class 2,49
+2025-10-03,"Fort Smith Northside(X, AR)",0,(5-0)Class 6,34
+2025-10-03,"West Memphis(X, AR)",28,(3-2)Class 5,44
+2025-10-03,"Gravette(X, AR)",55,(2-3)Class 3,7
+2025-10-03,"Farmington(X, AR)",36,(2-3)Class 4,35
+2025-10-03,"Har-Ber(X, AR)",35,(0-5)Class 6,3
+2025-10-03,"Trumann(X, AR)",14,(3-2)Class 3,60
+2025-10-03,"Shiloh Christian(X, AR)",55,(4-1)Class 5,41
+2025-10-03,"Atkins(X, AR)",43,(2-3)Class 2,0
+2025-10-03,"Batesville(X, AR)",24,(3-2)Class 4,16
+2025-10-03,"Harrisburg(X, AR)",44,(0-5)Class 1,14
+2025-10-03,"Schlagle(Kansas City, KS)",32,(1-4)Class 4,28
+2025-10-03,"Bishop Miege(Shawnee Mission, KS)",14,(5-0)Class 4,43
+2025-10-03,"Wyandotte(Kansas City, KS)",17,(3-2)Class 5,25
+2025-10-03,KIPP KC Legacy,0,(1-4)Class 5,42
+2025-10-03,"Osawatomie(Osawatomie, KS)",6,(2-3)Class 2,42
+2025-10-03,"Cave City(X, AR)",0,(6-0)Class 3,63
+2025-10-03,"Harding(X, AR)",12,(5-0)Class 1,37
+2025-10-03,"Collinsville(x, IL)",14,(3-3)Class 3,16
+2025-10-03,"Alton(x, IL)",6,(5-1)Class 6,47
+2025-10-03,"O'Fallon Township(x, IL)",46,(2-4)Class 6,30
+2025-10-03,"Lincoln-Way Central(x, IL)",28,(5-1)Class 6,20
+2025-10-03,"Mt. Vernon(x, IL)",18,(5-1)Class 4,42
+2025-10-03,"Gibson City-Melvin-Sibley(x, IL)",20,(3-3)Class 2,14
+2025-10-03,"Red Bud(x, IL)",14,(6-0)Class 2,56
+2025-10-03,"East St. Louis(x, IL)",54,(2-4)Class 6,0
+2025-10-03,"St. Francis(x, IL)",28,(4-2)Class 3,35
+2025-10-03,"Roxana(x, IL)",19,(5-1)Class 4,21
+2025-10-03,"University (Normal)(x, IL)",0,(6-0)Class 5,42
+2025-10-03,"Carbondale(x, IL)",49,(0-6)Class 6,13
+2025-10-03,"Heyworth(x, IL)",24,(4-2)Class 3,0
+2025-10-03,"Triad(x, IL)",7,(4-2)Class 5,16
+2025-10-03,"Herrin(x, IL)",20,(2-4)Class 3,35
+2025-10-03,Miller Career Academy with Sumner,0,(2-4)Class 2,48
+2025-10-03,"Rock Island(x, IL)",7,(5-1)Class 6,62
+2025-10-03,"Belleville West(x, IL)",30,(3-3)Class 6,46
+2025-10-03,"Lanphier(x, IL)",8,(4-2)Class 3,47
+2025-10-03,"East Moline United(x, IL)",21,(4-2)Class 6,23
+2025-10-03,"Dupo(x, IL)",56,(1-5)Class 2,14
+2025-10-03,"Springfield Southeast(x, IL)",0,(5-1)Class 3,63
+2025-10-03,"Wesclin(x, IL)",48,(3-3)Class 3,30
+2025-10-03,"Burlington(x, KS)",0,(3-2)Class 2,35
+2025-10-03,Northeast (Kansas City),20,(4-2)Class 1,26
+2025-10-03,"Erie(x, KS)",25,(3-2)Class 1,43
+2025-10-03,"Olathe North(x, KS)",41,(1-4)Class 5,7
+2025-10-03,"Shawnee Mission Northwest(Shawnee Mission, KS)",24,(4-1)Class 5,56
+2025-10-03,"Paola(x, KS)",33,(2-3)Class 4,21
+2025-10-03,"Shawnee Mission West(x, KS)",7,(3-2)Class 6,41
+2025-10-03,"Hiawatha(x, KS)",6,(5-0)Class 2,56
+2025-10-03,"Topeka(Topeka, KS)",21,(4-1)Class 6,49
+2025-10-03,"McCallie School(Chattanooga, TN)",35,(6-0)Class 4,38
+2025-10-03,Lift for Life Academy Charter,46,(3-3)Class 3,34
 2025-10-03,Versailles,0,Adrian,61
 2025-10-03,Clayton with Brentwood,34,Affton,21
 2025-10-03,Skyline,14,Ash Grove,41
+2025-10-03,(4-1)Class 5,6,"Atchison(Atchison, KS)",55
 2025-10-03,McDonald County,21,Aurora,14
 2025-10-03,William Chrisman,41,Belton,43
 2025-10-03,Maryville,30,Benton,14
+2025-10-03,"(, )(0-5)Class 4",10,Blair Oaks,52
 2025-10-03,West Plains,35,Bolivar,12
 2025-10-03,Van-Far with Community,52,Bowling Green,28
 2025-10-03,Marshfield,18,Branson,49
@@ -721,14 +1143,17 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-03,Raytown South,6,Excelsior Springs,9
 2025-10-03,Springfield Catholic,36,Fair Grove,15
 2025-10-03,Union,14,Farmington,49
+2025-10-03,(2-5)Class 3,20,"Father Ryan(X, TN)",14
 2025-10-03,Reeds Spring,14,Forsyth,41
 2025-10-03,Ruskin,0,Fort Osage,49
 2025-10-03,Troy Buchanan,43,Francis Howell,27
 2025-10-03,Timberland,16,Francis Howell Central,14
 2025-10-03,Ft. Zumwalt West,65,Francis Howell North,0
 2025-10-03,Mexico,63,Fulton,42
+2025-10-03,Lutheran St. Charles,6,Gateway with Soldan International Studies,33
 2025-10-03,Herculaneum,26,Grandview (Hillsboro),36
 2025-10-03,Kirksville,6,Hannibal,42
+2025-10-03,(0-5)Class 6,18,"Harmon(Kansas City, KS)",25
 2025-10-03,South Callaway,36,Harrisburg,20
 2025-10-03,Pleasant Hill,6,Harrisonville,31
 2025-10-03,Hazelwood West,13,Hazelwood Central,27
@@ -750,6 +1175,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-03,Blue Springs South,34,Lee's Summit North,7
 2025-10-03,Knob Noster,49,Lexington,6
 2025-10-03,Staley,20,Liberty North,31
+2025-10-03,Diamond,13,Lighthouse Sr. High(1-4),21
 2025-10-03,Sarcoxie,49,Linn,12
 2025-10-03,Hillcrest,13,Logan-Rogersville,55
 2025-10-03,Crest Ridge with Chilhowee,38,Lone Jack with Kingsville,14
@@ -760,6 +1186,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-03,Montgomery County,38,Mark Twain,0
 2025-10-03,Hazelwood East,38,Marquette,14
 2025-10-03,Moberly,28,Marshall,6
+2025-10-03,(4-1)Class 1,42,"Maur Hill-Mount(Atchison, KS)",0
+2025-10-03,South Harrison,53,Maysville,6
 2025-10-03,Lathrop,7,Mid-Buchanan,41
 2025-10-03,East Newton,20,Monett,58
 2025-10-03,Liberty (Mountain View),6,Mountain Grove,35
@@ -781,6 +1209,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-03,Jefferson (Festus),0,Perryville,35
 2025-10-03,Marionville,50,Pierce City,13
 2025-10-03,Smithville,7,Platte County,49
+2025-10-03,Clinton,61,"Pleasant Hope with Marion C. Early, Halfway",0
 2025-10-03,Putnam County,41,Polo,14
 2025-10-03,Sikeston,14,Poplar Bluff,21
 2025-10-03,Central (Park Hills),31,Potosi,28
@@ -788,6 +1217,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-03,Blue Springs,38,Rockhurst,29
 2025-10-03,Eureka,28,Rockwood Summit,7
 2025-10-03,St. Mary's South Side,42,Rolla,21
+2025-10-03,(3-2)Class 1,6,"Rossville(Rossville, KS)",55
 2025-10-03,Willow Springs,12,Salem,20
 2025-10-03,Miller,22,Sarcoxie,28
 2025-10-03,Charleston,28,Saxony Lutheran,7
@@ -800,10 +1230,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-03,St. James,20,St. Clair,41
 2025-10-03,Father Tolton with Calvary Lutheran,24,St. Francis Borgia,21
 2025-10-03,Cuba,0,St. Pius X (Festus),70
+2025-10-03,"(, )(4-1)Class 4",27,St. Pius X (Kansas City),21
+2025-10-03,(2-3)Class 3,14,"St. Thomas Aquinas(Overland Park, KS)",43
 2025-10-03,Valle Catholic,31,Ste. Genevieve,13
 2025-10-03,Sherwood,28,Stockton,33
 2025-10-03,Hermann,7,Sullivan,35
-2025-10-03,Fayette,8,Tipton,79
+2025-10-03,(2-3)Class 4,32,"Sumner(Kansas City, KS)",28
+2025-10-03,Fayette,8,Tipton with Bunceton,79
 2025-10-03,Milan,0,Trenton,69
 2025-10-03,St. Michael the Archangel,21,Van Horn,14
 2025-10-03,SLUH,44,Vianney,16
@@ -817,19 +1250,84 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-03,Orchard Farm,53,Winfield,7
 2025-10-03,Lincoln College Prep,13,Winnetonka,7
 2025-10-03,South Shelby,16,Wright City,41
+2025-10-04,"Field Kindley(Coffeyville, KS)",0,(6-0)Class 1,54
+2025-10-04,University City,62,(1-5)Class 1,14
+2025-10-04,"Loyola(x, IL)",28,(2-4)Class 6,7
+2025-10-04,Northeast (Kansas City),0,"(, )(4-2)Class 1",49
 2025-10-04,Priory,6,John Burroughs,41
 2025-10-04,Lafayette (Wildwood),63,McCluer,6
 2025-10-04,Mehlville,28,McCluer North,12
+2025-10-04,Confluence Prep Academy Charter,18,Normandy Collaborative,26
 2025-10-04,St. Dominic,35,Riverview Gardens,0
 2025-10-04,Summit Christian Academy,19,University Academy Charter,30
 2025-10-04,Lutheran South,0,Westminster Christian Academy,43
 2025-10-09,Ft. Zumwalt North,42,Ft. Zumwalt South,6
 2025-10-09,Northwest (Cedar Hill),49,Hazelwood West,6
+2025-10-09,"(, )(4-3)Class 1",13,Pembroke Hill,30
 2025-10-09,Webster Groves,7,Ritenour,48
 2025-10-09,Normandy Collaborative,0,University City,62
+2025-10-10,"Cornerstone Christian(San Antonio, TX)",21,(6-2)Class 5,45
+2025-10-10,"Fremont(Fremont, NE)",24,(7-0)Class 4,37
+2025-10-10,"Trinity(Louisville, KY)",35,(2-5)Class 6,3
+2025-10-10,"Charlotte Christian(Charlotte, NC)",28,(3-4)Class 2,41
+2025-10-10,"Heritage(X, AR)",0,(6-0)Class 6,42
+2025-10-10,"Jonesboro(X, AR)",31,(3-3)Class 5,14
+2025-10-10,"Gentry(X, AR)",44,(2-4)Class 3,9
+2025-10-10,"Clarksville(X, AR)",16,(3-3)Class 4,55
+2025-10-10,"Bentonville(X, AR)",42,(0-6)Class 6,0
+2025-10-10,"Blytheville(X, AR)",26,(3-3)Class 3,14
+2025-10-10,"Russellville(X, AR)",0,(5-1)Class 5,43
+2025-10-10,"Yellville-Summit(X, AR)",41,(3-3)Class 2,52
+2025-10-10,"Nettleton(X, AR)",29,(3-3)Class 4,6
+2025-10-10,"Walnut Ridge(X, AR)",69,(0-6)Class 1,8
+2025-10-10,"Wyandotte(Kansas City, KS)",0,(5-1)Class 5,70
+2025-10-10,St. Pius X (Kansas City),45,(2-4)Class 3,21
+2025-10-10,"Harmon(Kansas City, KS)",0,(3-3)Class 4,44
+2025-10-10,Rockhurst,36,(5-1)Class 4,35
+2025-10-10,"Horton(Horton, KS)",0,(5-1)Class 1,46
+2025-10-10,"Olpe(Olpe, KS)",42,(3-3)Class 1,6
+2025-10-10,"Westside(X, AR)",10,(7-0)Class 3,57
+2025-10-10,"Wynne(X, AR)",0,(6-0)Class 1,31
+2025-10-10,"Mater Dei(x, IL)",35,(4-3)Class 3,58
+2025-10-10,"East St. Louis(x, IL)",55,(5-2)Class 6,7
+2025-10-10,"Alton(x, IL)",13,(3-4)Class 6,57
+2025-10-10,"Dekalb(x, IL)",19,(6-1)Class 6,48
+2025-10-10,"Centralia(x, IL)",8,(6-1)Class 4,40
+2025-10-10,"Warrensburg-Latham(x, IL)",13,(4-3)Class 2,46
+2025-10-10,"Chester(x, IL)",38,(6-1)Class 2,37
+2025-10-10,"O'Fallon(x, IL)",3,(3-4)Class 6,35
+2025-10-10,"Marmion(x, IL)",14,(5-2)Class 3,57
+2025-10-10,"East Alton-Wood River(x, IL)",0,(6-1)Class 4,63
+2025-10-10,"Lincoln(x, IL)",0,(7-0)Class 5,56
+2025-10-10,"Mt. Vernon(x, IL)",62,(0-7)Class 6,6
+2025-10-10,"Marquette Catholic(x, IL)",49,(1-6)Class 1,13
+2025-10-10,"Madison(x, IL)",13,(5-2)Class 3,49
+2025-10-10,"Civic Memorial(x, IL)",7,(5-2)Class 5,24
+2025-10-10,"Carterville(x, IL)",50,(2-5)Class 3,7
+2025-10-10,"Althoff Catholic(x, IL)",58,(2-5)Class 2,35
+2025-10-10,"Alleman(x, IL)",0,(6-1)Class 6,7
+2025-10-10,"Edwardsville(x, IL)",35,(3-4)Class 6,3
+2025-10-10,"Jacksonville(x, IL)",0,(5-2)Class 3,28
+2025-10-10,"Galesburg(x, IL)",22,(5-2)Class 6,44
+2025-10-10,"Wesclin(x, IL)",34,(1-6)Class 2,22
+2025-10-10,"Springfield(x, IL)",33,(6-1)Class 3,56
+2025-10-10,"Carlyle(x, IL)",8,(4-3)Class 3,41
+2025-10-10,"Marist(x, IL)",37,(2-5)Class 6,19
+2025-10-10,"Central A&M(x, IL)",14,(2-4)Class 1,35
+2025-10-10,"Olathe East(x, KS)",20,(3-2)Class 6,41
+2025-10-10,"Prairie View(x, KS)",49,(3-3)Class 2,8
+2025-10-10,"Pleasanton(x, KS)",41,(3-3)Class 1,6
+2025-10-10,"Olathe Northwest(x, KS)",43,(1-5)Class 5,7
+2025-10-10,"Olathe West(Olathe, KS)",52,(4-2)Class 5,36
+2025-10-10,"Olathe South(x, KS)",48,(3-3)Class 6,7
+2025-10-10,"Holton(x, KS)",22,(6-0)Class 2,53
+2025-10-10,"West(Topeka, KS)",0,(2-4)Class 5,42
 2025-10-10,Thayer,30,Ava,14
+2025-10-10,Herculaneum,37,Bayless with Hancock,20
 2025-10-10,Eldon,7,Blair Oaks,76
 2025-10-10,Liberty,3,Blue Springs South,42
+2025-10-10,(5-1)Class 4,28,"Blue Valley North(Overland Park, KS)",20
+2025-10-10,(0-6)Class 4,9,"Blue Valley West(Overland Park, KS)",49
 2025-10-10,Hillcrest,7,Bolivar,28
 2025-10-10,Osage,20,Boonville,27
 2025-10-10,Carl Junction,32,Branson,35
@@ -854,6 +1352,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-10,Portageville,53,Doniphan,21
 2025-10-10,Aurora,21,East Newton,47
 2025-10-10,Kelly,39,East Prairie,0
+2025-10-10,(5-1)Class 6,38,"Emporia(Emporia, KS)",0
 2025-10-10,Lafayette (Wildwood),35,Eureka,6
 2025-10-10,Grandview,7,Excelsior Springs,22
 2025-10-10,Lift for Life Academy Charter,28,Father Tolton with Calvary Lutheran,21
@@ -864,6 +1363,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-10,Troy Buchanan,7,Ft. Zumwalt West,21
 2025-10-10,Ozark,41,Glendale,42
 2025-10-10,Belton,25,Grain Valley,63
+2025-10-10,(4-3)Class 3,40,"Harrisburg(Harrisburg, IL)",21
 2025-10-10,Clinton,20,Harrisonville,13
 2025-10-10,McCluer North,0,Hazelwood East,44
 2025-10-10,Northwest (Cedar Hill),49,Hazelwood West,6
@@ -877,6 +1377,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-10,Sikeston,7,Jackson,75
 2025-10-10,Grandview (Hillsboro),33,Jefferson (Festus),30
 2025-10-10,Raytown South,0,Kearney,57
+2025-10-10,(7-0)Class 1,13,KIPP KC Legacy,0
 2025-10-10,Mexico,14,Kirksville,0
 2025-10-10,Lafayette County,13,Knob Noster,41
 2025-10-10,Rockwood Summit,16,Ladue Horton Watkins,21
@@ -896,11 +1397,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-10,Fulton,20,Marshall,53
 2025-10-10,Logan-Rogersville,49,Marshfield,7
 2025-10-10,Lutheran North,15,Maryville,37
+2025-10-10,Trenton,12,Maysville,6
 2025-10-10,Seneca,35,McDonald County,20
 2025-10-10,Oakville,53,Mehlville,0
 2025-10-10,North Platte,24,Mid-Buchanan,56
 2025-10-10,Gallatin with Tri-County,52,Milan,15
 2025-10-10,Skyline,14,Miller,19
+2025-10-10,St. Pius X (Festus),56,Miller Career Academy with Sumner,6
 2025-10-10,Hannibal,27,Moberly,0
 2025-10-10,Benton,6,Monroe City,44
 2025-10-10,Bowling Green,6,Montgomery County,42
@@ -908,15 +1411,19 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-10,Cassville,27,Nevada,20
 2025-10-10,Waynesville,14,Nixa,55
 2025-10-10,Mark Twain,0,North Callaway,56
+2025-10-10,"(, )(2-4)Class 4",44,Northeast (Kansas City),21
 2025-10-10,North Kansas City,41,Oak Park,27
+2025-10-10,Principia,0,Orchard Farm,72
 2025-10-10,Blue Springs,35,Park Hill South,6
 2025-10-10,Mt. Vernon,21,Parkview,7
 2025-10-10,Parkway West,14,Parkway North,19
 2025-10-10,Seckman,49,Parkway South,0
 2025-10-10,Hazelwood Central,6,Pattonville,43
 2025-10-10,Saxony Lutheran,42,Perryville,56
+2025-10-10,Lighthouse Sr. High(1-5),0,Pierce City,42
 2025-10-10,Lawson,50,Plattsburg,20
 2025-10-10,Odessa,26,Pleasant Hill,21
+2025-10-10,Hogan Prep Academy Charter,42,"Pleasant Hope with Marion C. Early, Halfway",0
 2025-10-10,Pacific,20,Potosi,27
 2025-10-10,Scotland County,0,Putnam County,55
 2025-10-10,Lee's Summit,31,Raymore-Peculiar,14
@@ -929,8 +1436,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-10,Louisiana,14,Salisbury,65
 2025-10-10,Marionville,40,Sarcoxie,0
 2025-10-10,Chillicothe,0,Savannah,35
+2025-10-10,(3-3)Class 5,0,"Schlagle(Kansas City, KS)",44
 2025-10-10,El Dorado Springs,27,Sherwood,13
 2025-10-10,Chaminade College Prep,10,SLUH,27
+2025-10-10,"(, )(2-4)Class 4",14,Smithville,24
 2025-10-10,Brookfield,6,South Harrison,23
 2025-10-10,Hallsville,12,Southern Boone,27
 2025-10-10,Winfield,20,St. Charles West,21
@@ -942,7 +1451,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-10,St. James,0,Sullivan,10
 2025-10-10,Van Horn,35,Summit Christian Academy,32
 2025-10-10,Francis Howell,44,Timberland,24
-2025-10-10,Linn,8,Tipton,77
+2025-10-10,Linn,8,Tipton with Bunceton,77
 2025-10-10,Platte County,63,Truman,0
 2025-10-10,Owensville,0,Union,35
 2025-10-10,Wright City,55,Van-Far with Community,26
@@ -951,7 +1460,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-10,St. Charles,20,Warrenton,40
 2025-10-10,Butler,0,Warsaw,48
 2025-10-10,North Point,27,Washington,21
+2025-10-10,(0-6)Class 6,0,"Washington(Kansas City, KS)",70
 2025-10-10,Willard,0,Webb City,55
+2025-10-10,(2-4)Class 2,20,"Wellsville(Wellsville, KS)",49
 2025-10-10,Poplar Bluff,12,West Plains,41
 2025-10-10,East Buchanan,7,West Platte,50
 2025-10-10,Crest Ridge with Chilhowee,44,Westran,14
@@ -964,17 +1475,73 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-11,Veritas Christian Academy,27,Priory,42
 2025-10-11,Affton,15,Riverview Gardens,14
 2025-10-11,John Burroughs,10,Westminster Christian Academy,3
+2025-10-16,"Olathe East(x, KS)",41,(1-6)Class 5,22
 2025-10-16,De Smet Jesuit,47,Cardinal Ritter,66
 2025-10-16,Washington,22,Ft. Zumwalt East,20
 2025-10-16,Hazelwood East,35,Hazelwood Central,0
 2025-10-16,Northwest (Cedar Hill),62,Parkway Central,9
 2025-10-16,Parkway West,41,Pattonville,29
+2025-10-17,"Warren G Harding(Warren, OH)",10,(7-2)Class 5,42
+2025-10-17,"Fulton County(Hickman, KY)",44,(0-8)Class 2,0
+2025-10-17,"Christ School(Arden, NC)",0,(4-4)Class 2,42
+2025-10-17,"Fayeteville(X, AR)",14,(7-0)Class 6,48
+2025-10-17,"Sheridan(X, AR)",51,(3-4)Class 5,36
+2025-10-17,"Lincoln(X, AR)",35,(3-4)Class 3,38
+2025-10-17,"Morrilton(X, AR)",38,(3-4)Class 4,34
+2025-10-17,"Northside(X, AR)",40,(1-6)Class 6,41
+2025-10-17,"Southside(X, AR)",38,(3-4)Class 3,6
+2025-10-17,"Siloam Springs(X, AR)",0,(6-1)Class 5,33
+2025-10-17,"Episcopal Collegiate(X, AR)",30,(4-3)Class 2,47
+2025-10-17,"Harding(X, AR)",26,(3-4)Class 4,6
+2025-10-17,"Hoxie(X, AR)",47,(0-7)Class 1,20
+2025-10-17,"Blue Valley North(Overland Park, KS)",24,(2-5)Class 3,20
+2025-10-17,"Kapaun Mt. Carmel(Wichita, KS)",35,(6-1)Class 4,38
+2025-10-17,"Sumner(Kansas City, KS)",46,(3-4)Class 5,0
+2025-10-17,"Washington(Kansas City, KS)",43,(3-4)Class 4,33
+2025-10-17,"Highland(X, AR)",6,(8-0)Class 3,38
+2025-10-17,"Brookland(X, AR)",14,(7-0)Class 1,42
+2025-10-17,"Belleville West(x, IL)",14,(6-2)Class 6,27
+2025-10-17,"Belleville East(x, IL)",27,(3-5)Class 6,14
+2025-10-17,"Lincoln-Way West(x, IL)",13,(7-1)Class 6,35
+2025-10-17,"Collinsville(x, IL)",14,(7-1)Class 4,35
+2025-10-17,"Ridgeview-Lexington(x, IL)",19,(5-3)Class 2,28
+2025-10-17,"Sparta/Steelville(x, IL)",23,(7-1)Class 2,29
+2025-10-17,"Alton(x, IL)",7,(4-4)Class 6,37
+2025-10-17,"Saint Viator(x, IL)",6,(6-2)Class 3,43
+2025-10-17,"Salem(x, IL)",18,(7-1)Class 4,45
+2025-10-17,"Sacred Heart-Griffin(x, IL)",31,(8-0)Class 5,35
+2025-10-17,Gateway with Soldan International Studies,29,(1-7)Class 1,6
+2025-10-17,"Highland(x, IL)",10,(6-2)Class 5,13
+2025-10-17,Saxony Lutheran,42,(2-6)Class 3,28
+2025-10-17,"St. Teresa(x, IL)",39,(3-5)Class 2,65
+2025-10-17,"East Moline United(x, IL)",0,(7-1)Class 6,35
+2025-10-17,"East St. Louis(x, IL)",48,(3-5)Class 6,6
+2025-10-17,"Lincoln(x, IL)",12,(6-2)Class 3,54
+2025-10-17,"Sterling(x, IL)",38,(5-3)Class 6,17
+2025-10-17,"Chester(x, IL)",42,(1-7)Class 2,18
+2025-10-17,"Glenwood(x, IL)",31,(7-1)Class 3,35
+2025-10-17,"Montini Catholic(x, IL)",49,(2-6)Class 6,7
+2025-10-17,"Mater Dei(x, IL)",65,(2-5)Class 1,39
+2025-10-17,"Olathe South(x, KS)",35,(4-2)Class 6,55
+2025-10-17,"Santa Fe Trail(x, KS)",33,(3-4)Class 2,14
+2025-10-17,"Tulsa NOAH Homeschool(x, KS)",6,(5-3)Class 1,62
+2025-10-17,"Jayhawk Linn(x, KS)",36,(3-4)Class 1,6
+2025-10-17,"Chanute(x, KS)",0,(3-4)Class 4,42
+2025-10-17,"Lawrence Free State(x, KS)",14,(4-3)Class 6,35
+2025-10-17,"Perry-Lecompton(x, KS)",7,(7-0)Class 2,48
+2025-10-17,"Piper(Kansas City, KS)",43,(2-5)Class 5,7
+2025-10-17,"DeSoto(DeSoto, KS)",59,(0-7)Class 4,33
+2025-10-17,"Ambassador Christian(Huntsville, NC)",0,(7-0)Class 4,46
+2025-10-17,"Carterville(Carterville, IL)",28,(4-4)Class 3,7
+2025-10-17,"Dupo(X, IL)",29,(4-4)Class 3,23
 2025-10-17,El Dorado Springs,13,Adrian,44
 2025-10-17,Lamar,42,Aurora,20
 2025-10-17,Cabool,7,Ava,56
+2025-10-17,(2-5)Class 2,14,"Baldwin(Bladwin, KS)",35
 2025-10-17,Jefferson City,48,Battle,40
 2025-10-17,Truman,34,Belton,48
 2025-10-17,Blue Springs South,35,Blue Springs,7
+2025-10-17,(6-1)Class 4,35,"Blue Valley Northwest(Overland Park, KS)",7
 2025-10-17,Logan-Rogersville,28,Branson,35
 2025-10-17,Milan,14,Brookfield,52
 2025-10-17,Reeds Spring,14,Buffalo,15
@@ -987,13 +1554,16 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-17,Lift for Life Academy Charter,16,Central (Cape Girardeau),17
 2025-10-17,Sikeston,38,Central (New Madrid County),18
 2025-10-17,Dexter,21,Central (Park Hills),22
+2025-10-17,(3-5)Class 3,27,"Christian Brothers College(Memphis, TN)",24
 2025-10-17,Westran,20,Clark County,32
 2025-10-17,Strafford,17,Clever,12
 2025-10-17,Warrensburg,28,Clinton,21
 2025-10-17,Salisbury,54,Crest Ridge with Chilhowee,6
 2025-10-17,Scotland County,52,Crystal City,30
+2025-10-17,Bayless with Hancock,20,Cuba,48
 2025-10-17,Potosi,40,DeSoto with Kingston,14
 2025-10-17,Sarcoxie,42,Diamond,14
+2025-10-17,"(, )(0-8)Class 6",13,Doniphan,21
 2025-10-17,Westminster Christian Academy,42,Duchesne,6
 2025-10-17,Plattsburg,34,East Buchanan,63
 2025-10-17,Charleston,41,East Prairie,14
@@ -1014,6 +1584,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-17,Smithville,77,Grandview,0
 2025-10-17,Blair Oaks,56,Hallsville,0
 2025-10-17,Marshall,6,Hannibal,51
+2025-10-17,(3-4)Class 4,32,"Harmon(Kansas City, KS)",6
 2025-10-17,Fayette,8,Harrisburg,28
 2025-10-17,Perryville,13,Herculaneum,16
 2025-10-17,Rock Bridge,10,Hickman,13
@@ -1021,9 +1592,12 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-17,Chaminade College Prep,42,Hillsboro,7
 2025-10-17,St. Charles West,50,Holt,52
 2025-10-17,Mountain Grove,46,Houston,13
+2025-10-17,Miller Career Academy with Sumner,6,Jackson,65
+2025-10-17,(5-2)Class 6,20,"Junction City(Junction City, KS)",35
 2025-10-17,Lutheran St. Charles,6,Kelly,13
 2025-10-17,Waynesville,7,Kickapoo,52
 2025-10-17,Ladue Horton Watkins,10,Kirkwood,49
+2025-10-17,Maysville,14,Lafayette (St. Joseph),32
 2025-10-17,Lindbergh,14,Lafayette (Wildwood),54
 2025-10-17,Lexington,20,Lafayette County,44
 2025-10-17,Staley,25,Lee's Summit,28
@@ -1034,6 +1608,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-17,Raytown South,6,Lincoln College Prep,27
 2025-10-17,Sherwood,6,Lone Jack with Kingsville,14
 2025-10-17,Mark Twain,14,Louisiana,49
+2025-10-17,Confluence Prep Academy Charter,6,Lutheran South,49
 2025-10-17,Ash Grove,7,Marionville,34
 2025-10-17,Rockwood Summit,36,Marquette,0
 2025-10-17,Savannah,42,Maryville,6
@@ -1049,6 +1624,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-17,Harrisonville,28,Oak Grove,7
 2025-10-17,Webster Groves,7,Oakville,48
 2025-10-17,Chillicothe,7,Odessa,21
+2025-10-17,(5-2)Class 5,63,"Olathe Northwest(Olathe, KS)",28
+2025-10-17,(3-5)Class 6,22,"Oldham County(Buckner, KY)",0
+2025-10-17,(7-1)Class 4,20,"Omaha Westside(Omaha, NE)",52
 2025-10-17,Warrenton,27,Orchard Farm,49
 2025-10-17,Sullivan,55,Owensville,10
 2025-10-17,Nixa,57,Ozark,7
@@ -1061,13 +1639,17 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-17,Mid-Buchanan,62,Penney,0
 2025-10-17,Ruskin,6,Platte County,70
 2025-10-17,Center,12,Pleasant Hill,49
+2025-10-17,Missouri Military Academy,32,"Pleasant Hope with Marion C. Early, Halfway",22
 2025-10-17,South Harrison,39,Polo,8
 2025-10-17,Kennett,8,Poplar Bluff,34
 2025-10-17,Caruthersville,48,Portageville,14
+2025-10-17,Priory,33,Principia,68
 2025-10-17,Neosho,14,Republic,42
 2025-10-17,Knob Noster,14,Richmond,24
 2025-10-17,McCluer North,0,Ritenour,42
-2025-10-17,Tipton,52,Sarcoxie,0
+2025-10-17,Tipton with Bunceton,52,Sarcoxie,0
+2025-10-17,"(, )(2-6)Class 3",28,Saxony Lutheran,42
+2025-10-17,(6-1)Class 5,41,"Schlagle(Kansas City, KS)",7
 2025-10-17,Hazelwood West,12,Seckman,54
 2025-10-17,East Newton,7,Seneca,56
 2025-10-17,Stockton,42,Skyline,26
@@ -1080,17 +1662,20 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-17,Hollister,60,Springfield Catholic,31
 2025-10-17,North County,24,St. Clair,14
 2025-10-17,Union,28,St. James,20
+2025-10-17,"(, )(4-4)Class 3",0,St. Mary's South Side,23
 2025-10-17,St. Pius X (Kansas City),48,St. Pius X (Festus),20
 2025-10-17,Grandview (Hillsboro),12,St. Vincent,44
 2025-10-17,Jefferson (Festus),14,Ste. Genevieve,55
 2025-10-17,Willow Springs,0,Thayer,69
 2025-10-17,Marceline,46,Trenton,10
+2025-10-17,(6-1)Class 1,16,"Troy(x, KS)",0
 2025-10-17,Francis Howell North,6,Troy Buchanan,73
 2025-10-17,Affton,0,University City,80
 2025-10-17,Bowling Green,6,Valle Catholic,56
 2025-10-17,North Callaway,50,Van-Far with Community,8
 2025-10-17,Cole Camp,35,Versailles,0
 2025-10-17,St. Francis Borgia,21,Vianney,42
+2025-10-17,(3-4)Class 1,21,"Wabaunsee(Alma, KS)",36
 2025-10-17,Marshfield,23,West Plains,46
 2025-10-17,Lathrop,14,West Platte,39
 2025-10-17,Joplin,49,Willard,8
@@ -1098,7 +1683,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-17,St. Charles,7,Winfield,20
 2025-10-17,Kearney,54,Winnetonka,7
 2025-10-17,Montgomery County,26,Wright City,20
+2025-10-18,"Oklahoma City Patriots(Oklahoma City, OK)",7,(8-0)Class 1,52
 2025-10-18,McDonald County,49,Central (Kansas City),0
+2025-10-18,"(, )(5-3)Class 3",14,Hayti,32
 2025-10-18,St. Michael the Archangel,72,Hogan Prep Academy Charter,8
 2025-10-18,Eureka,28,McCluer,0
 2025-10-18,St. Dominic,35,MICDS,28
@@ -1107,6 +1694,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-18,Malden,18,Veritas Christian Academy,27
 2025-10-20,St. Dominic,35,MICDS,28
 2025-10-20,Clayton with Brentwood,28,Normandy Collaborative,14
+2025-10-23,"Pinckneyville(x, IL)",7,(3-6)Class 3,48
 2025-10-23,Adrian,28,Cole Camp,27
 2025-10-23,Crystal City,12,Grandview (Hillsboro),42
 2025-10-23,Lift for Life Academy Charter,28,Helias Catholic,45
@@ -1122,21 +1710,82 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-23,Willard,7,Republic,59
 2025-10-23,Diamond,7,Skyline,67
 2025-10-23,Pierce City,27,Stockton,51
+2025-10-24,"Briarcrest(X, TN)",34,(3-6)Class 3,13
+2025-10-24,"Norfolk(Norfolk, NE)",13,(8-1)Class 4,35
+2025-10-24,"Rogers(X, AR)",28,(8-0)Class 6,31
+2025-10-24,"Benton(X, AR)",63,(3-5)Class 5,0
+2025-10-24,"Elkins(X, AR)",42,(3-5)Class 3,7
+2025-10-24,"Vilonia(X, AR)",0,(4-4)Class 4,31
+2025-10-24,"Bentonville West(X, AR)",56,(1-7)Class 6,28
+2025-10-24,"Lake Hamilton(X, AR)",7,(7-1)Class 5,42
+2025-10-24,"Salem(X, AR)",78,(4-4)Class 2,0
+2025-10-24,"Wynne(X, AR)",21,(3-5)Class 4,12
+2025-10-24,"Manila(X, AR)",43,(0-8)Class 1,6
+2025-10-24,"Highland(Topeka, KS)",42,(6-2)Class 5,16
+2025-10-24,Lincoln College Prep,38,(3-5)Class 4,32
+2025-10-24,"Riverside(Wathena, KS)",7,(7-1)Class 1,14
+2025-10-24,"Maranatha Christian(Shawnee, KS)",19,(4-4)Class 1,51
+2025-10-24,"Gosnell(X, AR)",29,(8-1)Class 3,16
+2025-10-24,"Greene County Tech(X, AR)",21,(8-0)Class 1,42
+2025-10-24,"Kaneland(x, IL)",55,(4-5)Class 3,28
+2025-10-24,Capital City,10,(7-2)Class 6,27
+2025-10-24,"Andrew(x, IL)",41,(8-1)Class 6,53
+2025-10-24,"Sycamore(x, IL)",30,(7-2)Class 4,28
+2025-10-24,Kelly,13,(6-3)Class 2,50
+2025-10-24,"East Alton-Wood River(x, IL)",24,(8-1)Class 2,69
+2025-10-24,"St. Rita(x, IL)",38,(6-3)Class 3,21
+2025-10-24,"Springfield(x, IL)",28,(9-0)Class 5,38
+2025-10-24,"Ottawa(x, IL)",52,(0-9)Class 6,0
+2025-10-24,"Wesclin(x, IL)",70,(1-8)Class 1,32
+2025-10-24,"Roxana(X, IL)",41,(5-4)Class 3,6
+2025-10-24,"Carbondale(x, IL)",28,(7-2)Class 5,47
+2025-10-24,"Mt. Zion(x, IL)",52,(3-6)Class 2,14
+2025-10-24,"Galesburg(x, IL)",6,(8-1)Class 6,63
+2025-10-24,"Lasalle-Peru(x, IL)",0,(4-5)Class 6,34
+2025-10-24,"MacArthur(x, IL)",7,(7-2)Class 3,49
+2025-10-24,"Geneseo(x, IL)",45,(5-4)Class 6,7
+2025-10-24,"Rochester(x, IL)",31,(7-2)Class 3,28
+2025-10-24,"Frankfort(x, IL)",66,(4-5)Class 3,41
+2025-10-24,"Brother Rice(x, IL)",21,(2-7)Class 6,13
+2025-10-24,"St. Bede(x, IL)",22,(3-5)Class 1,45
+2025-10-24,"Shawnee Mission West(x, KS)",7,(5-2)Class 6,48
+2025-10-24,"Girard(x, KS)",20,(3-5)Class 2,8
+2025-10-24,"St. Mary's-Colgan(x, KS)",61,(3-5)Class 1,7
+2025-10-24,"Gardner-Edgerton(x, KS)",48,(1-7)Class 5,7
+2025-10-24,"Shawnee Mission North(Shawnee Mission, KS)",14,(6-2)Class 5,49
+2025-10-24,"Topeka(x, KS)",12,(4-4)Class 4,34
+2025-10-24,"Olathe East(x, KS)",20,(4-4)Class 6,19
+2025-10-24,"Jefferson West(x, KS)",0,(8-0)Class 2,42
+2025-10-24,"Blue Valley West(Overland Park, KS)",24,(7-1)Class 4,39
+2025-10-24,"Santa Fe Trail(Carbondale, KS)",54,(2-6)Class 2,13
+2025-10-24,"Blue Valley Northwest(Overland Park, KS)",33,(0-8)Class 4,10
+2025-10-24,"Manhattan(Manhattan, KS)",43,(5-3)Class 6,0
+2025-10-24,"Ensworth(Nashville, TN)",21,(8-0)Class 4,35
 2025-10-24,Normandy Collaborative,14,Affton,15
 2025-10-24,Sarcoxie,10,Ash Grove,18
+2025-10-24,(0-7)Class 6,6,"Atchison(Atchison, KS)",56
 2025-10-24,Southern Boone,3,Blair Oaks,76
 2025-10-24,Lee's Summit West,9,Blue Springs South,42
+2025-10-24,(3-5)Class 3,41,"Blue Valley(Overland Park, KS)",34
+2025-10-24,(7-1)Class 4,34,"Blue Valley North(Overland Park, KS)",6
+2025-10-24,(3-5)Class 4,12,"Bonner Springs(Bonner Springs, KS)",14
 2025-10-24,Mark Twain,12,Bowling Green,38
 2025-10-24,Marceline,7,Brookfield,22
 2025-10-24,Salem,33,Cabool,6
+2025-10-24,(5-4)Class 2,56,"Cannon Concord(Concord, NC)",21
 2025-10-24,West Plains,37,Carl Junction,30
 2025-10-24,Lafayette County,35,Carrollton,18
 2025-10-24,Aurora,14,Cassville,42
+2025-10-24,(0-9)Class 2,14,"Caverna(Horse Cave, KY)",54
 2025-10-24,Clinton,43,Center,20
 2025-10-24,Hickman,27,Chaminade College Prep,37
 2025-10-24,Benton,6,Chillicothe,37
 2025-10-24,Riverview Gardens,6,Clayton with Brentwood,14
+2025-10-24,"(, )(4-5)Class 6",15,De Smet Jesuit,30
+2025-10-24,Gateway with Soldan International Studies,33,Doniphan,6
+2025-10-24,(4-5)Class 3,20,"DuQuoin(DuQuoin, IL)",47
 2025-10-24,McDonald County,28,East Newton,0
+2025-10-24,(4-5)Class 6,21,"Eastern(Louisville, KY)",3
 2025-10-24,Butler,14,El Dorado Springs,0
 2025-10-24,Boonville,58,Eldon,19
 2025-10-24,Pattonville,25,Eureka,49
@@ -1161,6 +1810,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-24,Knob Noster,28,Holden,14
 2025-10-24,University City,38,Jennings,6
 2025-10-24,Webb City,42,Joplin,28
+2025-10-24,"(, )(6-3)Class 2",50,Kelly,13
 2025-10-24,Central (Cape Girardeau),35,Kennett,8
 2025-10-24,Centralia,20,Kirksville,17
 2025-10-24,Fox,26,Ladue Horton Watkins,20
@@ -1179,6 +1829,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-24,Monroe City,54,Macon,21
 2025-10-24,Miller,6,Marionville,45
 2025-10-24,Smith-Cotton,36,Marshall,24
+2025-10-24,"(, )(3-5)Class 3",20,Marshfield,28
 2025-10-24,Lafayette (St. Joseph),0,Maryville,51
 2025-10-24,East Buchanan,7,Mid-Buchanan,63
 2025-10-24,Orchard Farm,30,Moberly,36
@@ -1190,6 +1841,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-24,Liberty,42,North Kansas City,21
 2025-10-24,West Platte,41,North Platte,34
 2025-10-24,St. Charles,10,North Point,67
+2025-10-24,"(, )(3-5)Class 5",12,Northeast (Kansas City),55
 2025-10-24,Oakville,10,Northwest (Cedar Hill),7
 2025-10-24,Park Hill,45,Oak Park,0
 2025-10-24,Harrisonville,28,Odessa,33
@@ -1202,7 +1854,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-24,McCluer,15,Parkway North,51
 2025-10-24,Hazelwood East,21,Parkway West,17
 2025-10-24,Plattsburg,14,Penney,48
+2025-10-24,Maysville,15,Polo,22
 2025-10-24,Hillsboro,21,Poplar Bluff,30
+2025-10-24,Lutheran South,49,Principia,36
 2025-10-24,Milan,0,Putnam County,53
 2025-10-24,Staley,20,Raymore-Peculiar,17
 2025-10-24,Platte County,42,Raytown,7
@@ -1213,12 +1867,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-24,Ritenour,0,Rockwood Summit,26
 2025-10-24,Belton,44,Ruskin,0
 2025-10-24,Westran,6,Salisbury,65
+2025-10-24,"(, )(1-8)Class 2",29,Saxony Lutheran,55
 2025-10-24,Van-Far with Community,46,Scotland County,14
 2025-10-24,Dexter,35,Scott City,3
+2025-10-24,(2-6)Class 5,16,"Shawnee Heights(Tecumseh, KS)",29
 2025-10-24,Versailles,0,Sherwood,54
 2025-10-24,Charleston,12,Sikeston,55
 2025-10-24,Winnetonka,0,Smithville,42
-2025-10-24,Tipton,30,South Callaway,8
+2025-10-24,Tipton with Bunceton,30,South Callaway,8
 2025-10-24,Camdenton,63,Southeast,0
 2025-10-24,Clever,13,Springfield Catholic,7
 2025-10-24,Potosi,48,St. Charles West,41
@@ -1236,17 +1892,24 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-24,St. Pius X (Festus),7,Valle Catholic,14
 2025-10-24,Pembroke Hill,17,Van Horn,24
 2025-10-24,Winfield,26,Veritas Christian Academy,7
+2025-10-24,"(, )(4-5)Class 6",21,Vianney,19
 2025-10-24,Oak Grove,0,Warrensburg,40
 2025-10-24,Ft. Zumwalt South,0,Warrenton,13
+2025-10-24,"Pleasant Hope with Marion C. Early, Halfway",6,Warsaw,86
 2025-10-24,Lebanon,56,Waynesville,7
 2025-10-24,Seckman,56,Webster Groves,23
 2025-10-24,Ava,77,Willow Springs,36
 2025-10-24,Crest Ridge with Chilhowee,20,Windsor,42
+2025-10-24,Bayless with Hancock,6,Windsor (Imperial),46
+2025-10-25,"Christ Prep(x, KS)",44,(5-4)Class 1,6
 2025-10-25,KIPP KC Legacy,6,Central (Kansas City),16
 2025-10-25,Summit Christian Academy,42,Hogan Prep Academy Charter,12
 2025-10-25,Parkway Central,7,McCluer North,38
+2025-10-25,(8-2)Class 5,21,"McKinley(Canton, OH)",14
 2025-10-25,Mexico,13,MICDS,35
 2025-10-25,Cuba,14,Perryville,56
+2025-10-25,"(, )(8-1)Class 4",42,Priory,14
+2025-10-25,(9-0)Class 1,44,"(St. Mary's, KS)'>St. Mary's(St. Mary's, KS)",6
 2025-10-25,Cameron,30,University Academy Charter,14
 2025-10-30,Plattsburg,20,Gallatin with Tri-County,54
 2025-10-30,Central (New Madrid County),46,Jefferson (Festus),22
@@ -1254,10 +1917,12 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-30,Diamond,0,Holden,56
 2025-10-30,Lexington,44,KIPP KC Legacy,6
 2025-10-30,Fredericktown,22,Central (Park Hills),37
+2025-10-30,Principia,22,Wright City,47
 2025-10-30,Owensville,7,St. Clair,46
 2025-10-30,Winfield,8,St. Charles West,43
 2025-10-30,Strafford,7,St. James,29
 2025-10-30,Reeds Spring,0,Cassville,52
+2025-10-30,Bayless with Hancock,0,Sullivan,48
 2025-10-30,Affton,0,Union,43
 2025-10-30,Raytown South,24,Lincoln College Prep,13
 2025-10-30,Excelsior Springs,14,Van Horn,49
@@ -1267,6 +1932,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-30,Clayton with Brentwood,0,Holt,50
 2025-10-30,St. Charles,3,Orchard Farm,62
 2025-10-30,Mehlville,0,Central (Cape Girardeau),44
+2025-10-30,Miller Career Academy with Sumner,14,Webster Groves,41
 2025-10-30,Parkway South,0,Rockwood Summit,43
 2025-10-30,Ruskin,0,Belton,48
 2025-10-30,Grandview,7,Smith-Cotton,48
@@ -1293,6 +1959,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-31,Linn,18,Skyline,63
 2025-10-31,Sherwood,36,Crest Ridge with Chilhowee,28
 2025-10-31,Polo,46,Midway,36
+2025-10-31,Maysville,27,Penney,42
 2025-10-31,East Prairie,0,St. Pius X (Festus),64
 2025-10-31,Kelly,0,St. Vincent,36
 2025-10-31,Cuba,20,Hermann,32
@@ -1322,6 +1989,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-31,California,15,Moberly,45
 2025-10-31,Fulton,14,Southern Boone,28
 2025-10-31,Buffalo,14,Salem,20
+2025-10-31,"Pleasant Hope with Marion C. Early, Halfway",0,Clever,48
 2025-10-31,East Newton,21,Hollister,12
 2025-10-31,Aurora,14,Mt. Vernon,38
 2025-10-31,Sikeston,21,Hillsboro,35
@@ -1334,6 +2002,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-10-31,McDonald County,28,Monett,36
 2025-10-31,Marshfield,7,Logan-Rogersville,29
 2025-10-31,Bolivar,14,Carl Junction,35
+2025-10-31,Jennings,13,Confluence Prep Academy Charter,0
 2025-10-31,Poplar Bluff,14,Fox,49
 2025-10-31,Washington,14,Rolla,35
 2025-10-31,Winnetonka,27,St. Pius X (Kansas City),59
@@ -1360,7 +2029,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-11-07,South Shelby,29,Scotland County,28
 2025-11-07,Pierce City,15,Thayer,60
 2025-11-07,Miller,21,Marionville,53
-2025-11-07,Skyline,20,Tipton,60
+2025-11-07,Skyline,20,Tipton with Bunceton,60
 2025-11-07,Sarcoxie,35,Cole Camp,21
 2025-11-07,Sherwood,6,Windsor,53
 2025-11-07,Polo,0,Adrian,47
@@ -1445,12 +2114,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-11-07,Kickapoo,6,Joplin,28
 2025-11-07,Blue Springs,29,Blue Springs South,10
 2025-11-07,Hickman,20,Helias Catholic,23
+2025-11-08,Lutheran North,34,Gateway with Soldan International Studies,0
 2025-11-14,Hayti,38,Portageville,13
 2025-11-14,Van-Far with Community,22,Grandview (Hillsboro),18
 2025-11-14,Harrisburg,0,Salisbury,50
 2025-11-14,South Shelby,0,Putnam County,56
 2025-11-14,Marionville,21,Thayer,42
-2025-11-14,Sarcoxie,18,Tipton,53
+2025-11-14,Sarcoxie,18,Tipton with Bunceton,53
 2025-11-14,Adrian,41,Windsor,20
 2025-11-14,North Platte,30,West Platte,40
 2025-11-14,St. Pius X (Festus),28,Caruthersville,14
@@ -1500,7 +2170,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-11-21,Liberty,14,Lee's Summit,24
 2025-11-21,Helias Catholic,28,Nixa,45
 2025-11-22,Van-Far with Community,14,Hayti,38
-2025-11-22,Tipton,22,Thayer,14
+2025-11-22,Tipton with Bunceton,22,Thayer,14
 2025-11-22,West Platte,34,Adrian,7
 2025-11-22,Montgomery County,0,St. Pius X (Festus),14
 2025-11-22,Mid-Buchanan,21,Monroe City,58
@@ -1521,7 +2191,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-11-28,Monroe City,36,St. Pius X (Festus),40
 2025-11-28,Platte County,64,Kirkwood,35
 2025-11-29,Putnam County,53,Hayti,22
-2025-11-29,West Platte,0,Tipton,26
+2025-11-29,West Platte,0,Tipton with Bunceton,26
 2025-11-29,Blair Oaks,42,Liberty (Mountain View),0
 2025-11-29,St. Michael the Archangel,28,Lift for Life Academy Charter,48
 2025-11-29,Seneca,57,St. Clair,20
@@ -1530,7 +2200,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2025-11-29,Lee's Summit,35,Jackson,28
 2025-11-29,Nixa,45,Pattonville,0
 2025-11-30,Hannibal,41,St. Mary's South Side,0
-2025-12-05,Tipton,39,Putnam County,14
+2025-12-05,Tipton with Bunceton,39,Putnam County,14
 2025-12-05,Seneca,33,Lift for Life Academy Charter,26
 2025-12-05,Carthage,28,Platte County,34
 2025-12-06,Blair Oaks,59,St. Pius X (Festus),0
