@@ -1,11 +1,7 @@
 name: Scrape Football Schedule (2025)
  
 on:
-  schedule:
-    # Runs daily at 9:00 AM UTC (~3-4 AM Central, depending on DST) during
-    # the season. Adjust the cron or add/remove entries as needed.
-    - cron: "0 9 * * *"
-  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  workflow_dispatch: {}   # manual trigger only, from the Actions tab
  
 permissions:
   contents: write   # needed so the workflow can commit the output CSV back
@@ -42,4 +38,3 @@ jobs:
             git commit -m "Update football_scoreboard_2025.csv [automated]"
             git push
           fi
- 
